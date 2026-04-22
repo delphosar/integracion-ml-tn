@@ -109,4 +109,20 @@ async function fetchAllItems(userId, { onBatch, withDescriptions = false } = {})
   console.log();
 }
 
-module.exports = { getAllItemIds, getItemDetail, getItemDescription, fetchAllItems };
+// Obtiene precio, stock y variaciones de hasta 20 items en un solo request
+// Retorna array de { code, body } (body es el item si code=200)
+async function fetchItemsBatch(ids, token) {
+  const headers = token
+    ? { Authorization: `Bearer ${token}` }
+    : getHeaders();
+  const { data } = await axios.get(`${BASE_URL}/items`, {
+    headers,
+    params: {
+      ids: ids.join(','),
+      attributes: 'id,price,original_price,available_quantity,variations,status',
+    },
+  });
+  return data; // [{ code: 200, body: {...} }, ...]
+}
+
+module.exports = { getAllItemIds, getItemDetail, getItemDescription, fetchAllItems, fetchItemsBatch };
