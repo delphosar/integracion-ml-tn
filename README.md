@@ -213,7 +213,11 @@ Mapping:
 - Si ML tiene `original_price`: TN `price = original_price`, TN `promotional_price = price`
 - Si no: TN `price = price`, sin `promotional_price`
 
-Para productos con variaciones, el precio tachado de cada variante se calcula aplicando el ratio `original_price / price` del item padre.
+Para productos con variaciones, el precio tachado de cada variante se determina así:
+- Si `variation.price === item.price` → se usa `item.original_price` **directamente** (sin cálculos), garantizando que el cliente vea exactamente el mismo valor que en ML.
+- Si `variation.price` difiere del item (ej: talle premium con precio distinto) → se calcula aplicando el ratio `original_price / price` del item padre.
+
+Esta lógica está implementada consistentemente en `ml-to-tn-mapper.js`, `sync-delta.js` y `update-prices-tn.js`.
 
 ---
 

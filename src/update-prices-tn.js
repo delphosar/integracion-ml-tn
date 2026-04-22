@@ -72,23 +72,16 @@ async function main() {
     try {
       // Obtenemos las variantes actuales del producto en TN
       const product = await getProduct(tnId);
-      const discountRatio = selling / original;
 
       let variantOk = 0;
       let variantErr = 0;
 
       for (const v of product.variants ?? []) {
-        const currentPrice = parseFloat(v.price);
-
-        // Si la variante ya tiene promotional_price seteado, ya fue actualizada
-        // la corremos igual para asegurarnos que los valores son correctos.
-        const varOriginal = v.promotional_price
-          ? parseFloat(v.price)                                            // price ya es el original
-          : Math.round((currentPrice / discountRatio) * 100) / 100;       // calcular el original
-
-        const varPromo = v.promotional_price
-          ? parseFloat(v.promotional_price)                               // mantener el promo actual
-          : currentPrice;                                                  // precio actual → pasa a promo
+        // Siempre derivar desde los datos de ML, ignorando el estado actual de TN.
+        // Garantiza que TN quede con exactamente los mismos valores que ML,
+        // sin importar si la variante ya tenía o no promotional_price seteado antes.
+        const varOriginal = original;
+        const varPromo    = selling;
 
         // Sanidad: no enviar si el promo termina >= al precio regular
         if (varPromo >= varOriginal) {

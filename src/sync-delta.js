@@ -219,9 +219,12 @@ async function applyVariationsProduct(mlItem, tnId, changes, db) {
   );
 }
 
-// Calcula el precio "original" (tachado) de una variación a partir del ratio del item
+// Calcula el precio "original" (tachado) de una variación.
+// Si la variación tiene el mismo precio que el item, usa original_price directo
+// para evitar diferencias de redondeo flotante.
 function computeVariationOriginalPrice(mlItem, variationPrice) {
   if (!mlItem.original_price || !mlItem.price || mlItem.price === 0) return null;
+  if (variationPrice === mlItem.price) return mlItem.original_price;
   const ratio = mlItem.original_price / mlItem.price;
   return Math.round(variationPrice * ratio * 100) / 100;
 }
