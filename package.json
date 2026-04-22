@@ -12,7 +12,11 @@
     "fetch-categories": "node src/fetch-ml-categories.js",
     "sync-categories": "node src/sync-categories-tn.js",
     "update-prices": "node src/update-prices-tn.js",
-    "update-prices:dry": "node src/update-prices-tn.js --dry-run"
+    "update-prices:dry": "node src/update-prices-tn.js --dry-run",
+    "sync:delta": "node src/sync-delta.js",
+    "sync:delta:dry": "node src/sync-delta.js --dry-run",
+    "sync:new": "node src/sync-new-items.js",
+    "sync:new:dry": "node src/sync-new-items.js --dry-run"
   },
   "dependencies": {
     "axios": "^1.7.9",

@@ -67,11 +67,15 @@ function mapMlItemToTn(item) {
 
   // 2. Construir cada variant de TN
   // original_price en ML vive a nivel del item, no de la variación.
-  // Calculamos el ratio de descuento del item y lo aplicamos a cada variación.
-  const discountRatio =
-    item.original_price && item.original_price > item.price
-      ? item.price / item.original_price
-      : null;
+  // Si la variación tiene el mismo precio que el item, usamos original_price directo
+  // para evitar diferencias de redondeo. Solo calculamos por ratio cuando el precio
+  // de la variación difiere del item (ej: distintos talles con distinto precio base).
+  function computeVarOriginal(varPrice) {
+    if (!item.original_price || item.original_price <= item.price) return null;
+    if (varPrice === item.price) return item.original_price;
+    const ratio = item.original_price / item.price;
+    return Math.round(varPrice * ratio * 100) / 100;
+  }
 
   const variants = variations.map((v) => {
     // values en el mismo orden que attributes (máximo MAX_ATTRS)
@@ -88,9 +92,7 @@ function mapMlItemToTn(item) {
       .filter(Boolean);
 
     const varSellingPrice = v.price ?? item.price ?? 0;
-    const varOriginalPrice = discountRatio
-      ? Math.round((varSellingPrice / discountRatio) * 100) / 100
-      : null;
+    const varOriginalPrice = computeVarOriginal(varSellingPrice);
 
     return {
       ...buildPrices(varSellingPrice, varOriginalPrice),

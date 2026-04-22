@@ -135,6 +135,13 @@ function runMigrations() {
       name            TEXT,
       synced_at       TEXT
     )`,
+    `CREATE TABLE IF NOT EXISTS ml_tokens (
+      id            INTEGER PRIMARY KEY CHECK (id = 1),
+      access_token  TEXT NOT NULL,
+      refresh_token TEXT NOT NULL,
+      expires_at    INTEGER NOT NULL,
+      updated_at    TEXT
+    )`,
   ];
   for (const sql of migrations) {
     try { db.run(sql); } catch (_) { /* ya existe, ignorar */ }
@@ -225,6 +232,29 @@ function markProductSynced(mlItemId) {
     `UPDATE tn_products SET last_synced_at = datetime('now') WHERE ml_item_id = ?`,
     [mlItemId]
   );
+}
+
+function getTokens() {
+  const result = db.exec(
+    `SELECT access_token, refresh_token, expires_at, updated_at FROM ml_tokens WHERE id = 1`
+  );
+  if (!result[0]?.values?.length) return null;
+  const [cols, row] = [result[0].columns, result[0].values[0]];
+  return Object.fromEntries(cols.map((c, i) => [c, row[i]]));
+}
+
+function saveTokens({ access_token, refresh_token, expires_at }) {
+  db.run(
+    `INSERT INTO ml_tokens (id, access_token, refresh_token, expires_at, updated_at)
+     VALUES (1, ?, ?, ?, datetime('now'))
+     ON CONFLICT(id) DO UPDATE SET
+       access_token  = excluded.access_token,
+       refresh_token = excluded.refresh_token,
+       expires_at    = excluded.expires_at,
+       updated_at    = excluded.updated_at`,
+    [access_token, refresh_token, expires_at]
+  );
+  saveToFile();
 }
 
 function saveToFile() {
@@ -387,4 +417,5 @@ module.exports = {
   saveMlCategory, getDistinctCategoryIds, getExistingCategoryIds, getAllCategories,
   saveTnCategory, getTnCategoryByMlId, getExistingTnCategoryMlIds,
   getProductsForCategoryUpdate, markProductSynced,
+  getTokens, saveTokens,
 };
