@@ -1,0 +1,24 @@
+{
+  "name": "ml-sync",
+  "version": "1.0.0",
+  "description": "Sincronización de productos MercadoLibre a SQLite local",
+  "main": "src/sync.js",
+  "scripts": {
+    "sync": "node src/sync.js",
+    "sync:full": "node src/sync.js --full",
+    "import-mapping": "node src/import-ml-mapping.js",
+    "migrate": "node src/migrate-all.js",
+    "migrate:dry": "node src/migrate-all.js --dry-run",
+    "fetch-categories": "node src/fetch-ml-categories.js",
+    "sync-categories": "node src/sync-categories-tn.js",
+    "update-prices": "node src/update-prices-tn.js",
+    "update-prices:dry": "node src/update-prices-tn.js --dry-run"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "open": "^11.0.0",
+    "sql.js": "^1.12.0",
+    "xlsx": "^0.18.5"
+  }
+}
