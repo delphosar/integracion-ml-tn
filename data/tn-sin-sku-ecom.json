@@ -1,0 +1,377 @@
+[
+  {
+    "mlaId": "MLA1126785840",
+    "tnProductId": "337698653",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA1371599383",
+    "tnProductId": "337701993",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA1461590095",
+    "tnProductId": "337709073",
+    "reason": "con-pl-sin-sku",
+    "productListings": [
+      {
+        "productId": "12421642",
+        "productVariantId": null
+      }
+    ]
+  },
+  {
+    "mlaId": "MLA1519595693",
+    "tnProductId": "337715809",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA1536229641",
+    "tnProductId": "337716085",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA1548192643",
+    "tnProductId": "337716206",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA1551004367",
+    "tnProductId": "337716342",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA1558297287",
+    "tnProductId": "337716853",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA1563046823",
+    "tnProductId": "337717937",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA1566557489",
+    "tnProductId": "337718268",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA1594950087",
+    "tnProductId": "337719241",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA1667855495",
+    "tnProductId": "337721192",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA1678607049",
+    "tnProductId": "337721697",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA1679411573",
+    "tnProductId": "337721901",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA1701988399",
+    "tnProductId": "337722500",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA1703760247",
+    "tnProductId": "337722634",
+    "reason": "con-pl-sin-sku",
+    "productListings": [
+      {
+        "productId": "12798069",
+        "productVariantId": null
+      }
+    ]
+  },
+  {
+    "mlaId": "MLA1935955730",
+    "tnProductId": "337727623",
+    "reason": "con-pl-sin-sku",
+    "productListings": [
+      {
+        "productId": "12421642",
+        "productVariantId": null
+      },
+      {
+        "productId": "12386301",
+        "productVariantId": null
+      }
+    ]
+  },
+  {
+    "mlaId": "MLA1962711192",
+    "tnProductId": "337728668",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA1963519432",
+    "tnProductId": "337728720",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA1968810860",
+    "tnProductId": "337729072",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA1972853264",
+    "tnProductId": "337729407",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA2003452580",
+    "tnProductId": "337730059",
+    "reason": "con-pl-sin-sku",
+    "productListings": [
+      {
+        "productId": "12421642",
+        "productVariantId": null
+      },
+      {
+        "productId": "12386301",
+        "productVariantId": null
+      }
+    ]
+  },
+  {
+    "mlaId": "MLA2009531382",
+    "tnProductId": "337730316",
+    "reason": "con-pl-sin-sku",
+    "productListings": [
+      {
+        "productId": "12421642",
+        "productVariantId": null
+      },
+      {
+        "productId": "12367382",
+        "productVariantId": null
+      }
+    ]
+  },
+  {
+    "mlaId": "MLA2026064174",
+    "tnProductId": "337731339",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA2046010258",
+    "tnProductId": "337733951",
+    "reason": "con-pl-sin-sku",
+    "productListings": [
+      {
+        "productId": "12421642",
+        "productVariantId": null
+      }
+    ]
+  },
+  {
+    "mlaId": "MLA2213706272",
+    "tnProductId": "337737863",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA2269559228",
+    "tnProductId": "337738518",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA2357117986",
+    "tnProductId": "337739359",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA2378134808",
+    "tnProductId": "337739441",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA2416568222",
+    "tnProductId": "337739580",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA2419535218",
+    "tnProductId": "337739828",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA2424660724",
+    "tnProductId": "337739949",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA2424675032",
+    "tnProductId": "337739999",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA2471747234",
+    "tnProductId": "337741065",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA2472267354",
+    "tnProductId": "337741242",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA2474695520",
+    "tnProductId": "337741507",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA2489119452",
+    "tnProductId": "337741682",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA2535479976",
+    "tnProductId": "337742286",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA2624240692",
+    "tnProductId": "337742795",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA2841515720",
+    "tnProductId": "337744964",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA2906560830",
+    "tnProductId": "337747089",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA2907543818",
+    "tnProductId": "337747156",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA2912046992",
+    "tnProductId": "337747247",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA2999218702",
+    "tnProductId": "337747352",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA3091417826",
+    "tnProductId": "337747833",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA3111969132",
+    "tnProductId": "337747949",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA3132442932",
+    "tnProductId": "337748145",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA3136380406",
+    "tnProductId": "337748180",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA3146398078",
+    "tnProductId": "337748237",
+    "reason": "con-pl-sin-sku",
+    "productListings": [
+      {
+        "productId": "12421642",
+        "productVariantId": null
+      },
+      {
+        "productId": "12367382",
+        "productVariantId": null
+      }
+    ]
+  },
+  {
+    "mlaId": "MLA796328620",
+    "tnProductId": "337755157",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA814568407",
+    "tnProductId": "337756243",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA827956396",
+    "tnProductId": "337757828",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA903609496",
+    "tnProductId": "337761664",
+    "reason": "sin-product-listings",
+    "productListings": []
+  },
+  {
+    "mlaId": "MLA903624251",
+    "tnProductId": "337761904",
+    "reason": "sin-product-listings",
+    "productListings": []
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "reason": "two-erp-skus",
+    "title": "Banco Nórdico Amelia Pie De Cama / Recibidor Madera Madera",
+    "members": [
+      {
+        "tn_product_id": "341430338",
+        "title": "Banco Nórdico Amelia Pie De Cama / Recibidor Madera Madera",
+        "sku": "PAV-0022",
+        "variant_count": 1,
+        "type": "erp",
+        "created_at": null
+      },
+      {
+        "tn_product_id": "341432506",
+        "title": "Banco Nórdico Amelia Pie De Cama / Recibidor Madera Madera",
+        "sku": "PAV-0012",
+        "variant_count": 1,
+        "type": "erp",
+        "created_at": null
+      }
+    ]
+  },
+  {
+    "reason": "two-erp-skus",
+    "title": "Juego Comedor Eames Mesa Vidrio 120x80cm + 4 Sillas Oslo C Blanco Oslo Tulip",
+    "members": [
+      {
+        "tn_product_id": "337723947",
+        "title": "Juego Comedor Eames Mesa Vidrio 120x80cm + 4 Sillas Oslo C Blanco Oslo Tulip",
+        "sku": "XB-P20M/B",
+        "variant_count": 1,
+        "type": "erp",
+        "created_at": null
+      },
+      {
+        "tn_product_id": "339735231",
+        "title": "Juego Comedor Eames Mesa Vidrio 120x80cm + 4 Sillas Oslo C Blanco Oslo Tulip",
+        "sku": "13441",
+        "variant_count": 1,
+        "type": "erp",
+        "created_at": null
+      }
+    ]
+  }
+]

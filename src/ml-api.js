@@ -125,4 +125,18 @@ async function fetchItemsBatch(ids, token) {
   return data; // [{ code: 200, body: {...} }, ...]
 }
 
-module.exports = { getAllItemIds, getItemDetail, getItemDescription, fetchAllItems, fetchItemsBatch };
+// Obtiene todas las promociones activas de un item desde /seller-promotions
+async function getItemPromotions(itemId, token) {
+  const headers = token ? { Authorization: `Bearer ${token}` } : getHeaders();
+  try {
+    const { data } = await axios.get(
+      `${BASE_URL}/seller-promotions/items/${itemId}?app_version=v2`,
+      { headers }
+    );
+    return Array.isArray(data) ? data : [];
+  } catch {
+    return [];
+  }
+}
+
+module.exports = { getAllItemIds, getItemDetail, getItemDescription, fetchAllItems, fetchItemsBatch, getItemPromotions };

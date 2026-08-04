@@ -142,6 +142,23 @@ function runMigrations() {
       expires_at    INTEGER NOT NULL,
       updated_at    TEXT
     )`,
+    `CREATE TABLE IF NOT EXISTS ecom_session (
+      id         INTEGER PRIMARY KEY CHECK (id = 1),
+      cookie     TEXT NOT NULL,
+      expires_at INTEGER NOT NULL
+    )`,
+    `CREATE TABLE IF NOT EXISTS tn_order_log (
+      id           INTEGER PRIMARY KEY AUTOINCREMENT,
+      tn_order_id  TEXT NOT NULL,
+      tn_sku       TEXT,
+      erp_sku      TEXT,
+      qty_sold     INTEGER,
+      qty_before   INTEGER,
+      qty_after    INTEGER,
+      status       TEXT,
+      error        TEXT,
+      processed_at TEXT
+    )`,
   ];
   for (const sql of migrations) {
     try { db.run(sql); } catch (_) { /* ya existe, ignorar */ }
@@ -241,6 +258,36 @@ function getTokens() {
   if (!result[0]?.values?.length) return null;
   const [cols, row] = [result[0].columns, result[0].values[0]];
   return Object.fromEntries(cols.map((c, i) => [c, row[i]]));
+}
+
+function saveEcomSession(cookie, expires_at) {
+  db.run(
+    `INSERT INTO ecom_session (id, cookie, expires_at) VALUES (1, ?, ?)
+     ON CONFLICT(id) DO UPDATE SET cookie = excluded.cookie, expires_at = excluded.expires_at`,
+    [cookie, expires_at]
+  );
+  saveToFile();
+}
+
+function getEcomSession() {
+  const result = db.exec(`SELECT cookie, expires_at FROM ecom_session WHERE id = 1`);
+  if (!result[0]?.values?.length) return null;
+  const [cols, row] = [result[0].columns, result[0].values[0]];
+  return Object.fromEntries(cols.map((c, i) => [c, row[i]]));
+}
+
+function logTnOrder(entry) {
+  db.run(
+    `INSERT INTO tn_order_log
+       (tn_order_id, tn_sku, erp_sku, qty_sold, qty_before, qty_after, status, error, processed_at)
+     VALUES (?, ?, ?, ?, ?, ?, ?, ?, datetime('now'))`,
+    [
+      n(entry.tn_order_id), n(entry.tn_sku),    n(entry.erp_sku),
+      n(entry.qty_sold),    n(entry.qty_before), n(entry.qty_after),
+      n(entry.status),      n(entry.error),
+    ]
+  );
+  saveToFile();
 }
 
 function saveTokens({ access_token, refresh_token, expires_at }) {
@@ -411,6 +458,14 @@ function getTnProduct(mlItemId) {
   return Object.fromEntries(cols.map((c, i) => [c, row[i]]));
 }
 
+// Ejecuta una query SQL y retorna array de objetos.
+function rawQuery(sql, params = []) {
+  const rows = db.exec(sql, params);
+  if (!rows.length) return [];
+  const { columns, values } = rows[0];
+  return values.map(row => Object.fromEntries(columns.map((c, i) => [c, row[i]])));
+}
+
 module.exports = {
   getDb, upsertItem, saveToFile, startSyncLog, finishSyncLog, getStats,
   getErpMapping, saveTnProduct, getTnProduct,
@@ -418,4 +473,7 @@ module.exports = {
   saveTnCategory, getTnCategoryByMlId, getExistingTnCategoryMlIds,
   getProductsForCategoryUpdate, markProductSynced,
   getTokens, saveTokens,
+  saveEcomSession, getEcomSession,
+  logTnOrder,
+  rawQuery,
 };

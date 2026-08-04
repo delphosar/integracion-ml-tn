@@ -1,0 +1,298 @@
+{
+  "mlListings.find (con productListings)": {
+    "mlListings": {
+      "find": {
+        "data": [
+          {
+            "id": "92482614",
+            "owner": "MlItem",
+            "ownerId": "MLA3268153772",
+            "productListings": []
+          },
+          {
+            "id": "92482613",
+            "owner": "MlItem",
+            "ownerId": "MLA3268203462",
+            "productListings": []
+          },
+          {
+            "id": "92482608",
+            "owner": "MlItem",
+            "ownerId": "MLA3267956078",
+            "productListings": [
+              {
+                "productId": "12348531",
+                "productVariantId": "16258767",
+                "productVariantListings": []
+              },
+              {
+                "productId": "12798077",
+                "productVariantId": "46169905",
+                "productVariantListings": []
+              }
+            ]
+          },
+          {
+            "id": "92482252",
+            "owner": "MlItem",
+            "ownerId": "MLA3268082648",
+            "productListings": []
+          },
+          {
+            "id": "92481330",
+            "owner": "MlItem",
+            "ownerId": "MLA3266965310",
+            "productListings": [
+              {
+                "productId": "12549367",
+                "productVariantId": null,
+                "productVariantListings": []
+              },
+              {
+                "productId": "12798077",
+                "productVariantId": "46169914",
+                "productVariantListings": []
+              }
+            ]
+          },
+          {
+            "id": "92480182",
+            "owner": "MlItem",
+            "ownerId": "MLA3265428216",
+            "productListings": []
+          },
+          {
+            "id": "92480177",
+            "owner": "MlItem",
+            "ownerId": "MLA3265428134",
+            "productListings": []
+          },
+          {
+            "id": "92480129",
+            "owner": "MlItem",
+            "ownerId": "MLA3265426950",
+            "productListings": [
+              {
+                "productId": "12803160",
+                "productVariantId": null,
+                "productVariantListings": []
+              },
+              {
+                "productId": "12798084",
+                "productVariantId": "46169958",
+                "productVariantListings": []
+              }
+            ]
+          },
+          {
+            "id": "92477986",
+            "owner": "MlItem",
+            "ownerId": "MLA1771909413",
+            "productListings": []
+          },
+          {
+            "id": "92477985",
+            "owner": "MlItem",
+            "ownerId": "MLA1771909411",
+            "productListings": []
+          },
+          {
+            "id": "92458675",
+            "owner": "MlItem",
+            "ownerId": "MLA3260306014",
+            "productListings": [
+              {
+                "productId": "12549367",
+                "productVariantId": null,
+                "productVariantListings": []
+              },
+              {
+                "productId": "12798077",
+                "productVariantId": "46169104",
+                "productVariantListings": []
+              }
+            ]
+          },
+          {
+            "id": "92448719",
+            "owner": "MlItem",
+            "ownerId": "MLA3260087528",
+            "productListings": []
+          },
+          {
+            "id": "92448717",
+            "owner": "MlItem",
+            "ownerId": "MLA3260074618",
+            "productListings": []
+          },
+          {
+            "id": "92447881",
+            "owner": "MlItem",
+            "ownerId": "MLA1771110615",
+            "productListings": []
+          },
+          {
+            "id": "92447879",
+            "owner": "MlItem",
+            "ownerId": "MLA1771072559",
+            "productListings": []
+          },
+          {
+            "id": "92440026",
+            "owner": "MlItem",
+            "ownerId": "MLA3255766930",
+            "productListings": [
+              {
+                "productId": "12798077",
+                "productVariantId": "46169104",
+                "productVariantListings": []
+              }
+            ]
+          },
+          {
+            "id": "92439936",
+            "owner": "MlItem",
+            "ownerId": "MLA1770960969",
+            "productListings": [
+              {
+                "productId": "12798077",
+                "productVariantId": "46169905",
+                "productVariantListings": []
+              }
+            ]
+          },
+          {
+            "id": "92430609",
+            "owner": "MlItem",
+            "ownerId": "MLA1769689023",
+            "productListings": [
+              {
+                "productId": "4951405",
+                "productVariantId": "16091658",
+                "productVariantListings": []
+              }
+            ]
+          },
+          {
+            "id": "92419160",
+            "owner": "MlItem",
+            "ownerId": "MLA1767966889",
+            "productListings": []
+          },
+          {
+            "id": "92418969",
+            "owner": "MlItem",
+            "ownerId": "MLA1767953553",
+            "productListings": []
+          },
+          {
+            "id": "92418580",
+            "owner": "MlItem",
+            "ownerId": "MLA1767965939",
+            "productListings": []
+          },
+          {
+            "id": "92418347",
+            "owner": "MlItem",
+            "ownerId": "MLA1767965567",
+            "productListings": [
+              {
+                "productId": "12798077",
+                "productVariantId": "46169914",
+                "productVariantListings": []
+              }
+            ]
+          },
+          {
+            "id": "92417172",
+            "owner": "MlItem",
+            "ownerId": "MLA1767963165",
+            "productListings": [
+              {
+                "productId": "12549367",
+                "productVariantId": null,
+                "productVariantListings": []
+              },
+              {
+                "productId": "12798077",
+                "productVariantId": "46169104",
+                "productVariantListings": []
+              }
+            ]
+          },
+          {
+            "id": "92416994",
+            "owner": "MlItem",
+            "ownerId": "MLA1767962493",
+            "productListings": [
+              {
+                "productId": "12798077",
+                "productVariantId": "46169104",
+                "productVariantListings": []
+              }
+            ]
+          },
+          {
+            "id": "92415579",
+            "owner": "MlItem",
+            "ownerId": "MLA3244574902",
+            "productListings": [
+              {
+                "productId": "12353856",
+                "productVariantId": "16311651",
+                "productVariantListings": []
+              }
+            ]
+          },
+          {
+            "id": "92415577",
+            "owner": "MlItem",
+            "ownerId": "MLA3244574900",
+            "productListings": [
+              {
+                "productId": "12353856",
+                "productVariantId": "27503771",
+                "productVariantListings": []
+              }
+            ]
+          },
+          {
+            "id": "92412191",
+            "owner": "MlItem",
+            "ownerId": "MLA3240932152",
+            "productListings": [
+              {
+                "productId": "12347398",
+                "productVariantId": "16245601",
+                "productVariantListings": []
+              },
+              {
+                "productId": "12347785",
+                "productVariantId": "16251684",
+                "productVariantListings": []
+              }
+            ]
+          },
+          {
+            "id": "92403991",
+            "owner": "MlItem",
+            "ownerId": "MLA3236137740",
+            "productListings": []
+          },
+          {
+            "id": "92403990",
+            "owner": "MlItem",
+            "ownerId": "MLA3236137738",
+            "productListings": []
+          },
+          {
+            "id": "92403989",
+            "owner": "MlItem",
+            "ownerId": "MLA3236074472",
+            "productListings": []
+          }
+        ]
+      }
+    }
+  }
+}

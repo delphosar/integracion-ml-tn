@@ -1,18 +1,21 @@
 require('dotenv').config({ path: require('path').join(__dirname, '..', '.env') });
 const { getDb, saveToFile } = require('./db');
 const { getValidToken } = require('./ml-auth');
-const { fetchItemsBatch } = require('./ml-api');
+const { fetchItemsBatch, getItemPromotions } = require('./ml-api');
 const tnApi = require('./tn-api');
 
-const DRY_RUN = process.argv.includes('--dry-run');
-const DELAY_MS = parseInt(process.env.ML_REQUEST_DELAY_MS ?? '300', 10);
-const BATCH_SIZE = 20;
+const DRY_RUN     = process.argv.includes('--dry-run');
+const PRICES_ONLY = true; // Siempre prices-only — nunca sincronizar stock desde este script
+const DEBUG       = process.argv.includes('--debug');
+const DEBUG_ITEM  = (process.argv.find(a => a.startsWith('--debug-item=')) ?? '').replace('--debug-item=', '') || null;
+const DELAY_MS    = parseInt(process.env.ML_REQUEST_DELAY_MS ?? '300', 10);
+const BATCH_SIZE  = 20;
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 function n(v) { return v ?? null; }
 
 async function main() {
-  console.log(`[sync-delta] Iniciando${DRY_RUN ? ' (DRY RUN — sin cambios en TN)' : ''}...`);
+  console.log(`[sync-delta] Iniciando${DRY_RUN ? ' (DRY RUN — sin cambios en TN)' : ''}${PRICES_ONLY ? ' (PRICES ONLY — sin sync de stock)' : ''}...`);
   const started = Date.now();
 
   // 1. Obtener token válido
@@ -31,7 +34,7 @@ async function main() {
   const pairs = (pairsResult[0]?.values ?? []).map(([mlId, tnId]) => ({ mlId, tnId }));
   console.log(`  ${pairs.length} productos activos a verificar`);
 
-  const stats = { checked: 0, changed: 0, updated: 0, errors: 0 };
+  const stats = { checked: 0, changed: 0, updated: 0, cleaned: 0, errors: 0 };
 
   // 3. Procesar en batches de 20
   for (let i = 0; i < pairs.length; i += BATCH_SIZE) {
@@ -63,20 +66,50 @@ async function main() {
       if (!dbItemRes[0]?.values?.length) continue;
       const [dbPrice, dbOrigPrice, dbQty] = dbItemRes[0].values[0];
 
+      // Promociones activas: sobreescribir price/original_price del item si hay promo "started"
+      const promos = await getItemPromotions(mlItem.id, token);
+      await sleep(DELAY_MS);
+      const activePromo = promos.find(p => p.status === 'started' && p.price > 0) ?? null;
+      if (activePromo) {
+        mlItem.original_price = activePromo.original_price ?? mlItem.price;
+        mlItem.price = activePromo.price;
+      }
+
+      const isDebugTarget = DEBUG || mlItem.id === DEBUG_ITEM;
+      if (isDebugTarget) {
+        console.log(`\n  [DEBUG] ${mlItem.id} → TN:${pair.tnId}`);
+        console.log(`    ML  price=${mlItem.price}  original_price=${mlItem.original_price ?? 'null'}`);
+        if (activePromo) console.log(`    PROMO activa: type=${activePromo.type}  price=${activePromo.price}  original=${activePromo.original_price ?? 'null'}  name="${activePromo.name}"`);
+        console.log(`    DB  price=${dbPrice}  original_price=${dbOrigPrice ?? 'null'}`);
+        console.log(`    hasVariations=${(mlItem.variations?.length ?? 0) > 0} (${mlItem.variations?.length ?? 0})`);
+      }
+
       const changes = detectChanges(mlItem, dbPrice, dbOrigPrice, dbQty, db);
+
+      if (isDebugTarget) {
+        console.log(`    detectChanges → hasChanges=${changes.hasChanges} priceChanged=${changes.priceChanged} itemPriceChanged=${changes.itemPriceChanged ?? false} variationsChanged=${changes.variationsChanged?.length ?? 0}`);
+      }
+
       if (!changes.hasChanges) continue;
 
       stats.changed++;
-      logChanges(mlItem.id, pair.tnId, changes, dbPrice, dbOrigPrice, dbQty);
+      logChanges(mlItem.id, pair.tnId, changes, dbPrice, dbOrigPrice, dbQty, mlItem, activePromo);
 
       if (!DRY_RUN) {
         try {
           await applyChanges(mlItem, pair.tnId, changes, db);
           stats.updated++;
         } catch (err) {
-          const detail = err.response?.data ? JSON.stringify(err.response.data) : err.message;
-          console.error(`    Error actualizando TN ${pair.tnId}: ${detail}`);
-          stats.errors++;
+          const is404 = err.response?.status === 404 || err.response?.data?.code === 404;
+          if (is404) {
+            console.warn(`    TN ${pair.tnId} no existe en TN — eliminando de tn_products`);
+            db.run(`DELETE FROM tn_products WHERE tn_product_id = ?`, [pair.tnId]);
+            stats.cleaned++;
+          } else {
+            const detail = err.response?.data ? JSON.stringify(err.response.data) : err.message;
+            console.error(`    Error actualizando TN ${pair.tnId}: ${detail}`);
+            stats.errors++;
+          }
         }
       }
     }
@@ -86,9 +119,9 @@ async function main() {
 
   const elapsed = ((Date.now() - started) / 1000).toFixed(1);
   console.log(`\n\n[sync-delta] Completado en ${elapsed}s`);
-  console.log(`  Verificados: ${stats.checked} | Cambios detectados: ${stats.changed} | Actualizados en TN: ${stats.updated} | Errores: ${stats.errors}`);
+  console.log(`  Verificados: ${stats.checked} | Cambios detectados: ${stats.changed} | Actualizados en TN: ${stats.updated} | Limpiados (404): ${stats.cleaned} | Errores: ${stats.errors}`);
 
-  if (!DRY_RUN && stats.updated > 0) saveToFile();
+  if (!DRY_RUN && (stats.updated > 0 || stats.cleaned > 0)) saveToFile();
 }
 
 // ---------------------------------------------------------------------------
@@ -99,6 +132,7 @@ function detectChanges(mlItem, dbPrice, dbOrigPrice, dbQty, db) {
   const changes = {
     hasChanges: false,
     priceChanged: false,
+    itemPriceChanged: false,
     stockChanged: false,
     variationsChanged: [],
   };
@@ -110,7 +144,7 @@ function detectChanges(mlItem, dbPrice, dbOrigPrice, dbQty, db) {
       changes.priceChanged = true;
       changes.hasChanges = true;
     }
-    if (mlItem.available_quantity !== dbQty) {
+    if (!PRICES_ONLY && mlItem.available_quantity !== dbQty) {
       changes.stockChanged = true;
       changes.hasChanges = true;
     }
@@ -127,12 +161,18 @@ function detectChanges(mlItem, dbPrice, dbOrigPrice, dbQty, db) {
     dbVarsMap.set(id, { price, qty, scf });
   }
 
+  // original_price vive a nivel item, no de variante — detectar cambio por separado
+  if ((mlItem.original_price ?? null) !== (dbOrigPrice ?? null) || mlItem.price !== dbPrice) {
+    changes.itemPriceChanged = true;
+    changes.hasChanges = true;
+  }
+
   for (const v of mlItem.variations) {
     const dbVar = dbVarsMap.get(v.id);
     if (!dbVar) continue;
     const varChange = { variation: v, dbVar };
     if (v.price !== dbVar.price) varChange.priceChanged = true;
-    if (v.available_quantity !== dbVar.qty) varChange.stockChanged = true;
+    if (!PRICES_ONLY && v.available_quantity !== dbVar.qty) varChange.stockChanged = true;
     if (varChange.priceChanged || varChange.stockChanged) {
       changes.variationsChanged.push(varChange);
       changes.hasChanges = true;
@@ -178,40 +218,53 @@ async function applyVariationsProduct(mlItem, tnId, changes, db) {
   const tnProduct = await tnApi.getProduct(tnId);
   await sleep(DELAY_MS);
 
-  // Construir mapa SKU → variante TN
-  const tnVariantsMap = new Map();
-  for (const v of tnProduct.variants ?? []) {
-    if (v.sku) tnVariantsMap.set(v.sku, v);
+  const tnVariants = tnProduct.variants ?? [];
+
+  // Precio padre ML → aplica a TODAS las variantes TN.
+  // No intentamos match por SKU individual porque los formatos de SKU pueden
+  // diferir entre ML (seller_custom_field) y TN (especialmente en productos
+  // vinculados vía integración nativa de EcomExperts).
+  const pricePayload = buildVariantPayload(
+    { priceChanged: changes.itemPriceChanged || changes.variationsChanged.some(c => c.priceChanged) },
+    mlItem.price,
+    mlItem.original_price,
+    null // stock se maneja por variación debajo
+  );
+
+  for (const tnVariant of tnVariants) {
+    if (Object.keys(pricePayload).length > 0) {
+      await tnApi.updateVariant(tnId, tnVariant.id, pricePayload);
+      await sleep(DELAY_MS);
+    }
   }
 
-  for (const { variation, priceChanged, stockChanged } of changes.variationsChanged) {
-    const sku = variation.seller_custom_field ?? `${mlItem.id}-${variation.id}`;
-    const tnVariant = tnVariantsMap.get(sku);
-    if (!tnVariant) {
-      console.warn(`    Variante SKU "${sku}" no encontrada en TN ${tnId} — se saltea`);
-      continue;
+  // Stock: intentar actualizar por SKU si hay cambio de stock
+  if (!PRICES_ONLY && changes.variationsChanged.some(c => c.stockChanged)) {
+    const tnVariantsMap = new Map();
+    for (const v of tnVariants) {
+      if (v.sku) tnVariantsMap.set(v.sku, v);
     }
 
-    const varChanges = { priceChanged, stockChanged };
-    // Para precio de variaciones, usamos el ratio del item padre para calcular el tachado
-    const varPayload = buildVariantPayload(
-      varChanges,
-      variation.price,
-      computeVariationOriginalPrice(mlItem, variation.price),
-      variation.available_quantity
-    );
+    for (const { variation, stockChanged } of changes.variationsChanged) {
+      if (!stockChanged) continue;
+      const sku = variation.seller_custom_field ?? `${mlItem.id}-${variation.id}`;
+      const tnVariant = tnVariantsMap.get(sku);
+      if (!tnVariant) {
+        console.warn(`    Variante SKU "${sku}" no encontrada en TN ${tnId} (stock no actualizado)`);
+        continue;
+      }
+      await tnApi.updateVariant(tnId, tnVariant.id, { stock: variation.available_quantity });
+      await sleep(DELAY_MS);
+    }
+  }
 
-    await tnApi.updateVariant(tnId, tnVariant.id, varPayload);
-    await sleep(DELAY_MS);
-
-    // Actualizar SQLite
+  // Actualizar SQLite
+  for (const { variation } of changes.variationsChanged) {
     db.run(
       `UPDATE ml_variations SET price = ?, available_quantity = ? WHERE id = ? AND item_id = ?`,
       [n(variation.price), n(variation.available_quantity), variation.id, mlItem.id]
     );
   }
-
-  // Actualizar campos del item en SQLite (precio y qty total)
   const totalQty = mlItem.variations.reduce((s, v) => s + (v.available_quantity ?? 0), 0);
   db.run(
     `UPDATE ml_items SET price = ?, original_price = ?, available_quantity = ?, synced_at = datetime('now') WHERE id = ?`,
@@ -219,21 +272,12 @@ async function applyVariationsProduct(mlItem, tnId, changes, db) {
   );
 }
 
-// Calcula el precio "original" (tachado) de una variación.
-// Si la variación tiene el mismo precio que el item, usa original_price directo
-// para evitar diferencias de redondeo flotante.
-function computeVariationOriginalPrice(mlItem, variationPrice) {
-  if (!mlItem.original_price || !mlItem.price || mlItem.price === 0) return null;
-  if (variationPrice === mlItem.price) return mlItem.original_price;
-  const ratio = mlItem.original_price / mlItem.price;
-  return Math.round(variationPrice * ratio * 100) / 100;
-}
-
 // Construye el payload para updateVariant según los cambios detectados
 function buildVariantPayload(changes, price, originalPrice, qty) {
   const payload = {};
   if (changes.priceChanged) {
-    if (originalPrice) {
+    // Solo hay descuento real si original_price existe Y es mayor al precio de venta
+    if (originalPrice && originalPrice > price) {
       payload.price = String(originalPrice);
       payload.promotional_price = String(price);
     } else {
@@ -251,13 +295,16 @@ function buildVariantPayload(changes, price, originalPrice, qty) {
 // Logging de cambios
 // ---------------------------------------------------------------------------
 
-function logChanges(mlId, tnId, changes, dbPrice, dbOrigPrice, dbQty) {
-  const lines = [`  [CAMBIO] ${mlId} → TN:${tnId}`];
-  if (changes.priceChanged) {
-    lines.push(`    precio: ${dbPrice} → ${changes.newPrice ?? '?'} | original: ${dbOrigPrice} → ${changes.newOrigPrice ?? '?'}`);
+function logChanges(mlId, tnId, changes, dbPrice, dbOrigPrice, dbQty, mlItem, activePromo) {
+  const lines = [`  [CAMBIO] ${mlId} → TN:${tnId}${activePromo ? ` [PROMO:${activePromo.type}]` : ''}`];
+  if (changes.priceChanged || changes.itemPriceChanged) {
+    const tag = changes.itemPriceChanged && !changes.priceChanged ? ' [item-level]' : '';
+    lines.push(`    precio${tag}: ${dbPrice} → ${mlItem.price} | original: ${dbOrigPrice ?? 'null'} → ${mlItem.original_price ?? 'null'}`);
+    const payload = buildVariantPayload({ priceChanged: true }, mlItem.price, mlItem.original_price, null);
+    lines.push(`    payload TN → price=${payload.price} promotional_price=${payload.promotional_price ?? 'null (limpiar)'}`);
   }
   if (changes.stockChanged) {
-    lines.push(`    stock: ${dbQty} → ${changes.newQty ?? '?'}`);
+    lines.push(`    stock: ${dbQty} → ${mlItem.available_quantity}`);
   }
   if (changes.variationsChanged?.length) {
     lines.push(`    variaciones con cambios: ${changes.variationsChanged.length}`);

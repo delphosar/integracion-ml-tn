@@ -1,0 +1,1039 @@
+[
+  {
+    "tnId": "337701993",
+    "mlId": "MLA1371599383",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337721626",
+    "mlId": "MLA1674680679",
+    "variantSku": "DC6759/N-T",
+    "prevSku": "PCC-0001",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337723247",
+    "mlId": "MLA1716959457",
+    "variantSku": "DC843/GC",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337723274",
+    "mlId": "MLA1716971525",
+    "variantSku": "BC843/GC-B",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337723429",
+    "mlId": "MLA1722538013",
+    "variantSku": "dc843/pn",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337723551",
+    "mlId": "MLA1722563565",
+    "variantSku": "dc843/db",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337746704",
+    "mlId": "MLA2863104808",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337732663",
+    "mlId": "MLA2026956140",
+    "variantSku": "PTN-0002",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337701993",
+    "mlId": "MLA1371599383",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337748099",
+    "mlId": "MLA3127068180",
+    "variantSku": "RT-131C/TA",
+    "prevSku": "rt131",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337716812",
+    "mlId": "MLA1558227287",
+    "variantSku": "1457899",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337748180",
+    "mlId": "MLA3136380406",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337747833",
+    "mlId": "MLA3091417826",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337709871",
+    "mlId": "MLA1463784439",
+    "variantSku": "YC-04F/MA",
+    "prevSku": "YC-04F",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337752387",
+    "mlId": "MLA694426562",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337752387",
+    "mlId": "MLA694426562",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337709702",
+    "mlId": "MLA1463782767",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337709702",
+    "mlId": "MLA1463782767",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337701064",
+    "mlId": "MLA1248081111",
+    "variantSku": "001994113s",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337744964",
+    "mlId": "MLA2841515720",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337709702",
+    "mlId": "MLA1463782767",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337706865",
+    "mlId": "MLA1438738109",
+    "variantSku": "K1191",
+    "prevSku": "K1191, dt-2216-1",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337743605",
+    "mlId": "MLA2752873032",
+    "variantSku": "111844111",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337698253",
+    "mlId": "MLA1119804357",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337698253",
+    "mlId": "MLA1119804357",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337698253",
+    "mlId": "MLA1119804357",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337704481",
+    "mlId": "MLA1413014515",
+    "variantSku": "PSV-0051",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337707556",
+    "mlId": "MLA1451077795",
+    "variantSku": "dt-2216-1",
+    "prevSku": "dt-2216-1, RT780",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337707796",
+    "mlId": "MLA1451106161",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337707796",
+    "mlId": "MLA1451106161",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337710102",
+    "mlId": "MLA1468608637",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337711440",
+    "mlId": "MLA1477100377",
+    "variantSku": "C602-1/v",
+    "prevSku": "C602-1/v, DC608-N",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337715828",
+    "mlId": "MLA1520516891",
+    "variantSku": "135252",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337719175",
+    "mlId": "MLA1575273681",
+    "variantSku": "217521211med",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337722207",
+    "mlId": "MLA1694992746",
+    "variantSku": "PSV-0052",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337722207",
+    "mlId": "MLA1694992746",
+    "variantSku": "PSV-0052",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337731479",
+    "mlId": "MLA2026090164",
+    "variantSku": "PBCV-0009",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337731872",
+    "mlId": "MLA2026194158",
+    "variantSku": "PBCV-0008",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337732979",
+    "mlId": "MLA2030468962",
+    "variantSku": "PSO-0007",
+    "prevSku": "PSO-0007, PME-0011",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337737487",
+    "mlId": "MLA2180393884",
+    "variantSku": "DC608N/TA",
+    "prevSku": "DC608-N",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337743507",
+    "mlId": "MLA2715969060",
+    "variantSku": "PSV-000103",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337743605",
+    "mlId": "MLA2752873032",
+    "variantSku": "111844111",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337744324",
+    "mlId": "MLA2800389584",
+    "variantSku": "DT2216GRNT200",
+    "prevSku": "111521albany200x100",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337744410",
+    "mlId": "MLA2806985422",
+    "variantSku": "11313240x100",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337701993",
+    "mlId": "MLA1371599383",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337719703",
+    "mlId": "MLA1628175462",
+    "variantSku": "298824",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337730203",
+    "mlId": "MLA2008132872",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337733951",
+    "mlId": "MLA2046010258",
+    "variantSku": "DT417/CR",
+    "prevSku": "MLA2046010258",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337744395",
+    "mlId": "MLA2806984690",
+    "variantSku": "11000220x100",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337726437",
+    "mlId": "MLA1916135238",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337727623",
+    "mlId": "MLA1935955730",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337742858",
+    "mlId": "MLA2640882590",
+    "variantSku": "MN-1254",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337706927",
+    "mlId": "MLA1438738421",
+    "variantSku": "K1191",
+    "prevSku": "K1191, RT192/LNT",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337716688",
+    "mlId": "MLA1557791063",
+    "variantSku": "13768914",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337723598",
+    "mlId": "MLA1723684129",
+    "variantSku": "0111111",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337704959",
+    "mlId": "MLA1416859881",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337698153",
+    "mlId": "MLA1112816740",
+    "variantSku": "533121",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337698253",
+    "mlId": "MLA1119804357",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337717965",
+    "mlId": "MLA1563189279",
+    "variantSku": "PBCV-0007",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337731657",
+    "mlId": "MLA2026140294",
+    "variantSku": "PEJ-0007",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337731801",
+    "mlId": "MLA2026181364",
+    "variantSku": "PEJ-0016",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337752387",
+    "mlId": "MLA694426562",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337752387",
+    "mlId": "MLA694426562",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337756499",
+    "mlId": "MLA817195562",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337709702",
+    "mlId": "MLA1463782767",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337756499",
+    "mlId": "MLA817195562",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337726365",
+    "mlId": "MLA1914224666",
+    "variantSku": "PEJ-0006",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337726504",
+    "mlId": "MLA1920216858",
+    "variantSku": "PEJ-0005",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337767784",
+    "mlId": "MLA1133267178",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337726365",
+    "mlId": "MLA1914224666",
+    "variantSku": "PEJ-0006",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337707796",
+    "mlId": "MLA1451106161",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337708194",
+    "mlId": "MLA1455115093",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337726504",
+    "mlId": "MLA1920216858",
+    "variantSku": "PEJ-0005",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337730059",
+    "mlId": "MLA2003452580",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337730059",
+    "mlId": "MLA2003452580",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337736612",
+    "mlId": "MLA2158513414",
+    "variantSku": "C602-1-B",
+    "prevSku": "C602-1-B, DC608-N",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337737212",
+    "mlId": "MLA2174521110",
+    "variantSku": "C602-1/v",
+    "prevSku": "PSV-0004",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337739999",
+    "mlId": "MLA2424675032",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337740964",
+    "mlId": "MLA2471464458",
+    "variantSku": "YC-09B/MA",
+    "prevSku": "YC-09B",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337748145",
+    "mlId": "MLA3132442932",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337725991",
+    "mlId": "MLA1898205722",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337747156",
+    "mlId": "MLA2907543818",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337718451",
+    "mlId": "MLA1569622009",
+    "variantSku": "134141p",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337731011",
+    "mlId": "MLA2023354470",
+    "variantSku": "PSO-0007",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337741507",
+    "mlId": "MLA2474695520",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337763642",
+    "mlId": "MLA930764919",
+    "variantSku": "PSV-0045",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337701245",
+    "mlId": "MLA1263256648",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337768460",
+    "mlId": "MLA1933989294",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337701245",
+    "mlId": "MLA1263256648",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337726099",
+    "mlId": "MLA1905629564",
+    "variantSku": "PME-0016",
+    "prevSku": "PME-0016, PSO-0011",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337733122",
+    "mlId": "MLA2030689808",
+    "variantSku": "PAH-0004",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337768460",
+    "mlId": "MLA1933989294",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337708036",
+    "mlId": "MLA1452014267",
+    "variantSku": "dt-2216-1",
+    "prevSku": "dt-2216-1, PCC-0001",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337721192",
+    "mlId": "MLA1667855495",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337730316",
+    "mlId": "MLA2009531382",
+    "variantSku": "DT417/CR",
+    "prevSku": "MLA2009531382",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337748237",
+    "mlId": "MLA3146398078",
+    "variantSku": "DT417/CR",
+    "prevSku": "MLA3146398078",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337700533",
+    "mlId": "MLA1221030981",
+    "variantSku": "031111",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337707244",
+    "mlId": "MLA1442867691",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337708354",
+    "mlId": "MLA1455449973",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337716085",
+    "mlId": "MLA1536229641",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337721901",
+    "mlId": "MLA1679411573",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337722500",
+    "mlId": "MLA1701988399",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337725729",
+    "mlId": "MLA1882840946",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337725729",
+    "mlId": "MLA1882840946",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337726149",
+    "mlId": "MLA1911215244",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337727388",
+    "mlId": "MLA1934213584",
+    "variantSku": "PME-0012",
+    "prevSku": "PME-0012, PSO-0010",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337732725",
+    "mlId": "MLA2027019848",
+    "variantSku": "PSV-0044",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337739441",
+    "mlId": "MLA2378134808",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337739949",
+    "mlId": "MLA2424660724",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337700897",
+    "mlId": "MLA1221338073",
+    "variantSku": "021111",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337702150",
+    "mlId": "MLA1372421041",
+    "variantSku": "AAS-0001",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337704694",
+    "mlId": "MLA1415409399",
+    "variantSku": "pbc-0000001",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337708429",
+    "mlId": "MLA1455466885",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337709269",
+    "mlId": "MLA1462498997",
+    "variantSku": "PAV-0022",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337726053",
+    "mlId": "MLA1900061846",
+    "variantSku": "PME-0016",
+    "prevSku": "PME-0016, PSO-0014",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337727623",
+    "mlId": "MLA1935955730",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337729915",
+    "mlId": "MLA1987412992",
+    "variantSku": "PME-0015",
+    "prevSku": "PME-0015, PSO-0013",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337736108",
+    "mlId": "MLA2112572640",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337741682",
+    "mlId": "MLA2489119452",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337756243",
+    "mlId": "MLA814568407",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337698788",
+    "mlId": "MLA1131697066",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337700533",
+    "mlId": "MLA1221030981",
+    "variantSku": "031111",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337707466",
+    "mlId": "MLA1447197139",
+    "variantSku": "PME-0016",
+    "prevSku": "PME-0016, PSO-0010",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337708272",
+    "mlId": "MLA1455128697",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337709073",
+    "mlId": "MLA1461590095",
+    "variantSku": "DT417/CR",
+    "prevSku": "MLA1461590095",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337718166",
+    "mlId": "MLA1566323653",
+    "variantSku": "87656",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337720262",
+    "mlId": "MLA1652374192",
+    "variantSku": "K1191",
+    "prevSku": "K1191, PME-0016",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337725991",
+    "mlId": "MLA1898205722",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337726936",
+    "mlId": "MLA1929741546",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337727294",
+    "mlId": "MLA1933947642",
+    "variantSku": "PME-0013",
+    "prevSku": "PME-0013, PSO-0010",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337727515",
+    "mlId": "MLA1934397718",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337729932",
+    "mlId": "MLA1987425838",
+    "variantSku": "PME-0015",
+    "prevSku": "PME-0015, PSO-0011",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337730203",
+    "mlId": "MLA2008132872",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337732820",
+    "mlId": "MLA2028347738",
+    "variantSku": "PSF-00001",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337739359",
+    "mlId": "MLA2357117986",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337739639",
+    "mlId": "MLA2417746356",
+    "variantSku": "021111",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337740566",
+    "mlId": "MLA2465800390",
+    "variantSku": "031111",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337740847",
+    "mlId": "MLA2471045160",
+    "variantSku": "PAV-0003",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337747247",
+    "mlId": "MLA2912046992",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337747949",
+    "mlId": "MLA3111969132",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337755157",
+    "mlId": "MLA796328620",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337755157",
+    "mlId": "MLA796328620",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337761904",
+    "mlId": "MLA903624251",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337763462",
+    "mlId": "MLA930425333",
+    "variantSku": "PAV-0018",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337698653",
+    "mlId": "MLA1126785840",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337704481",
+    "mlId": "MLA1413014515",
+    "variantSku": "PSV-0051",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337709500",
+    "mlId": "MLA1462549625",
+    "variantSku": "PBCV-0003",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337710102",
+    "mlId": "MLA1468608637",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337710885",
+    "mlId": "MLA1473393487",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337710885",
+    "mlId": "MLA1473393487",
+    "status": "multi-variant-skip"
+  },
+  {
+    "tnId": "337711027",
+    "mlId": "MLA1474431435",
+    "variantSku": "C602-1/v",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337711962",
+    "mlId": "MLA1483673192",
+    "variantSku": "PSV-000111",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337715809",
+    "mlId": "MLA1519595693",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337716206",
+    "mlId": "MLA1548192643",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337716342",
+    "mlId": "MLA1551004367",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337716853",
+    "mlId": "MLA1558297287",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337717937",
+    "mlId": "MLA1563046823",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337718268",
+    "mlId": "MLA1566557489",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337719241",
+    "mlId": "MLA1594950087",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337721124",
+    "mlId": "MLA1665072773",
+    "variantSku": "Mesa Bandeja Kipa",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337721697",
+    "mlId": "MLA1678607049",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337722634",
+    "mlId": "MLA1703760247",
+    "variantSku": "t/milano",
+    "prevSku": "MLA1703760247",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337725836",
+    "mlId": "MLA1886729274",
+    "variantSku": "K1191",
+    "prevSku": "K1191, PME-0017",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337728720",
+    "mlId": "MLA1963519432",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337729218",
+    "mlId": "MLA1971237850",
+    "variantSku": "PEJ-0021",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337737863",
+    "mlId": "MLA2213706272",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337738264",
+    "mlId": "MLA2222133680",
+    "variantSku": "SPJPC-00001",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337738299",
+    "mlId": "MLA2225402038",
+    "variantSku": "EPJOP-0002",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337738518",
+    "mlId": "MLA2269559228",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337739473",
+    "mlId": "MLA2380919428",
+    "variantSku": "071111",
+    "prevSku": "71111",
+    "status": "fixed"
+  },
+  {
+    "tnId": "337739580",
+    "mlId": "MLA2416568222",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337739828",
+    "mlId": "MLA2419535218",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337739860",
+    "mlId": "MLA2424646542",
+    "variantSku": "111425",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337741065",
+    "mlId": "MLA2471747234",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337741242",
+    "mlId": "MLA2472267354",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337742286",
+    "mlId": "MLA2535479976",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337742384",
+    "mlId": "MLA2536048022",
+    "variantSku": "PSV-0008",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337742612",
+    "mlId": "MLA2571761350",
+    "variantSku": "PAV-0007",
+    "status": "already-ok"
+  },
+  {
+    "tnId": "337742795",
+    "mlId": "MLA2624240692",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337747089",
+    "mlId": "MLA2906560830",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337747352",
+    "mlId": "MLA2999218702",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337757828",
+    "mlId": "MLA827956396",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337757828",
+    "mlId": "MLA827956396",
+    "status": "no-sku"
+  },
+  {
+    "tnId": "337761664",
+    "mlId": "MLA903609496",
+    "status": "no-sku"
+  }
+]

@@ -1,0 +1,4771 @@
+{
+  "toDelete": [
+    {
+      "erpSku": "DT417/CR",
+      "keepTn": "337723985",
+      "deleteTn": "337710274",
+      "deleteMla": "MLA1469082337",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "DT417/CR",
+      "keepTn": "337723985",
+      "deleteTn": "337729590",
+      "deleteMla": "MLA1976991744",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "DT417/CR",
+      "keepTn": "337723985",
+      "deleteTn": "337721764",
+      "deleteMla": "MLA1678828095",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT417/CR",
+      "keepTn": "337723985",
+      "deleteTn": "337721798",
+      "deleteMla": "MLA1678944691",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT417/CR",
+      "keepTn": "337723985",
+      "deleteTn": "337743892",
+      "deleteMla": "MLA2765321506",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT417/CR",
+      "keepTn": "337723985",
+      "deleteTn": "337743918",
+      "deleteMla": "MLA2765540600",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT417/CR",
+      "keepTn": "337723985",
+      "deleteTn": "337743860",
+      "deleteMla": "MLA2765317464",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT417/CR",
+      "keepTn": "337723985",
+      "deleteTn": "337729947",
+      "deleteMla": "MLA1988028358",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT417/CR",
+      "keepTn": "337723985",
+      "deleteTn": "337710173",
+      "deleteMla": "MLA1468960209",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT417/CR",
+      "keepTn": "337723985",
+      "deleteTn": "337729761",
+      "deleteMla": "MLA1982393742",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337760835",
+      "deleteMla": "MLA876398913",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337760723",
+      "deleteMla": "MLA876357352",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337760594",
+      "deleteMla": "MLA874494756",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337759560",
+      "deleteMla": "MLA847052398",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337759314",
+      "deleteMla": "MLA847048491",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337759436",
+      "deleteMla": "MLA847048778",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337759160",
+      "deleteMla": "MLA841517930",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337723635",
+      "deleteMla": "MLA1724145591",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337723305",
+      "deleteMla": "MLA1718640113",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337747496",
+      "deleteMla": "MLA3043953292",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337747272",
+      "deleteMla": "MLA2923526466",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337746995",
+      "deleteMla": "MLA2895479502",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337721669",
+      "deleteMla": "MLA1678098167",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337746847",
+      "deleteMla": "MLA2863438022",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337745860",
+      "deleteMla": "MLA2852282530",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337745916",
+      "deleteMla": "MLA2852360534",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337745213",
+      "deleteMla": "MLA2851984206",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337745759",
+      "deleteMla": "MLA2852178798",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337745284",
+      "deleteMla": "MLA2852074420",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337745462",
+      "deleteMla": "MLA2852126580",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337745594",
+      "deleteMla": "MLA2852152226",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337745803",
+      "deleteMla": "MLA2852230222",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337745255",
+      "deleteMla": "MLA2852074028",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337745352",
+      "deleteMla": "MLA2852100002",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337745400",
+      "deleteMla": "MLA2852113084",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337745725",
+      "deleteMla": "MLA2852177710",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337745125",
+      "deleteMla": "MLA2847862008",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337745075",
+      "deleteMla": "MLA2847810154",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337745164",
+      "deleteMla": "MLA2847874684",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337744996",
+      "deleteMla": "MLA2847563924",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337717689",
+      "deleteMla": "MLA1562562691",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337717635",
+      "deleteMla": "MLA1562359335",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337730018",
+      "deleteMla": "MLA2001815522",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131",
+      "keepTn": "337748099",
+      "deleteTn": "337757122",
+      "deleteMla": "MLA818925544",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/N",
+      "keepTn": "337723910",
+      "deleteTn": "337747695",
+      "deleteMla": "MLA3074818118",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/N",
+      "keepTn": "337723910",
+      "deleteTn": "337747662",
+      "deleteMla": "MLA3074741108",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/N",
+      "keepTn": "337723910",
+      "deleteTn": "337747531",
+      "deleteMla": "MLA3044133020",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/N",
+      "keepTn": "337723910",
+      "deleteTn": "337713978",
+      "deleteMla": "MLA1502152033",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/N",
+      "keepTn": "337723910",
+      "deleteTn": "337735744",
+      "deleteMla": "MLA2093714084",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/N",
+      "keepTn": "337723910",
+      "deleteTn": "337735668",
+      "deleteMla": "MLA2093179820",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/N",
+      "keepTn": "337723910",
+      "deleteTn": "337734031",
+      "deleteMla": "MLA2057431916",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/N",
+      "keepTn": "337723910",
+      "deleteTn": "337734128",
+      "deleteMla": "MLA2057482830",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/B",
+      "keepTn": "337723877",
+      "deleteTn": "337723823",
+      "deleteMla": "MLA1727910659",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/B",
+      "keepTn": "337723877",
+      "deleteTn": "337748057",
+      "deleteMla": "MLA3122425046",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/B",
+      "keepTn": "337723877",
+      "deleteTn": "337722790",
+      "deleteMla": "MLA1708094783",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/B",
+      "keepTn": "337723877",
+      "deleteTn": "337722762",
+      "deleteMla": "MLA1708094489",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/B",
+      "keepTn": "337723877",
+      "deleteTn": "337722597",
+      "deleteMla": "MLA1703663699",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/B",
+      "keepTn": "337723877",
+      "deleteTn": "337712613",
+      "deleteMla": "MLA1496512165",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/B",
+      "keepTn": "337723877",
+      "deleteTn": "337734681",
+      "deleteMla": "MLA2077452070",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/B",
+      "keepTn": "337723877",
+      "deleteTn": "337712554",
+      "deleteMla": "MLA1495848799",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/B",
+      "keepTn": "337723877",
+      "deleteTn": "337712424",
+      "deleteMla": "MLA1490668077",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/B",
+      "keepTn": "337723877",
+      "deleteTn": "337734319",
+      "deleteMla": "MLA2057792736",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/B",
+      "keepTn": "337723877",
+      "deleteTn": "337712210",
+      "deleteMla": "MLA1490359391",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/B",
+      "keepTn": "337723877",
+      "deleteTn": "337734271",
+      "deleteMla": "MLA2057791038",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/B",
+      "keepTn": "337723947",
+      "deleteTn": "337722465",
+      "deleteMla": "MLA1701686487",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/B",
+      "keepTn": "337723947",
+      "deleteTn": "337722433",
+      "deleteMla": "MLA1701613777",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/B",
+      "keepTn": "337723947",
+      "deleteTn": "337738410",
+      "deleteMla": "MLA2244049570",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/B",
+      "keepTn": "337723947",
+      "deleteTn": "337713923",
+      "deleteMla": "MLA1502139257",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/B",
+      "keepTn": "337723947",
+      "deleteTn": "337735707",
+      "deleteMla": "MLA2093496788",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/B",
+      "keepTn": "337723947",
+      "deleteTn": "337713785",
+      "deleteMla": "MLA1500464125",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/B",
+      "keepTn": "337723947",
+      "deleteTn": "337734182",
+      "deleteMla": "MLA2057587658",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/B",
+      "keepTn": "337723947",
+      "deleteTn": "337734079",
+      "deleteMla": "MLA2057469866",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/N",
+      "keepTn": "337748077",
+      "deleteTn": "337712373",
+      "deleteMla": "MLA1490493477",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-131C/B",
+      "keepTn": "337748028",
+      "deleteTn": "337722538",
+      "deleteMla": "MLA1702034587",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-131C/B",
+      "keepTn": "337748028",
+      "deleteTn": "337745943",
+      "deleteMla": "MLA2852360536",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-131C/B",
+      "keepTn": "337748028",
+      "deleteTn": "337745580",
+      "deleteMla": "MLA2852152224",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-131C/B",
+      "keepTn": "337748028",
+      "deleteTn": "337745666",
+      "deleteMla": "MLA2852164680",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-131C/B",
+      "keepTn": "337748028",
+      "deleteTn": "337745027",
+      "deleteMla": "MLA2847706336",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-131C/B",
+      "keepTn": "337748028",
+      "deleteTn": "337741883",
+      "deleteMla": "MLA2506240318",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-131C/B",
+      "keepTn": "337748028",
+      "deleteTn": "337735330",
+      "deleteMla": "MLA2087266390",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-131C/B",
+      "keepTn": "337748028",
+      "deleteTn": "337729993",
+      "deleteMla": "MLA2001521100",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-131C/B",
+      "keepTn": "337748028",
+      "deleteTn": "337709311",
+      "deleteMla": "MLA1462511091",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-131C/B",
+      "keepTn": "337748028",
+      "deleteTn": "337709191",
+      "deleteMla": "MLA1462485029",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-131C/B",
+      "keepTn": "337748028",
+      "deleteTn": "337728197",
+      "deleteMla": "MLA1962593980",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC608C/TA",
+      "keepTn": "337723695",
+      "deleteTn": "337723778",
+      "deleteMla": "MLA1725177223",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC608C/TA",
+      "keepTn": "337723695",
+      "deleteTn": "337737328",
+      "deleteMla": "MLA2179749934",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC608C/TA",
+      "keepTn": "337723695",
+      "deleteTn": "337737037",
+      "deleteMla": "MLA2166478032",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC608C/TA",
+      "keepTn": "337723695",
+      "deleteTn": "337709344",
+      "deleteMla": "MLA1462511259",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC608C/GC",
+      "keepTn": "337723655",
+      "deleteTn": "337723745",
+      "deleteMla": "MLA1725166977",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC608C/GC",
+      "keepTn": "337723655",
+      "deleteTn": "337737422",
+      "deleteMla": "MLA2180368164",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC608C/GC",
+      "keepTn": "337723655",
+      "deleteTn": "337737126",
+      "deleteMla": "MLA2166504184",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC608C/GC",
+      "keepTn": "337723655",
+      "deleteTn": "337709400",
+      "deleteMla": "MLA1462524589",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "seames-0131134",
+      "keepTn": "337748005",
+      "deleteTn": "337747438",
+      "deleteMla": "MLA3030515862",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "seames-0131134",
+      "keepTn": "337748005",
+      "deleteTn": "337747415",
+      "deleteMla": "MLA3015776706",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "T-1004/N",
+      "keepTn": "337747969",
+      "deleteTn": "337734565",
+      "deleteMla": "MLA2073260492",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "T-1004/N",
+      "keepTn": "337747969",
+      "deleteTn": "337732208",
+      "deleteMla": "MLA2026258374",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0111111",
+      "keepTn": "337723598",
+      "deleteTn": "337720200",
+      "deleteMla": "MLA1648041813",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0111111",
+      "keepTn": "337723598",
+      "deleteTn": "337743687",
+      "deleteMla": "MLA2753682240",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0111111",
+      "keepTn": "337723598",
+      "deleteTn": "337719792",
+      "deleteMla": "MLA1634540551",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0111111",
+      "keepTn": "337723598",
+      "deleteTn": "337717714",
+      "deleteMla": "MLA1562580155",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0111111",
+      "keepTn": "337723598",
+      "deleteTn": "337740614",
+      "deleteMla": "MLA2466134076",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0111111",
+      "keepTn": "337723598",
+      "deleteTn": "337740454",
+      "deleteMla": "MLA2465481986",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0111111",
+      "keepTn": "337723598",
+      "deleteTn": "337740510",
+      "deleteMla": "MLA2465481994",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0111111",
+      "keepTn": "337723598",
+      "deleteTn": "337717106",
+      "deleteMla": "MLA1560176005",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0111111",
+      "keepTn": "337723598",
+      "deleteTn": "337717043",
+      "deleteMla": "MLA1560176003",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0111111",
+      "keepTn": "337723598",
+      "deleteTn": "337717249",
+      "deleteMla": "MLA1560231097",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0111111",
+      "keepTn": "337723598",
+      "deleteTn": "337740395",
+      "deleteMla": "MLA2465480282",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "dc843/db",
+      "keepTn": "337723551",
+      "deleteTn": "337723400",
+      "deleteMla": "MLA1722534801",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "dc843/b-b",
+      "keepTn": "337723576",
+      "deleteTn": "337723347",
+      "deleteMla": "MLA1722534799",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC843/GC-B",
+      "keepTn": "337747932",
+      "deleteTn": "337723521",
+      "deleteMla": "MLA1722560431",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC843/B",
+      "keepTn": "337723500",
+      "deleteTn": "337723460",
+      "deleteMla": "MLA1722547545",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "dc843/pn",
+      "keepTn": "337723429",
+      "deleteTn": "337747904",
+      "deleteMla": "MLA3107629344",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "M-6055N/N",
+      "keepTn": "337747858",
+      "deleteTn": "337743815",
+      "deleteMla": "MLA2764121976",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "M-6055N/N",
+      "keepTn": "337747858",
+      "deleteTn": "337717832",
+      "deleteMla": "MLA1562681579",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "M-6055N/N",
+      "keepTn": "337747858",
+      "deleteTn": "337741166",
+      "deleteMla": "MLA2471780124",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "M-6055N/N",
+      "keepTn": "337747858",
+      "deleteTn": "337714455",
+      "deleteMla": "MLA1508114217",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "M-6055N/N",
+      "keepTn": "337747858",
+      "deleteTn": "337761590",
+      "deleteMla": "MLA898220244",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "M-6055N/N",
+      "keepTn": "337747858",
+      "deleteTn": "337760371",
+      "deleteMla": "MLA866709713",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "BC843/GC-B",
+      "keepTn": "337723274",
+      "deleteTn": "337722815",
+      "deleteMla": "MLA1713270575",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "GO-B",
+      "keepTn": "337747815",
+      "deleteTn": "337722980",
+      "deleteMla": "MLA1713279685",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "B",
+      "keepTn": "337747792",
+      "deleteTn": "337722919",
+      "deleteMla": "MLA1713279683",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "GO",
+      "keepTn": "337723197",
+      "deleteTn": "337722884",
+      "deleteMla": "MLA1713270579",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "B-B",
+      "keepTn": "337723222",
+      "deleteTn": "337747754",
+      "deleteMla": "MLA3079259486",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC843/GC",
+      "keepTn": "337723247",
+      "deleteTn": "337722851",
+      "deleteMla": "MLA1713270577",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Aluminium eames",
+      "keepTn": "337723090",
+      "deleteTn": "337755469",
+      "deleteMla": "MLA798193185",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "000405",
+      "keepTn": "337723013",
+      "deleteTn": "337712798",
+      "deleteMla": "MLA1497080129",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/G",
+      "keepTn": "337747722",
+      "deleteTn": "337722735",
+      "deleteMla": "MLA1708079969",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/G",
+      "keepTn": "337747722",
+      "deleteTn": "337747592",
+      "deleteMla": "MLA3065422674",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/G",
+      "keepTn": "337747722",
+      "deleteTn": "337712662",
+      "deleteMla": "MLA1496564041",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/G",
+      "keepTn": "337747722",
+      "deleteTn": "337734734",
+      "deleteMla": "MLA2077542718",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/G",
+      "keepTn": "337747722",
+      "deleteTn": "337712465",
+      "deleteMla": "MLA1490731381",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/G",
+      "keepTn": "337747722",
+      "deleteTn": "337712290",
+      "deleteMla": "MLA1490374255",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/G",
+      "keepTn": "337747722",
+      "deleteTn": "337712332",
+      "deleteMla": "MLA1490461983",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XBP-P20/G",
+      "keepTn": "337747722",
+      "deleteTn": "337712132",
+      "deleteMla": "MLA1490282033",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/G",
+      "keepTn": "337747624",
+      "deleteTn": "337747563",
+      "deleteMla": "MLA3051422216",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/G",
+      "keepTn": "337747624",
+      "deleteTn": "337722659",
+      "deleteMla": "MLA1703860057",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/G",
+      "keepTn": "337747624",
+      "deleteTn": "337713863",
+      "deleteMla": "MLA1502009575",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/G",
+      "keepTn": "337747624",
+      "deleteTn": "337735784",
+      "deleteMla": "MLA2093829006",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/G",
+      "keepTn": "337747624",
+      "deleteTn": "337713735",
+      "deleteMla": "MLA1500464123",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/G",
+      "keepTn": "337747624",
+      "deleteTn": "337733992",
+      "deleteMla": "MLA2057263434",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-P20M/G",
+      "keepTn": "337747624",
+      "deleteTn": "337734226",
+      "deleteMla": "MLA2057623674",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "C605/B",
+      "keepTn": "337722402",
+      "deleteTn": "337747475",
+      "deleteMla": "MLA3034377294",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "C605/B",
+      "keepTn": "337722402",
+      "deleteTn": "337722149",
+      "deleteMla": "MLA1690886591",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "C605/B",
+      "keepTn": "337722402",
+      "deleteTn": "337747386",
+      "deleteMla": "MLA3014824720",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "C605/B",
+      "keepTn": "337722402",
+      "deleteTn": "337747216",
+      "deleteMla": "MLA2907765408",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "C605/B",
+      "keepTn": "337722402",
+      "deleteTn": "337747177",
+      "deleteMla": "MLA2907547596",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "C605/B",
+      "keepTn": "337722402",
+      "deleteTn": "337722011",
+      "deleteMla": "MLA1683883027",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "C605/B",
+      "keepTn": "337722402",
+      "deleteTn": "337722036",
+      "deleteMla": "MLA1683883029",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "C605/B",
+      "keepTn": "337722402",
+      "deleteTn": "337747034",
+      "deleteMla": "MLA2898546886",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "C605/B",
+      "keepTn": "337722402",
+      "deleteTn": "337747062",
+      "deleteMla": "MLA2898559860",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "C605/B",
+      "keepTn": "337722402",
+      "deleteTn": "337744829",
+      "deleteMla": "MLA2832047294",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "C605/B",
+      "keepTn": "337722402",
+      "deleteTn": "337742263",
+      "deleteMla": "MLA2528008478",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "C605/B",
+      "keepTn": "337722402",
+      "deleteTn": "337718658",
+      "deleteMla": "MLA1570754113",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "C605/B",
+      "keepTn": "337722402",
+      "deleteTn": "337739191",
+      "deleteMla": "MLA2305363058",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "C605/B",
+      "keepTn": "337722402",
+      "deleteTn": "337714927",
+      "deleteMla": "MLA1516373191",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "C605/B",
+      "keepTn": "337722402",
+      "deleteTn": "337735832",
+      "deleteMla": "MLA2096239832",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "C605/B",
+      "keepTn": "337722402",
+      "deleteTn": "337713807",
+      "deleteMla": "MLA1501398579",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "YC-10C/MA",
+      "keepTn": "337722093",
+      "deleteTn": "337729368",
+      "deleteMla": "MLA1971290632",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "680a99fc-3788-4db7-a09a-4d7db38f37ff",
+      "keepTn": "337747121",
+      "deleteTn": "337710567",
+      "deleteMla": "MLA1470367553",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "dt-2216-1/N",
+      "keepTn": "337721967",
+      "deleteTn": "337728083",
+      "deleteMla": "MLA1941882984",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "dt-2216-1/N",
+      "keepTn": "337721967",
+      "deleteTn": "337708669",
+      "deleteMla": "MLA1456220175",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "dt-2216-1/N",
+      "keepTn": "337721967",
+      "deleteTn": "337721152",
+      "deleteMla": "MLA1665090419",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "dt-2216-1/N",
+      "keepTn": "337721967",
+      "deleteTn": "337738623",
+      "deleteMla": "MLA2280701546",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "dt-2216-1/N",
+      "keepTn": "337721967",
+      "deleteTn": "337714811",
+      "deleteMla": "MLA1514352987",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "dt-2216-1/N",
+      "keepTn": "337721967",
+      "deleteTn": "337737394",
+      "deleteMla": "MLA2180004648",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "dt-2216-1/N",
+      "keepTn": "337721967",
+      "deleteTn": "337729981",
+      "deleteMla": "MLA1997737130",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "dt-2216-1/N",
+      "keepTn": "337721967",
+      "deleteTn": "337729963",
+      "deleteMla": "MLA1994077226",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "dt-2216-1/N",
+      "keepTn": "337721967",
+      "deleteTn": "337709523",
+      "deleteMla": "MLA1463469071",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "22",
+      "keepTn": "337746955",
+      "deleteTn": "337721835",
+      "deleteMla": "MLA1679053385",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "C602-1-B",
+      "keepTn": "337746903",
+      "deleteTn": "337712247",
+      "deleteMla": "MLA1490360365",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Pmcn-0002",
+      "keepTn": "337746704",
+      "deleteTn": "337746727",
+      "deleteMla": "MLA2863168368",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Pmcn-0002",
+      "keepTn": "337746704",
+      "deleteTn": "337746808",
+      "deleteMla": "MLA2863349904",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Pmcn-0002",
+      "keepTn": "337746704",
+      "deleteTn": "337744663",
+      "deleteMla": "MLA2813331300",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Pmcn-0002",
+      "keepTn": "337746704",
+      "deleteTn": "337744136",
+      "deleteMla": "MLA2778571984",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Pmcn-0002",
+      "keepTn": "337746704",
+      "deleteTn": "337744105",
+      "deleteMla": "MLA2776019612",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Pmcn-0002",
+      "keepTn": "337746704",
+      "deleteTn": "337720107",
+      "deleteMla": "MLA1642056587",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Pmcn-0002",
+      "keepTn": "337746704",
+      "deleteTn": "337744053",
+      "deleteMla": "MLA2775773314",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Pmcn-0002",
+      "keepTn": "337746704",
+      "deleteTn": "337720028",
+      "deleteMla": "MLA1641979769",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Pmcn-0002",
+      "keepTn": "337746704",
+      "deleteTn": "337719897",
+      "deleteMla": "MLA1640415679",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Pmcn-0002",
+      "keepTn": "337746704",
+      "deleteTn": "337719937",
+      "deleteMla": "MLA1640687575",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "2",
+      "keepTn": "337746777",
+      "deleteTn": "337725023",
+      "deleteMla": "MLA1850898604",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "2",
+      "keepTn": "337746777",
+      "deleteTn": "337746742",
+      "deleteMla": "MLA2863207388",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "2",
+      "keepTn": "337746777",
+      "deleteTn": "337746661",
+      "deleteMla": "MLA2863038904",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "2",
+      "keepTn": "337746777",
+      "deleteTn": "337720505",
+      "deleteMla": "MLA1660474201",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "2",
+      "keepTn": "337746777",
+      "deleteTn": "337720468",
+      "deleteMla": "MLA1660292805",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "2",
+      "keepTn": "337746777",
+      "deleteTn": "337744069",
+      "deleteMla": "MLA2775927246",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "2",
+      "keepTn": "337746777",
+      "deleteTn": "337720065",
+      "deleteMla": "MLA1641991603",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "2",
+      "keepTn": "337746777",
+      "deleteTn": "337744033",
+      "deleteMla": "MLA2775682236",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "2",
+      "keepTn": "337746777",
+      "deleteTn": "337720092",
+      "deleteMla": "MLA1642054531",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "2",
+      "keepTn": "337746777",
+      "deleteTn": "337732798",
+      "deleteMla": "MLA2027033364",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "2",
+      "keepTn": "337746777",
+      "deleteTn": "337723134",
+      "deleteMla": "MLA1715344758",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "2",
+      "keepTn": "337746777",
+      "deleteTn": "337704844",
+      "deleteMla": "MLA1416822107",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "2",
+      "keepTn": "337746777",
+      "deleteTn": "337703545",
+      "deleteMla": "MLA1390322369",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "2",
+      "keepTn": "337746777",
+      "deleteTn": "337703494",
+      "deleteMla": "MLA1390285701",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "2",
+      "keepTn": "337746777",
+      "deleteTn": "337700019",
+      "deleteMla": "MLA1148569071",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "pmmn-0002",
+      "keepTn": "337746613",
+      "deleteTn": "337706817",
+      "deleteMla": "MLA1438405673",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "pmmn-0002",
+      "keepTn": "337746613",
+      "deleteTn": "337746577",
+      "deleteMla": "MLA2861925674",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "pmmn-0002",
+      "keepTn": "337746613",
+      "deleteTn": "337744682",
+      "deleteMla": "MLA2815874532",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "pmmn-0002",
+      "keepTn": "337746613",
+      "deleteTn": "337720160",
+      "deleteMla": "MLA1643011637",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "pmmn-0002",
+      "keepTn": "337746613",
+      "deleteTn": "337744158",
+      "deleteMla": "MLA2779030652",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "pmmn-0002",
+      "keepTn": "337746613",
+      "deleteTn": "337744123",
+      "deleteMla": "MLA2778388970",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "pmmn-0002",
+      "keepTn": "337746613",
+      "deleteTn": "337720136",
+      "deleteMla": "MLA1642933785",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "pmmn-0002",
+      "keepTn": "337746613",
+      "deleteTn": "337744014",
+      "deleteMla": "MLA2773729204",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "pmmn-0002",
+      "keepTn": "337746613",
+      "deleteTn": "337728824",
+      "deleteMla": "MLA1968759982",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "1",
+      "keepTn": "337746635",
+      "deleteTn": "337746562",
+      "deleteMla": "MLA2861718854",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "1",
+      "keepTn": "337746635",
+      "deleteTn": "337746597",
+      "deleteMla": "MLA2861938562",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "1",
+      "keepTn": "337746635",
+      "deleteTn": "337744640",
+      "deleteMla": "MLA2807221430",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "1",
+      "keepTn": "337746635",
+      "deleteTn": "337744434",
+      "deleteMla": "MLA2806987836",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "1",
+      "keepTn": "337746635",
+      "deleteTn": "337744553",
+      "deleteMla": "MLA2807104542",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "1",
+      "keepTn": "337746635",
+      "deleteTn": "337744372",
+      "deleteMla": "MLA2806935804",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "1",
+      "keepTn": "337746635",
+      "deleteTn": "337719983",
+      "deleteMla": "MLA1641927887",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "1",
+      "keepTn": "337746635",
+      "deleteTn": "337744087",
+      "deleteMla": "MLA2775928290",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "1",
+      "keepTn": "337746635",
+      "deleteTn": "337719999",
+      "deleteMla": "MLA1641979435",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "1",
+      "keepTn": "337746635",
+      "deleteTn": "337719964",
+      "deleteMla": "MLA1641774287",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "1",
+      "keepTn": "337746635",
+      "deleteTn": "337723164",
+      "deleteMla": "MLA1715345420",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "1",
+      "keepTn": "337746635",
+      "deleteTn": "337704911",
+      "deleteMla": "MLA1416848385",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "CT1516/WA",
+      "keepTn": "337746535",
+      "deleteTn": "337746458",
+      "deleteMla": "MLA2856219346",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "CT1516/WA",
+      "keepTn": "337746535",
+      "deleteTn": "337711634",
+      "deleteMla": "MLA1480606981",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "CT1516/W",
+      "keepTn": "337746499",
+      "deleteTn": "337746122",
+      "deleteMla": "MLA2856037944",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "CT1516/W",
+      "keepTn": "337746499",
+      "deleteTn": "337711606",
+      "deleteMla": "MLA1480606979",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "CT1516/B",
+      "keepTn": "337746253",
+      "deleteTn": "337746285",
+      "deleteMla": "MLA2856141658",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "CT1516/B",
+      "keepTn": "337746253",
+      "deleteTn": "337731205",
+      "deleteMla": "MLA2025285052",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "CT1516/WD",
+      "keepTn": "337746414",
+      "deleteTn": "337746356",
+      "deleteMla": "MLA2856180560",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "CT1516/WD",
+      "keepTn": "337746414",
+      "deleteTn": "337711569",
+      "deleteMla": "MLA1480562123",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/N",
+      "keepTn": "337746092",
+      "deleteTn": "337746055",
+      "deleteMla": "MLA2853993660",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/N",
+      "keepTn": "337746092",
+      "deleteTn": "337744928",
+      "deleteMla": "MLA2837386016",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/N",
+      "keepTn": "337746092",
+      "deleteTn": "337744902",
+      "deleteMla": "MLA2837314648",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/N",
+      "keepTn": "337746092",
+      "deleteTn": "337721298",
+      "deleteMla": "MLA1669611985",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/N",
+      "keepTn": "337746092",
+      "deleteTn": "337744869",
+      "deleteMla": "MLA2834369506",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/N",
+      "keepTn": "337746092",
+      "deleteTn": "337742448",
+      "deleteMla": "MLA2546966078",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/N",
+      "keepTn": "337746092",
+      "deleteTn": "337741792",
+      "deleteMla": "MLA2491799150",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/N",
+      "keepTn": "337746092",
+      "deleteTn": "337741622",
+      "deleteMla": "MLA2478440432",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/N",
+      "keepTn": "337746092",
+      "deleteTn": "337741585",
+      "deleteMla": "MLA2478349718",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/N",
+      "keepTn": "337746092",
+      "deleteTn": "337714995",
+      "deleteMla": "MLA1516562239",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/N",
+      "keepTn": "337746092",
+      "deleteTn": "337714966",
+      "deleteMla": "MLA1516536487",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/N",
+      "keepTn": "337746092",
+      "deleteTn": "337714886",
+      "deleteMla": "MLA1515890319",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/N",
+      "keepTn": "337746092",
+      "deleteTn": "337738475",
+      "deleteMla": "MLA2269546136",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/N",
+      "keepTn": "337746092",
+      "deleteTn": "337738582",
+      "deleteMla": "MLA2269889130",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PCC-0001",
+      "keepTn": "337721626",
+      "deleteTn": "337721562",
+      "deleteMla": "MLA1674615837",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PCC-0001",
+      "keepTn": "337721626",
+      "deleteTn": "337745522",
+      "deleteMla": "MLA2852128582",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PCC-0001",
+      "keepTn": "337721626",
+      "deleteTn": "337746003",
+      "deleteMla": "MLA2852682596",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PCC-0001",
+      "keepTn": "337721626",
+      "deleteTn": "337705773",
+      "deleteMla": "MLA1432572322",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC6759/N",
+      "keepTn": "337721591",
+      "deleteTn": "337745969",
+      "deleteMla": "MLA2852452198",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC6759/N",
+      "keepTn": "337721591",
+      "deleteTn": "337729000",
+      "deleteMla": "MLA1968799210",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC6759/GC",
+      "keepTn": "337745883",
+      "deleteTn": "337745550",
+      "deleteMla": "MLA2852128584",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC6759/GC",
+      "keepTn": "337745883",
+      "deleteTn": "337702164",
+      "deleteMla": "MLA1373256819",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC6759/T-C",
+      "keepTn": "337745317",
+      "deleteTn": "337745627",
+      "deleteMla": "MLA2852154262",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "000299",
+      "keepTn": "337745378",
+      "deleteTn": "337731954",
+      "deleteMla": "MLA2026213684",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "000300",
+      "keepTn": "337745787",
+      "deleteTn": "337731688",
+      "deleteMla": "MLA2026148680",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "000301",
+      "keepTn": "337746017",
+      "deleteTn": "337731622",
+      "deleteMla": "MLA2026135698",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "000298",
+      "keepTn": "337745829",
+      "deleteTn": "337732014",
+      "deleteMla": "MLA2026226732",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "000296",
+      "keepTn": "337745699",
+      "deleteTn": "337732094",
+      "deleteMla": "MLA2026239730",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "000297",
+      "keepTn": "337745505",
+      "deleteTn": "337732074",
+      "deleteMla": "MLA2026239728",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "000295",
+      "keepTn": "337745424",
+      "deleteTn": "337732227",
+      "deleteMla": "MLA2026278670",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "1212",
+      "keepTn": "337745485",
+      "deleteTn": "337714310",
+      "deleteMla": "MLA1506304797",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "MES-0004",
+      "keepTn": "337745103",
+      "deleteTn": "337745055",
+      "deleteMla": "MLA2847793634",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "MES-0004",
+      "keepTn": "337745103",
+      "deleteTn": "337736000",
+      "deleteMla": "MLA2109720022",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337729447",
+      "deleteMla": "MLA1973383976",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337727911",
+      "deleteMla": "MLA1937543848",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337708545",
+      "deleteMla": "MLA1455680557",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337708483",
+      "deleteMla": "MLA1455509033",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337727740",
+      "deleteMla": "MLA1936699792",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337721362",
+      "deleteMla": "MLA1671609387",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337721394",
+      "deleteMla": "MLA1671661281",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337742958",
+      "deleteMla": "MLA2650008170",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337742910",
+      "deleteMla": "MLA2648925406",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337743093",
+      "deleteMla": "MLA2671076426",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337741771",
+      "deleteMla": "MLA2491490730",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337741010",
+      "deleteMla": "MLA2471632884",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337740788",
+      "deleteMla": "MLA2470920744",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337740370",
+      "deleteMla": "MLA2465275978",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337740206",
+      "deleteMla": "MLA2439437912",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337740140",
+      "deleteMla": "MLA2439423992",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337716654",
+      "deleteMla": "MLA1557286055",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337740176",
+      "deleteMla": "MLA2439436570",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337716512",
+      "deleteMla": "MLA1555824383",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337738434",
+      "deleteMla": "MLA2261174472",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337714846",
+      "deleteMla": "MLA1515603927",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337737909",
+      "deleteMla": "MLA2216040288",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337714782",
+      "deleteMla": "MLA1513075777",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337714634",
+      "deleteMla": "MLA1511609641",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337737524",
+      "deleteMla": "MLA2199696220",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337732889",
+      "deleteMla": "MLA2029362180",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337729532",
+      "deleteMla": "MLA1974877976",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337709637",
+      "deleteMla": "MLA1463485399",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337728866",
+      "deleteMla": "MLA1968786050",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337729167",
+      "deleteMla": "MLA1968835462",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337729132",
+      "deleteMla": "MLA1968835354",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337701466",
+      "deleteMla": "MLA1303666034",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2202/CR",
+      "keepTn": "337721436",
+      "deleteTn": "337701417",
+      "deleteMla": "MLA1303640223",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "rt131/GCC",
+      "keepTn": "337744943",
+      "deleteTn": "337740768",
+      "deleteMla": "MLA2470805884",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161/c",
+      "keepTn": "337721251",
+      "deleteTn": "337759727",
+      "deleteMla": "MLA853629697",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "RT-161/c",
+      "keepTn": "337721251",
+      "deleteTn": "337720887",
+      "deleteMla": "MLA1664262141",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161/c",
+      "keepTn": "337721251",
+      "deleteTn": "337720942",
+      "deleteMla": "MLA1664275049",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161/c",
+      "keepTn": "337721251",
+      "deleteTn": "337720713",
+      "deleteMla": "MLA1664158423",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161/c",
+      "keepTn": "337721251",
+      "deleteTn": "337720989",
+      "deleteMla": "MLA1664377105",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161/c",
+      "keepTn": "337721251",
+      "deleteTn": "337720958",
+      "deleteMla": "MLA1664338229",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161/c",
+      "keepTn": "337721251",
+      "deleteTn": "337720925",
+      "deleteMla": "MLA1664273531",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161/c",
+      "keepTn": "337721251",
+      "deleteTn": "337720804",
+      "deleteMla": "MLA1664182861",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161/c",
+      "keepTn": "337721251",
+      "deleteTn": "337721016",
+      "deleteMla": "MLA1664377107",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161/c",
+      "keepTn": "337721251",
+      "deleteTn": "337717653",
+      "deleteMla": "MLA1562538025",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161/c",
+      "keepTn": "337721251",
+      "deleteTn": "337731183",
+      "deleteMla": "MLA2024525934",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161/c",
+      "keepTn": "337721251",
+      "deleteTn": "337757734",
+      "deleteMla": "MLA827007126",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC899/N-P",
+      "keepTn": "337721225",
+      "deleteTn": "337744759",
+      "deleteMla": "MLA2824957800",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC899/N-P",
+      "keepTn": "337721225",
+      "deleteTn": "337720780",
+      "deleteMla": "MLA1664171385",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Mesa Bandeja Kipa",
+      "keepTn": "337721124",
+      "deleteTn": "337744342",
+      "deleteMla": "MLA2804790090",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Mesa Bandeja Kipa",
+      "keepTn": "337721124",
+      "deleteTn": "337742237",
+      "deleteMla": "MLA2527786112",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Mesa Bandeja Kipa",
+      "keepTn": "337721124",
+      "deleteTn": "337717008",
+      "deleteMla": "MLA1559561435",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Mesa Bandeja Kipa",
+      "keepTn": "337721124",
+      "deleteTn": "337753816",
+      "deleteMla": "MLA728403798",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC899/B",
+      "keepTn": "337744810",
+      "deleteTn": "337720725",
+      "deleteMla": "MLA1664160617",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC899/B",
+      "keepTn": "337744810",
+      "deleteTn": "337728252",
+      "deleteMla": "MLA1962607918",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC899/B",
+      "keepTn": "337744810",
+      "deleteTn": "337728215",
+      "deleteMla": "MLA1962607354",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "SC-0004",
+      "keepTn": "337744792",
+      "deleteTn": "337741545",
+      "deleteMla": "MLA2474738940",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "SC-0004",
+      "keepTn": "337744792",
+      "deleteTn": "337731833",
+      "deleteMla": "MLA2026193794",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "SC-0004",
+      "keepTn": "337744792",
+      "deleteTn": "337731264",
+      "deleteMla": "MLA2026058382",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "SC-0003",
+      "keepTn": "337744775",
+      "deleteTn": "337732353",
+      "deleteMla": "MLA2026310918",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "SC-0003",
+      "keepTn": "337744775",
+      "deleteTn": "337729280",
+      "deleteMla": "MLA1971238032",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC899/N",
+      "keepTn": "337721102",
+      "deleteTn": "337728410",
+      "deleteMla": "MLA1962634056",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC899/N",
+      "keepTn": "337721102",
+      "deleteTn": "337728507",
+      "deleteMla": "MLA1962685420",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161/sm",
+      "keepTn": "337721080",
+      "deleteTn": "337729690",
+      "deleteMla": "MLA1977283562",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "RT-161/sm",
+      "keepTn": "337721080",
+      "deleteTn": "337744252",
+      "deleteMla": "MLA2794475834",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161/sm",
+      "keepTn": "337721080",
+      "deleteTn": "337744233",
+      "deleteMla": "MLA2794449792",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161/sm",
+      "keepTn": "337721080",
+      "deleteTn": "337744177",
+      "deleteMla": "MLA2790975696",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161/sm",
+      "keepTn": "337721080",
+      "deleteTn": "337744195",
+      "deleteMla": "MLA2791026954",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161/sm",
+      "keepTn": "337721080",
+      "deleteTn": "337711897",
+      "deleteMla": "MLA1481484679",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161 snt/C",
+      "keepTn": "337721048",
+      "deleteTn": "337720832",
+      "deleteMla": "MLA1664208085",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161 snt/C",
+      "keepTn": "337721048",
+      "deleteTn": "337720754",
+      "deleteMla": "MLA1664169171",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161 snt/C",
+      "keepTn": "337721048",
+      "deleteTn": "337720867",
+      "deleteMla": "MLA1664260015",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161 snt/C",
+      "keepTn": "337721048",
+      "deleteTn": "337720908",
+      "deleteMla": "MLA1664272873",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161 snt/C",
+      "keepTn": "337721048",
+      "deleteTn": "337720577",
+      "deleteMla": "MLA1662989887",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161 snt/C",
+      "keepTn": "337721048",
+      "deleteTn": "337720687",
+      "deleteMla": "MLA1663145487",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161 snt/C",
+      "keepTn": "337721048",
+      "deleteTn": "337720657",
+      "deleteMla": "MLA1663132447",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161 snt/C",
+      "keepTn": "337721048",
+      "deleteTn": "337720624",
+      "deleteMla": "MLA1663093525",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161 snt/C",
+      "keepTn": "337721048",
+      "deleteTn": "337720594",
+      "deleteMla": "MLA1663067313",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161 snt/C",
+      "keepTn": "337721048",
+      "deleteTn": "337737573",
+      "deleteMla": "MLA2202492494",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161 snt/C",
+      "keepTn": "337721048",
+      "deleteTn": "337737641",
+      "deleteMla": "MLA2202517958",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC812-GB",
+      "keepTn": "337744707",
+      "deleteTn": "337744726",
+      "deleteMla": "MLA2822142448",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "000256",
+      "keepTn": "337720547",
+      "deleteTn": "337727995",
+      "deleteMla": "MLA1940005610",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "000256",
+      "keepTn": "337720547",
+      "deleteTn": "337743531",
+      "deleteMla": "MLA2744432158",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "000256",
+      "keepTn": "337720547",
+      "deleteTn": "337717870",
+      "deleteMla": "MLA1562689977",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "000256",
+      "keepTn": "337720547",
+      "deleteTn": "337728967",
+      "deleteMla": "MLA1968798990",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "000256",
+      "keepTn": "337720547",
+      "deleteTn": "337728940",
+      "deleteMla": "MLA1968798984",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "000256",
+      "keepTn": "337720547",
+      "deleteTn": "337708063",
+      "deleteMla": "MLA1452053201",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT-2208/XXLNT",
+      "keepTn": "337744588",
+      "deleteTn": "337744469",
+      "deleteMla": "MLA2807037470",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT-2208/XLNT",
+      "keepTn": "337744620",
+      "deleteTn": "337744536",
+      "deleteMla": "MLA2807075272",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "111521albany200x100",
+      "keepTn": "337744324",
+      "deleteTn": "337744298",
+      "deleteMla": "MLA2799849282",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "111521albany200x100",
+      "keepTn": "337744324",
+      "deleteTn": "337720311",
+      "deleteMla": "MLA1653096983",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "1111",
+      "keepTn": "337743969",
+      "deleteTn": "337740038",
+      "deleteMla": "MLA2432646946",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "1111",
+      "keepTn": "337743969",
+      "deleteTn": "337761525",
+      "deleteMla": "MLA897197213",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "1111",
+      "keepTn": "337743969",
+      "deleteTn": "337761431",
+      "deleteMla": "MLA897197090",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "1344",
+      "keepTn": "337743945",
+      "deleteTn": "337715754",
+      "deleteMla": "MLA1519532593",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "1344",
+      "keepTn": "337743945",
+      "deleteTn": "337715692",
+      "deleteMla": "MLA1519488775",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "MKE-UP/G-220",
+      "keepTn": "337743656",
+      "deleteTn": "337743629",
+      "deleteMla": "MLA2752873896",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "MKE-UP/BE-185",
+      "keepTn": "337743554",
+      "deleteTn": "337719859",
+      "deleteMla": "MLA1634628739",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0002034",
+      "keepTn": "337743717",
+      "deleteTn": "337716602",
+      "deleteMla": "MLA1557185665",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0002034",
+      "keepTn": "337743717",
+      "deleteTn": "337738381",
+      "deleteMla": "MLA2234057516",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0002034",
+      "keepTn": "337743717",
+      "deleteTn": "337711665",
+      "deleteMla": "MLA1480643747",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0002034",
+      "keepTn": "337743717",
+      "deleteTn": "337729103",
+      "deleteMla": "MLA1968811034",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/W",
+      "keepTn": "337719820",
+      "deleteTn": "337743747",
+      "deleteMla": "MLA2753720664",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/W",
+      "keepTn": "337719820",
+      "deleteTn": "337742690",
+      "deleteMla": "MLA2581460102",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/W",
+      "keepTn": "337719820",
+      "deleteTn": "337742408",
+      "deleteMla": "MLA2546768092",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/W",
+      "keepTn": "337719820",
+      "deleteTn": "337742352",
+      "deleteMla": "MLA2536022480",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/W",
+      "keepTn": "337719820",
+      "deleteTn": "337717464",
+      "deleteMla": "MLA1560679627",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/W",
+      "keepTn": "337719820",
+      "deleteTn": "337740667",
+      "deleteMla": "MLA2466796316",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/W",
+      "keepTn": "337719820",
+      "deleteTn": "337717328",
+      "deleteMla": "MLA1560575535",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/W",
+      "keepTn": "337719820",
+      "deleteTn": "337717302",
+      "deleteMla": "MLA1560575533",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/W",
+      "keepTn": "337719820",
+      "deleteTn": "337717394",
+      "deleteMla": "MLA1560600671",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/W",
+      "keepTn": "337719820",
+      "deleteTn": "337717359",
+      "deleteMla": "MLA1560600669",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/W",
+      "keepTn": "337719820",
+      "deleteTn": "337714746",
+      "deleteMla": "MLA1513070363",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/W",
+      "keepTn": "337719820",
+      "deleteTn": "337712083",
+      "deleteMla": "MLA1490271129",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/W",
+      "keepTn": "337719820",
+      "deleteTn": "337712168",
+      "deleteMla": "MLA1490309519",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT532/W",
+      "keepTn": "337719820",
+      "deleteTn": "337730170",
+      "deleteMla": "MLA2007594838",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "SC-0012",
+      "keepTn": "337743787",
+      "deleteTn": "337743774",
+      "deleteMla": "MLA2753771820",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "SC-0012",
+      "keepTn": "337743787",
+      "deleteTn": "337742653",
+      "deleteMla": "MLA2580780010",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "SC-0012",
+      "keepTn": "337743787",
+      "deleteTn": "337753148",
+      "deleteMla": "MLA720078953",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSV-0040",
+      "keepTn": "337719606",
+      "deleteTn": "337734488",
+      "deleteMla": "MLA2068516646",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSV-0040",
+      "keepTn": "337719606",
+      "deleteTn": "337702221",
+      "deleteMla": "MLA1373904805",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSV-0040",
+      "keepTn": "337719606",
+      "deleteTn": "337705931",
+      "deleteMla": "MLA1434972006",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "225522",
+      "keepTn": "337743458",
+      "deleteTn": "337743420",
+      "deleteMla": "MLA2715748452",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "225522",
+      "keepTn": "337743458",
+      "deleteTn": "337713626",
+      "deleteMla": "MLA1499848091",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSV-000103",
+      "keepTn": "337743507",
+      "deleteTn": "337713589",
+      "deleteMla": "MLA1499834967",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-192L/NT",
+      "keepTn": "337743033",
+      "deleteTn": "337742992",
+      "deleteMla": "MLA2659866310",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-192L/NT",
+      "keepTn": "337743033",
+      "deleteTn": "337718978",
+      "deleteMla": "MLA1573484949",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-192L/NT",
+      "keepTn": "337743033",
+      "deleteTn": "337719086",
+      "deleteMla": "MLA1573683645",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-192L/NT",
+      "keepTn": "337743033",
+      "deleteTn": "337714029",
+      "deleteMla": "MLA1502183347",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-192L/NT",
+      "keepTn": "337743033",
+      "deleteTn": "337731444",
+      "deleteMla": "MLA2026088124",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-192L/NT",
+      "keepTn": "337743033",
+      "deleteTn": "337725170",
+      "deleteMla": "MLA1853097936",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-192L/NT",
+      "keepTn": "337743033",
+      "deleteTn": "337706266",
+      "deleteMla": "MLA1436581479",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-192L/NT",
+      "keepTn": "337743033",
+      "deleteTn": "337706147",
+      "deleteMla": "MLA1435209999",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT2212/WH",
+      "keepTn": "337719530",
+      "deleteTn": "337719425",
+      "deleteMla": "MLA1602917853",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "MARIPOSA",
+      "keepTn": "337719396",
+      "deleteTn": "337750996",
+      "deleteMla": "MLA665140628",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC 8918 TAN",
+      "keepTn": "337719361",
+      "deleteTn": "337719329",
+      "deleteMla": "MLA1596525833",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC 8918 KRMLN",
+      "keepTn": "337742757",
+      "deleteTn": "337719284",
+      "deleteMla": "MLA1596413169",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PAV-0007",
+      "keepTn": "337742612",
+      "deleteTn": "337701603",
+      "deleteMla": "MLA1309800109",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "PAV-0007",
+      "keepTn": "337742612",
+      "deleteTn": "337742633",
+      "deleteMla": "MLA2571942296",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC1005/TO",
+      "keepTn": "337742532",
+      "deleteTn": "337742511",
+      "deleteMla": "MLA2552727340",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "217521211med",
+      "keepTn": "337719175",
+      "deleteTn": "337719127",
+      "deleteMla": "MLA1574915399",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSV-0008",
+      "keepTn": "337742384",
+      "deleteTn": "337740715",
+      "deleteMla": "MLA2467694620",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "000240",
+      "keepTn": "337742302",
+      "deleteTn": "337736149",
+      "deleteMla": "MLA2116369786",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "000240",
+      "keepTn": "337742302",
+      "deleteTn": "337733743",
+      "deleteMla": "MLA2038991054",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "000240",
+      "keepTn": "337742302",
+      "deleteTn": "337728903",
+      "deleteMla": "MLA1968786060",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "FDC201/NB",
+      "keepTn": "337719010",
+      "deleteTn": "337719048",
+      "deleteMla": "MLA1573583287",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "FDC201/NB",
+      "keepTn": "337719010",
+      "deleteTn": "337716552",
+      "deleteMla": "MLA1555981499",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "FDC201/NB",
+      "keepTn": "337719010",
+      "deleteTn": "337740087",
+      "deleteMla": "MLA2434373472",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "FDC201/NB",
+      "keepTn": "337719010",
+      "deleteTn": "337713308",
+      "deleteMla": "MLA1498582657",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "FDC201/NB",
+      "keepTn": "337719010",
+      "deleteTn": "337731776",
+      "deleteMla": "MLA2026162406",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "dt-2216-1/M",
+      "keepTn": "337718868",
+      "deleteTn": "337725287",
+      "deleteMla": "MLA1855044356",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "dt-2216-1/M",
+      "keepTn": "337718868",
+      "deleteTn": "337725093",
+      "deleteMla": "MLA1852981032",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "dt-2216-1/M",
+      "keepTn": "337718868",
+      "deleteTn": "337706225",
+      "deleteMla": "MLA1436555597",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "dt-2216-1/M",
+      "keepTn": "337718868",
+      "deleteTn": "337718907",
+      "deleteMla": "MLA1571351863",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "dt-2216-1/M",
+      "keepTn": "337718868",
+      "deleteTn": "337735876",
+      "deleteMla": "MLA2098434114",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "dt-2216-1/M",
+      "keepTn": "337718868",
+      "deleteTn": "337732167",
+      "deleteMla": "MLA2026258320",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "dt-2216-1/M",
+      "keepTn": "337718868",
+      "deleteTn": "337706115",
+      "deleteMla": "MLA1435196855",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "S21A/GO-W",
+      "keepTn": "337742218",
+      "deleteTn": "337742191",
+      "deleteMla": "MLA2518033242",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "ST4101-BN",
+      "keepTn": "337718507",
+      "deleteTn": "337718602",
+      "deleteMla": "MLA1569690905",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "11441114al",
+      "keepTn": "337718558",
+      "deleteTn": "337718627",
+      "deleteMla": "MLA1569919179",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "134141p",
+      "keepTn": "337718451",
+      "deleteTn": "337718526",
+      "deleteMla": "MLA1569648009",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "ST4251-RC",
+      "keepTn": "337718581",
+      "deleteTn": "337742088",
+      "deleteMla": "MLA2506716440",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "ST4251-VC",
+      "keepTn": "337718424",
+      "deleteTn": "337742156",
+      "deleteMla": "MLA2507930608",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "141",
+      "keepTn": "337741965",
+      "deleteTn": "337741921",
+      "deleteMla": "MLA2506633354",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "142",
+      "keepTn": "337742124",
+      "deleteTn": "337718387",
+      "deleteMla": "MLA1568940413",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "39013",
+      "keepTn": "337718331",
+      "deleteTn": "337741945",
+      "deleteMla": "MLA2506658976",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "ST4121-RCTR",
+      "keepTn": "337741906",
+      "deleteTn": "337741818",
+      "deleteMla": "MLA2498601722",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "ST4121-NCTR",
+      "keepTn": "337741861",
+      "deleteTn": "337718307",
+      "deleteMla": "MLA1568168727",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "52566",
+      "keepTn": "337741700",
+      "deleteTn": "337741734",
+      "deleteMla": "MLA2489379966",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "87656",
+      "keepTn": "337718166",
+      "deleteTn": "337718197",
+      "deleteMla": "MLA1566348859",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PEJ-0003",
+      "keepTn": "337718249",
+      "deleteTn": "337726773",
+      "deleteMla": "MLA1923209566",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "68191e2f-3be8-47e5-af55-47f3b38f37ff",
+      "keepTn": "337741651",
+      "deleteTn": "337704094",
+      "deleteMla": "MLA1409920945",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "JD5536/W",
+      "keepTn": "337718134",
+      "deleteTn": "337718098",
+      "deleteMla": "MLA1566260957",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "JD5235/GO",
+      "keepTn": "337718075",
+      "deleteTn": "337718050",
+      "deleteMla": "MLA1565437063",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "SO-0027",
+      "keepTn": "337741454",
+      "deleteTn": "337730372",
+      "deleteMla": "MLA2011248768",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "SO-0027",
+      "keepTn": "337741454",
+      "deleteTn": "337709108",
+      "deleteMla": "MLA1462472733",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-124C/B",
+      "keepTn": "337717981",
+      "deleteTn": "337739681",
+      "deleteMla": "MLA2417825404",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-124C/B",
+      "keepTn": "337717981",
+      "deleteTn": "337736534",
+      "deleteMla": "MLA2149700624",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-124C/B",
+      "keepTn": "337717981",
+      "deleteTn": "337736359",
+      "deleteMla": "MLA2130961062",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "FDC201/N",
+      "keepTn": "337741407",
+      "deleteTn": "337741263",
+      "deleteMla": "MLA2473263142",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PBCV-0007",
+      "keepTn": "337717965",
+      "deleteTn": "337731309",
+      "deleteMla": "MLA2026062962",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PBCV-0007",
+      "keepTn": "337717965",
+      "deleteTn": "337724440",
+      "deleteMla": "MLA1763270758",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSV-0056",
+      "keepTn": "337741305",
+      "deleteTn": "337701909",
+      "deleteMla": "MLA1322199517",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "T-9001/N",
+      "keepTn": "337717907",
+      "deleteTn": "337713240",
+      "deleteMla": "MLA1497401353",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "T-9001/N",
+      "keepTn": "337717907",
+      "deleteTn": "337712745",
+      "deleteMla": "MLA1497022883",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "T-9001/N",
+      "keepTn": "337717907",
+      "deleteTn": "337700117",
+      "deleteMla": "MLA1149059492",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "T-9001/N",
+      "keepTn": "337717907",
+      "deleteTn": "337700070",
+      "deleteMla": "MLA1148901433",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "K1191/N",
+      "keepTn": "337717743",
+      "deleteTn": "337736982",
+      "deleteMla": "MLA2166453894",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "K1191/N",
+      "keepTn": "337717743",
+      "deleteTn": "337729791",
+      "deleteMla": "MLA1986309926",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "SO-0025",
+      "keepTn": "337717771",
+      "deleteTn": "337709559",
+      "deleteMla": "MLA1463469113",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "SO-0025",
+      "keepTn": "337717771",
+      "deleteTn": "337728445",
+      "deleteMla": "MLA1962659032",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0002050",
+      "keepTn": "337741111",
+      "deleteTn": "337707418",
+      "deleteMla": "MLA1443337469",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "0002050",
+      "keepTn": "337741111",
+      "deleteTn": "337725456",
+      "deleteMla": "MLA1855096376",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "0002050",
+      "keepTn": "337741111",
+      "deleteTn": "337733161",
+      "deleteMla": "MLA2031860090",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0002050",
+      "keepTn": "337741111",
+      "deleteTn": "337724766",
+      "deleteMla": "MLA1827459276",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Organizado con Estante",
+      "keepTn": "337741207",
+      "deleteTn": "337734942",
+      "deleteMla": "MLA2080213356",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Organizado con Estante",
+      "keepTn": "337741207",
+      "deleteTn": "337731596",
+      "deleteMla": "MLA2026128902",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Organizado con Estante",
+      "keepTn": "337741207",
+      "deleteTn": "337731567",
+      "deleteMla": "MLA2026128238",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Organizado con Estante",
+      "keepTn": "337741207",
+      "deleteTn": "337755426",
+      "deleteMla": "MLA797095159",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Organizado con Estante",
+      "keepTn": "337741207",
+      "deleteTn": "337755354",
+      "deleteMla": "MLA797095154",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Organizado con Estante",
+      "keepTn": "337741207",
+      "deleteTn": "337753980",
+      "deleteMla": "MLA728774590",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "Organizado con Estante",
+      "keepTn": "337741207",
+      "deleteTn": "337753887",
+      "deleteMla": "MLA728617306",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "YC-09B",
+      "keepTn": "337740964",
+      "deleteTn": "337724149",
+      "deleteMla": "MLA1745909230",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "PAV-0003",
+      "keepTn": "337740847",
+      "deleteTn": "337717524",
+      "deleteMla": "MLA1562275633",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PAV-0003",
+      "keepTn": "337740847",
+      "deleteTn": "337733034",
+      "deleteMla": "MLA2030495084",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PAV-0003",
+      "keepTn": "337740847",
+      "deleteTn": "337692864",
+      "deleteMla": "MLA1100830832",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PAV-0003",
+      "keepTn": "337740847",
+      "deleteTn": "337764800",
+      "deleteMla": "MLA935566450",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSV-0038\tSV-0038",
+      "keepTn": "337717569",
+      "deleteTn": "337734521",
+      "deleteMla": "MLA2068607012",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSV-0038\tSV-0038",
+      "keepTn": "337717569",
+      "deleteTn": "337763425",
+      "deleteMla": "MLA928980000",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSV-0038\tSV-0038",
+      "keepTn": "337717569",
+      "deleteTn": "337763368",
+      "deleteMla": "MLA928978065",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "SC-0021",
+      "keepTn": "337740812",
+      "deleteTn": "337740905",
+      "deleteMla": "MLA2471399378",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "031111",
+      "keepTn": "337740566",
+      "deleteTn": "337717184",
+      "deleteMla": "MLA1560199041",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "031111",
+      "keepTn": "337740566",
+      "deleteTn": "337716478",
+      "deleteMla": "MLA1555802321",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "111425",
+      "keepTn": "337739860",
+      "deleteTn": "337739775",
+      "deleteMla": "MLA2417873094",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "11155",
+      "keepTn": "337739908",
+      "deleteTn": "337707029",
+      "deleteMla": "MLA1442523383",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-124C/N",
+      "keepTn": "337739717",
+      "deleteTn": "337736401",
+      "deleteMla": "MLA2131038858",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "CITY",
+      "keepTn": "337739604",
+      "deleteTn": "337750770",
+      "deleteMla": "MLA657018592",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "000371",
+      "keepTn": "337716268",
+      "deleteTn": "337739280",
+      "deleteMla": "MLA2336080226",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC608N/GC",
+      "keepTn": "337739503",
+      "deleteTn": "337715625",
+      "deleteMla": "MLA1518060439",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC608N/GC",
+      "keepTn": "337739503",
+      "deleteTn": "337715557",
+      "deleteMla": "MLA1517933325",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "YC-04F/GO",
+      "keepTn": "337716031",
+      "deleteTn": "337735415",
+      "deleteMla": "MLA2088088574",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC608N/GO",
+      "keepTn": "337739151",
+      "deleteTn": "337736571",
+      "deleteMla": "MLA2158435232",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC608N/GO",
+      "keepTn": "337739151",
+      "deleteTn": "337735620",
+      "deleteMla": "MLA2090667190",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC608N/GO",
+      "keepTn": "337739151",
+      "deleteTn": "337713022",
+      "deleteMla": "MLA1497251085",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "SF2504B/",
+      "keepTn": "337715514",
+      "deleteTn": "337715414",
+      "deleteMla": "MLA1517543315",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "SF2504B",
+      "keepTn": "337715463",
+      "deleteTn": "337715495",
+      "deleteMla": "MLA1517581467",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "222446",
+      "keepTn": "337715382",
+      "deleteTn": "337715443",
+      "deleteMla": "MLA1517567059",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "68af67f8-8a68-4767-a927-41efb38f37ff",
+      "keepTn": "337738959",
+      "deleteTn": "337738817",
+      "deleteMla": "MLA2301613624",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "68af68a6-4a78-4a33-ada4-4ac8b38f37ff",
+      "keepTn": "337715242",
+      "deleteTn": "337738725",
+      "deleteMla": "MLA2290499388",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "68af68a6-dde0-4263-9f9d-49d2b38f37ff",
+      "keepTn": "337715274",
+      "deleteTn": "337738646",
+      "deleteMla": "MLA2290474008",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "68af690d-a3b4-4c5e-9842-4a42b38f37ff",
+      "keepTn": "337715198",
+      "deleteTn": "337715133",
+      "deleteMla": "MLA1517227899",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "68af690d-6660-45e1-b91c-46a1b38f37ff",
+      "keepTn": "337715323",
+      "deleteTn": "337738775",
+      "deleteMla": "MLA2292974402",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "68af690d-2330-4a52-9f51-4765b38f37ff",
+      "keepTn": "337715348",
+      "deleteTn": "337715093",
+      "deleteMla": "MLA1517206503",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "68af690d-ea04-45e3-8afc-46e0b38f37ff",
+      "keepTn": "337715164",
+      "deleteTn": "337715062",
+      "deleteMla": "MLA1517181363",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "EPJOP-0002",
+      "keepTn": "337738299",
+      "deleteTn": "337738340",
+      "deleteMla": "MLA2225517662",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "EPJOP-0002",
+      "keepTn": "337738299",
+      "deleteTn": "337736222",
+      "deleteMla": "MLA2117266840",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "EPJOP-0002",
+      "keepTn": "337738299",
+      "deleteTn": "337736267",
+      "deleteMla": "MLA2117318878",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "SPJPC-00001",
+      "keepTn": "337738264",
+      "deleteTn": "337736186",
+      "deleteMla": "MLA2116902764",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "prtp-031",
+      "keepTn": "337738024",
+      "deleteTn": "337738208",
+      "deleteMla": "MLA2220181148",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "pml-012",
+      "keepTn": "337738100",
+      "deleteTn": "337738159",
+      "deleteMla": "MLA2220022086",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC608-N",
+      "keepTn": "337737487",
+      "deleteTn": "337697958",
+      "deleteMla": "MLA1107631322",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "DC608-N",
+      "keepTn": "337737487",
+      "deleteTn": "337705849",
+      "deleteMla": "MLA1433478297",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "681a528a-fa70-4ad3-8526-40d8b38f37ff",
+      "keepTn": "337737280",
+      "deleteTn": "337698212",
+      "deleteMla": "MLA1115050698",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "681a528a-fa70-4ad3-8526-40d8b38f37ff",
+      "keepTn": "337737280",
+      "deleteTn": "337763101",
+      "deleteMla": "MLA918295339",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "681a528a-fa70-4ad3-8526-40d8b38f37ff",
+      "keepTn": "337737280",
+      "deleteTn": "337763036",
+      "deleteMla": "MLA918292892",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSV-0004",
+      "keepTn": "337737212",
+      "deleteTn": "337711096",
+      "deleteMla": "MLA1475326761",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSV-0004",
+      "keepTn": "337737212",
+      "deleteTn": "337711057",
+      "deleteMla": "MLA1475326171",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "K1191/B",
+      "keepTn": "337736937",
+      "deleteTn": "337713665",
+      "deleteMla": "MLA1500075683",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "K1191/B",
+      "keepTn": "337736937",
+      "deleteTn": "337713697",
+      "deleteMla": "MLA1500208761",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "K1191/B",
+      "keepTn": "337736937",
+      "deleteTn": "337735592",
+      "deleteMla": "MLA2089114738",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "K1191/B",
+      "keepTn": "337736937",
+      "deleteTn": "337710481",
+      "deleteMla": "MLA1469151279",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "K1191/B",
+      "keepTn": "337736937",
+      "deleteTn": "337729026",
+      "deleteMla": "MLA1968810852",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "K1191/B",
+      "keepTn": "337736937",
+      "deleteTn": "337725664",
+      "deleteMla": "MLA1881869290",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "LR-7333/B",
+      "keepTn": "337736494",
+      "deleteTn": "337713003",
+      "deleteMla": "MLA1497233911",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "SC-0022",
+      "keepTn": "337736442",
+      "deleteTn": "337732127",
+      "deleteMla": "MLA2026257448",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "LR-7333/N",
+      "keepTn": "337736521",
+      "deleteTn": "337713281",
+      "deleteMla": "MLA1498493143",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "682f6902-0744-4f36-85e2-4d83b38f37ff",
+      "keepTn": "337736319",
+      "deleteTn": "337735219",
+      "deleteMla": "MLA2082793848",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC1752/T",
+      "keepTn": "337736060",
+      "deleteTn": "337733827",
+      "deleteMla": "MLA2042675756",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC1752/T",
+      "keepTn": "337736060",
+      "deleteTn": "337732585",
+      "deleteMla": "MLA2026942232",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "tt-121/N",
+      "keepTn": "337714208",
+      "deleteTn": "337714259",
+      "deleteMla": "MLA1504174869",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "tt-121/N",
+      "keepTn": "337714208",
+      "deleteTn": "337735937",
+      "deleteMla": "MLA2103847676",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "tt-121/N",
+      "keepTn": "337714208",
+      "deleteTn": "337735900",
+      "deleteMla": "MLA2103821586",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "tt-121/N",
+      "keepTn": "337714208",
+      "deleteTn": "337733788",
+      "deleteMla": "MLA2040663372",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "tt-121/N",
+      "keepTn": "337714208",
+      "deleteTn": "337711994",
+      "deleteMla": "MLA1486403971",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "tt-121/N",
+      "keepTn": "337714208",
+      "deleteTn": "337733391",
+      "deleteMla": "MLA2033976360",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "tt-121/N",
+      "keepTn": "337714208",
+      "deleteTn": "337733345",
+      "deleteMla": "MLA2033976154",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-T09/MB",
+      "keepTn": "337735506",
+      "deleteTn": "337712509",
+      "deleteMla": "MLA1491864771",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "XB-T09/MB",
+      "keepTn": "337735506",
+      "deleteTn": "337734369",
+      "deleteMla": "MLA2061375754",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "YC-09B/GC",
+      "keepTn": "337735448",
+      "deleteTn": "337734874",
+      "deleteMla": "MLA2079835296",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "YC-14A/BN",
+      "keepTn": "337713331",
+      "deleteTn": "337734802",
+      "deleteMla": "MLA2078093428",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "YC-14A/BN",
+      "keepTn": "337713331",
+      "deleteTn": "337733920",
+      "deleteMla": "MLA2043426678",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "FDC201/B",
+      "keepTn": "337735302",
+      "deleteTn": "337732399",
+      "deleteMla": "MLA2026311428",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "1414",
+      "keepTn": "337735290",
+      "deleteTn": "337732834",
+      "deleteMla": "MLA2028386832",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "S075/BE",
+      "keepTn": "337735371",
+      "deleteTn": "337731412",
+      "deleteMla": "MLA2026077560",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PAH-0001",
+      "keepTn": "337735268",
+      "deleteTn": "337769608",
+      "deleteMla": "MLA932191246",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "PAH-0001",
+      "keepTn": "337735268",
+      "deleteTn": "337773512",
+      "deleteMla": "MLA932189978",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "PAH-0001",
+      "keepTn": "337735268",
+      "deleteTn": "337712036",
+      "deleteMla": "MLA1487739505",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PAH-0001",
+      "keepTn": "337735268",
+      "deleteTn": "337732259",
+      "deleteMla": "MLA2026283554",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PAH-0001",
+      "keepTn": "337735268",
+      "deleteTn": "337768157",
+      "deleteMla": "MLA1411581284",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "S06A BE",
+      "keepTn": "337735106",
+      "deleteTn": "337735153",
+      "deleteMla": "MLA2081878084",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PRJ-0001",
+      "keepTn": "337712920",
+      "deleteTn": "337732686",
+      "deleteMla": "MLA2026968852",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PRJ-0001",
+      "keepTn": "337712920",
+      "deleteTn": "337700259",
+      "deleteMla": "MLA1215044796",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PRJ-0001",
+      "keepTn": "337712920",
+      "deleteTn": "337768094",
+      "deleteMla": "MLA1215241108",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "681a547c-5e44-44d3-bf3f-42ebb38f37ff",
+      "keepTn": "337734839",
+      "deleteTn": "337763237",
+      "deleteMla": "MLA923055921",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSV-0031",
+      "keepTn": "337734458",
+      "deleteTn": "337700155",
+      "deleteMla": "MLA1149154308",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161 snt/SM",
+      "keepTn": "337733500",
+      "deleteTn": "337724945",
+      "deleteMla": "MLA1844045158",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "RT-161 snt/SM",
+      "keepTn": "337733500",
+      "deleteTn": "337733550",
+      "deleteMla": "MLA2034883916",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT-161 snt/SM",
+      "keepTn": "337733500",
+      "deleteTn": "337711770",
+      "deleteMla": "MLA1481329303",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "tt-121/SM",
+      "keepTn": "337733440",
+      "deleteTn": "337733285",
+      "deleteMla": "MLA2033340996",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0002049",
+      "keepTn": "337733218",
+      "deleteTn": "337707335",
+      "deleteMla": "MLA1443019495",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "0002049",
+      "keepTn": "337733218",
+      "deleteTn": "337707148",
+      "deleteMla": "MLA1442815837",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0002049",
+      "keepTn": "337733218",
+      "deleteTn": "337707191",
+      "deleteMla": "MLA1442852233",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0002049",
+      "keepTn": "337733218",
+      "deleteTn": "337724705",
+      "deleteMla": "MLA1827447220",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "682f6c83-b074-4154-a1bf-aad1b38f37ff",
+      "keepTn": "337733068",
+      "deleteTn": "337704671",
+      "deleteMla": "MLA1415254231",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PAH-0004",
+      "keepTn": "337733122",
+      "deleteTn": "337699282",
+      "deleteMla": "MLA1135691541",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "PAH-0004",
+      "keepTn": "337733122",
+      "deleteTn": "337699105",
+      "deleteMla": "MLA1133861749",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSO-0007, PME-0011",
+      "keepTn": "337732979",
+      "deleteTn": "337732939",
+      "deleteMla": "MLA2029427940",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSV-0012",
+      "keepTn": "337732864",
+      "deleteTn": "337703604",
+      "deleteMla": "MLA1391906377",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PEJ-0008",
+      "keepTn": "337732848",
+      "deleteTn": "337700644",
+      "deleteMla": "MLA1221070865",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DIFU BLANCO",
+      "keepTn": "337711853",
+      "deleteTn": "337750439",
+      "deleteMla": "MLA646351606",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "DIFU BLANCO",
+      "keepTn": "337711853",
+      "deleteTn": "337731533",
+      "deleteMla": "MLA2026115470",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DIFU BLANCO",
+      "keepTn": "337711853",
+      "deleteTn": "337758255",
+      "deleteMla": "MLA833556335",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "681a5194-26d4-448f-a677-4bbeb38f37ff",
+      "keepTn": "337711810",
+      "deleteTn": "337701115",
+      "deleteMla": "MLA1252079452",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "681a518e-dbf8-45b3-a717-4bb2b38f37ff",
+      "keepTn": "337732509",
+      "deleteTn": "337763296",
+      "deleteMla": "MLA923060665",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "681a519b-b9d4-493d-b9ca-461eb38f37ff",
+      "keepTn": "337732466",
+      "deleteTn": "337701205",
+      "deleteMla": "MLA1253428511",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PTN-0002",
+      "keepTn": "337732663",
+      "deleteTn": "337731924",
+      "deleteMla": "MLA2026207986",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PTN-0002",
+      "keepTn": "337732663",
+      "deleteTn": "337757472",
+      "deleteMla": "MLA823143789",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PTN-0002",
+      "keepTn": "337732663",
+      "deleteTn": "337757400",
+      "deleteMla": "MLA823143661",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PTN-0002",
+      "keepTn": "337732663",
+      "deleteTn": "337754890",
+      "deleteMla": "MLA788670957",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PTN-0002",
+      "keepTn": "337732663",
+      "deleteTn": "337753708",
+      "deleteMla": "MLA728341180",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "68152f1b-667c-49ff-8791-4e00b38f37ff",
+      "keepTn": "337732556",
+      "deleteTn": "337754108",
+      "deleteMla": "MLA752093841",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PEJ-0012",
+      "keepTn": "337732626",
+      "deleteTn": "337719655",
+      "deleteMla": "MLA1626437458",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PBCV-0009",
+      "keepTn": "337731479",
+      "deleteTn": "337731237",
+      "deleteMla": "MLA2025709748",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PBCV-0009",
+      "keepTn": "337731479",
+      "deleteTn": "337711691",
+      "deleteMla": "MLA1480790073",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PBCV-0009",
+      "keepTn": "337731479",
+      "deleteTn": "337724839",
+      "deleteMla": "MLA1832900964",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "68192374-759c-494e-9e85-4921b38f37ff",
+      "keepTn": "337731498",
+      "deleteTn": "337699952",
+      "deleteMla": "MLA1147332651",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PEJ-0016",
+      "keepTn": "337731801",
+      "deleteTn": "337698118",
+      "deleteMla": "MLA1112804076",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PEJ-0016",
+      "keepTn": "337731801",
+      "deleteTn": "337698102",
+      "deleteMla": "MLA1112780689",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PBCV-0008",
+      "keepTn": "337731872",
+      "deleteTn": "337705625",
+      "deleteMla": "MLA1431671105",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "alma balto",
+      "keepTn": "337731757",
+      "deleteTn": "337753605",
+      "deleteMla": "MLA728102625",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "68151c3b-a570-4dcf-9b8d-4be0b38f37ff",
+      "keepTn": "337732293",
+      "deleteTn": "337724659",
+      "deleteMla": "MLA1791718770",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PEJ-0007",
+      "keepTn": "337731657",
+      "deleteTn": "337701321",
+      "deleteMla": "MLA1285496088",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "PEJ-0007",
+      "keepTn": "337731657",
+      "deleteTn": "337701366",
+      "deleteMla": "MLA1285515424",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "PSV-0001",
+      "keepTn": "337731374",
+      "deleteTn": "337751487",
+      "deleteMla": "MLA676606115",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "KB917-2/BN",
+      "keepTn": "337732326",
+      "deleteTn": "337714670",
+      "deleteMla": "MLA1512875652",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSO-0007",
+      "keepTn": "337731011",
+      "deleteTn": "337772893",
+      "deleteMla": "MLA799050985",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "PSO-0007",
+      "keepTn": "337731011",
+      "deleteTn": "337768621",
+      "deleteMla": "MLA639489698",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "PSO-0007",
+      "keepTn": "337731011",
+      "deleteTn": "337757549",
+      "deleteMla": "MLA824015253",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "000230",
+      "keepTn": "337730967",
+      "deleteTn": "337730989",
+      "deleteMla": "MLA2022627398",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "000230",
+      "keepTn": "337730967",
+      "deleteTn": "337728388",
+      "deleteMla": "MLA1962633684",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "000230",
+      "keepTn": "337730967",
+      "deleteTn": "337728484",
+      "deleteMla": "MLA1962672054",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "SC-0026",
+      "keepTn": "337711523",
+      "deleteTn": "337711489",
+      "deleteMla": "MLA1479062641",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "SC-0026",
+      "keepTn": "337711523",
+      "deleteTn": "337728285",
+      "deleteMla": "MLA1962620630",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "SC-0026",
+      "keepTn": "337711523",
+      "deleteTn": "337728580",
+      "deleteMla": "MLA1962698090",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSC-0010",
+      "keepTn": "337730604",
+      "deleteTn": "337730560",
+      "deleteMla": "MLA2017515100",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSV-0028",
+      "keepTn": "337730479",
+      "deleteTn": "337730397",
+      "deleteMla": "MLA2015370132",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSV-0026",
+      "keepTn": "337711338",
+      "deleteTn": "337711258",
+      "deleteMla": "MLA1476367563",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSV-0020",
+      "keepTn": "337711149",
+      "deleteTn": "337705100",
+      "deleteMla": "MLA1420484767",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSV-0005",
+      "keepTn": "337730337",
+      "deleteTn": "337704726",
+      "deleteMla": "MLA1415859511",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT780",
+      "keepTn": "337727092",
+      "deleteTn": "337730237",
+      "deleteMla": "MLA2008975918",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "RT780",
+      "keepTn": "337727092",
+      "deleteTn": "337727179",
+      "deleteMla": "MLA1933091142",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "RT780",
+      "keepTn": "337727092",
+      "deleteTn": "337706667",
+      "deleteMla": "MLA1437455624",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "RT780",
+      "keepTn": "337727092",
+      "deleteTn": "337706526",
+      "deleteMla": "MLA1437441966",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "RT780",
+      "keepTn": "337727092",
+      "deleteTn": "337760030",
+      "deleteMla": "MLA855505996",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "RT780",
+      "keepTn": "337727092",
+      "deleteTn": "337702265",
+      "deleteMla": "MLA1374393955",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT780",
+      "keepTn": "337727092",
+      "deleteTn": "337706417",
+      "deleteMla": "MLA1437430362",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT780",
+      "keepTn": "337727092",
+      "deleteTn": "337706735",
+      "deleteMla": "MLA1437456232",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "C602-1/v",
+      "keepTn": "337711027",
+      "deleteTn": "337710821",
+      "deleteMla": "MLA1473380599",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "pve-0001",
+      "keepTn": "337730123",
+      "deleteTn": "337710624",
+      "deleteMla": "MLA1471165517",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "pve-0001",
+      "keepTn": "337730123",
+      "deleteTn": "337698607",
+      "deleteMla": "MLA1123494573",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "pve-0001",
+      "keepTn": "337730123",
+      "deleteTn": "337698565",
+      "deleteMla": "MLA1122822506",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PME-0015, PSO-0011",
+      "keepTn": "337729932",
+      "deleteTn": "337729874",
+      "deleteMla": "MLA1986941044",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "PME-0015, PSO-0013",
+      "keepTn": "337729915",
+      "deleteTn": "337710381",
+      "deleteMla": "MLA1469082911",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "n0007",
+      "keepTn": "337729823",
+      "deleteTn": "337699565",
+      "deleteMla": "MLA1136923565",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "n0007",
+      "keepTn": "337729823",
+      "deleteTn": "337699521",
+      "deleteMla": "MLA1136918571",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "n0007",
+      "keepTn": "337729823",
+      "deleteTn": "337764752",
+      "deleteMla": "MLA933138625",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "n0007",
+      "keepTn": "337729823",
+      "deleteTn": "337764728",
+      "deleteMla": "MLA933136580",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "banqueta Acapulco",
+      "keepTn": "337729327",
+      "deleteTn": "337748347",
+      "deleteMla": "MLA618776718",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PEJ-0021",
+      "keepTn": "337729218",
+      "deleteTn": "337701163",
+      "deleteMla": "MLA1252625594",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "YC-04F",
+      "keepTn": "337709871",
+      "deleteTn": "337754306",
+      "deleteMla": "MLA779477396",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "YC-04F",
+      "keepTn": "337709871",
+      "deleteTn": "337748991",
+      "deleteMla": "MLA634030551",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "YC-04F",
+      "keepTn": "337709871",
+      "deleteTn": "337726605",
+      "deleteMla": "MLA1920227840",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DT417/CR, PCC-0001",
+      "keepTn": "337709600",
+      "deleteTn": "337708945",
+      "deleteMla": "MLA1457711415",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "DT417/CR, rt131",
+      "keepTn": "337709460",
+      "deleteTn": "337756034",
+      "deleteMla": "MLA807874011",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "PAV-0022",
+      "keepTn": "337709269",
+      "deleteTn": "337715949",
+      "deleteMla": "MLA1522274708",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PBV-0001",
+      "keepTn": "337709154",
+      "deleteTn": "337721733",
+      "deleteMla": "MLA1678769744",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT161/LCR, rt131",
+      "keepTn": "337709235",
+      "deleteTn": "337705996",
+      "deleteMla": "MLA1434994263",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "PBCV-0003",
+      "keepTn": "337709500",
+      "deleteTn": "337760470",
+      "deleteMla": "MLA869326369",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "EAMES",
+      "keepTn": "337728549",
+      "deleteTn": "337752853",
+      "deleteMla": "MLA705366619",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "EAMES",
+      "keepTn": "337728549",
+      "deleteTn": "337748582",
+      "deleteMla": "MLA633386479",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0063",
+      "keepTn": "337728639",
+      "deleteTn": "337728356",
+      "deleteMla": "MLA1962633418",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "0063",
+      "keepTn": "337728639",
+      "deleteTn": "337728319",
+      "deleteMla": "MLA1962632888",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "tulip painting blanca",
+      "keepTn": "337728609",
+      "deleteTn": "337763561",
+      "deleteMla": "MLA930497541",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSV-0038",
+      "keepTn": "337709048",
+      "deleteTn": "337702648",
+      "deleteMla": "MLA1382044081",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSV-0038",
+      "keepTn": "337709048",
+      "deleteTn": "337710006",
+      "deleteMla": "MLA1467868972",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "hazel",
+      "keepTn": "337708780",
+      "deleteTn": "337756968",
+      "deleteMla": "MLA817692662",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "hazel",
+      "keepTn": "337708780",
+      "deleteTn": "337752620",
+      "deleteMla": "MLA703747555",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC899",
+      "keepTn": "337727004",
+      "deleteTn": "337758138",
+      "deleteMla": "MLA832045416",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "DC899",
+      "keepTn": "337727004",
+      "deleteTn": "337705512",
+      "deleteMla": "MLA1426991294",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC899",
+      "keepTn": "337727004",
+      "deleteTn": "337762585",
+      "deleteMla": "MLA909565013",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "DC899",
+      "keepTn": "337727004",
+      "deleteTn": "337762502",
+      "deleteMla": "MLA909561449",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "dt-2216-1, RT780",
+      "keepTn": "337707556",
+      "deleteTn": "337707633",
+      "deleteMla": "MLA1451102019",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "dt-2216-1",
+      "keepTn": "337706073",
+      "deleteTn": "337703752",
+      "deleteMla": "MLA1396019583",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PME-0012",
+      "keepTn": "337705423",
+      "deleteTn": "337699818",
+      "deleteMla": "MLA1144886649",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "9913",
+      "keepTn": "337724049",
+      "deleteTn": "337702080",
+      "deleteMla": "MLA1372358861",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "9913",
+      "keepTn": "337724049",
+      "deleteTn": "337760974",
+      "deleteMla": "MLA876401483",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PBCV-0006",
+      "keepTn": "337714177",
+      "deleteTn": "337714116",
+      "deleteMla": "MLA1503039836",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PBCV-0005",
+      "keepTn": "337714074",
+      "deleteTn": "337703449",
+      "deleteMla": "MLA1387210773",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PSV-000111",
+      "keepTn": "337711962",
+      "deleteTn": "337698321",
+      "deleteMla": "MLA1119810888",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PMC-0038",
+      "keepTn": "337703365",
+      "deleteTn": "337703124",
+      "deleteMla": "MLA1382720835",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "113455",
+      "keepTn": "337703331",
+      "deleteTn": "337703230",
+      "deleteMla": "MLA1382733089",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "229981",
+      "keepTn": "337703085",
+      "deleteTn": "337702992",
+      "deleteMla": "MLA1382279283",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "98131313",
+      "keepTn": "337702788",
+      "deleteTn": "337702876",
+      "deleteMla": "MLA1382277999",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PAV-0020",
+      "keepTn": "337709925",
+      "deleteTn": "337702575",
+      "deleteMla": "MLA1381637951",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "001994113s",
+      "keepTn": "337701064",
+      "deleteTn": "337700996",
+      "deleteMla": "MLA1247997622",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "31111",
+      "keepTn": "337700533",
+      "deleteTn": "337700773",
+      "deleteMla": "MLA1221133371",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "31111",
+      "keepTn": "337700533",
+      "deleteTn": "337700594",
+      "deleteMla": "MLA1221069546",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "qqq",
+      "keepTn": "337700897",
+      "deleteTn": "337700410",
+      "deleteMla": "MLA1215241453",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "qqq",
+      "keepTn": "337700897",
+      "deleteTn": "337700321",
+      "deleteMla": "MLA1215051237",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "po000",
+      "keepTn": "337700189",
+      "deleteTn": "337700215",
+      "deleteMla": "MLA1213936256",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PME-0013",
+      "keepTn": "337699895",
+      "deleteTn": "337699700",
+      "deleteMla": "MLA1144869188",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "533121",
+      "keepTn": "337698153",
+      "deleteTn": "337698052",
+      "deleteMla": "MLA1112675833",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PAV-0018",
+      "keepTn": "337763462",
+      "deleteTn": "337763502",
+      "deleteMla": "MLA930425553",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "RT192/LNT",
+      "keepTn": "337762787",
+      "deleteTn": "337762675",
+      "deleteMla": "MLA909733315",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "2234567",
+      "keepTn": "337761239",
+      "deleteTn": "337761348",
+      "deleteMla": "MLA897194981",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "T-1004",
+      "keepTn": "337760236",
+      "deleteTn": "337749246",
+      "deleteMla": "MLA637355298",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PEJ-0014",
+      "keepTn": "337752078",
+      "deleteTn": "337757324",
+      "deleteMla": "MLA821482311",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "A8057-2",
+      "keepTn": "337756299",
+      "deleteTn": "337751687",
+      "deleteMla": "MLA687322638",
+      "deleteStatus": "ok"
+    },
+    {
+      "erpSku": "PCC-0002",
+      "keepTn": "337755009",
+      "deleteTn": "337750334",
+      "deleteMla": "MLA643983142",
+      "deleteStatus": "needs-review"
+    },
+    {
+      "erpSku": "PCC-0002",
+      "keepTn": "337755009",
+      "deleteTn": "337750849",
+      "deleteMla": "MLA657797813",
+      "deleteStatus": "ok"
+    }
+  ],
+  "noKeeper": [
+    {
+      "erpSku": "DC608-C",
+      "entries": [
+        {
+          "mlaId": "MLA1933989294",
+          "tnProductId": "337768460"
+        },
+        {
+          "mlaId": "MLA1313761591",
+          "tnProductId": "337701717"
+        }
+      ]
+    },
+    {
+      "erpSku": "RT192/LNT, RT780",
+      "entries": [
+        {
+          "mlaId": "MLA1451106161",
+          "tnProductId": "337707796"
+        },
+        {
+          "mlaId": "MLA1451169187",
+          "tnProductId": "337707922"
+        }
+      ]
+    },
+    {
+      "erpSku": "21313",
+      "entries": [
+        {
+          "mlaId": "MLA1119830074",
+          "tnProductId": "337698442"
+        },
+        {
+          "mlaId": "MLA1119804357",
+          "tnProductId": "337698253"
+        }
+      ]
+    },
+    {
+      "erpSku": "YC-14A",
+      "entries": [
+        {
+          "mlaId": "MLA912114439",
+          "tnProductId": "337762900"
+        },
+        {
+          "mlaId": "MLA905071655",
+          "tnProductId": "337762154"
+        },
+        {
+          "mlaId": "MLA640260557",
+          "tnProductId": "337750004"
+        }
+      ]
+    },
+    {
+      "erpSku": "PCC-0005",
+      "entries": [
+        {
+          "mlaId": "MLA817195562",
+          "tnProductId": "337756499"
+        },
+        {
+          "mlaId": "MLA817195571",
+          "tnProductId": "337756650"
+        },
+        {
+          "mlaId": "MLA817195056",
+          "tnProductId": "337756382"
+        },
+        {
+          "mlaId": "MLA665554803",
+          "tnProductId": "337751207"
+        }
+      ]
+    },
+    {
+      "erpSku": "sombrilla STAMM",
+      "entries": [
+        {
+          "mlaId": "MLA811973696",
+          "tnProductId": "337756128"
+        },
+        {
+          "mlaId": "MLA689852902",
+          "tnProductId": "337752199"
+        }
+      ]
+    },
+    {
+      "erpSku": "YC-10C",
+      "entries": [
+        {
+          "mlaId": "MLA782731135",
+          "tnProductId": "337754584"
+        },
+        {
+          "mlaId": "MLA688001848",
+          "tnProductId": "337751845"
+        }
+      ]
+    }
+  ]
+}

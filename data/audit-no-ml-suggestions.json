@@ -1,0 +1,947 @@
+{
+  "autoMatch": [
+    {
+      "tnId": "339733578",
+      "tnName": "Juego Comedor Mesa Madden 160 Y 6 Sillas Viena Importado - Blanco - Cuero Sintetico",
+      "skus": [
+        "PME-0021"
+      ],
+      "suggested_ml": "MLA1303640223",
+      "ml_title": "Mesa De Comedor Madden Vidrio Templado Base Cromo 160x80cm"
+    },
+    {
+      "tnId": "339734096",
+      "tnName": "Juego Comedor Mesa Madden Neolith 120cm Y 4 Sillas Veneta Blanco",
+      "skus": [
+        "pmmn-0002"
+      ],
+      "suggested_ml": "MLA1416848385",
+      "ml_title": "Mesa Redonda Neolith Simil Marmol Madden 120cm"
+    },
+    {
+      "tnId": "339920119",
+      "tnName": "Juego Comedor Mesa Vidrio Redonda Eames + 4 Sillas Oslo Vita Negro Liso",
+      "skus": [
+        "C602-1/v"
+      ],
+      "suggested_ml": "MLA1473380599",
+      "ml_title": "Mesa Eames Dsw Redonda Vidrio100cm Diámetro"
+    },
+    {
+      "tnId": "340415547",
+      "tnName": "Canasto Mesa Baul Penelope De Mimbre Con Tapa 80cm Marrón",
+      "skus": [
+        "pbc-0000001"
+      ],
+      "suggested_ml": "MLA1415409399",
+      "ml_title": "Canasto Mesa Baul Penelope De Mimbre Con Tapa"
+    },
+    {
+      "tnId": "340415562",
+      "tnName": "Canasto Leñero Cesto Organzador Mimbre Jeronimo Ovalado Ch Marrón",
+      "skus": [
+        "PAV-00089"
+      ],
+      "suggested_ml": "MLA1131686177",
+      "ml_title": "Canasto"
+    },
+    {
+      "tnId": "340905380",
+      "tnName": "Silla Tulip Base Eiffel Pack 2 Unid Importada Lisa Marrón Claro Blanco",
+      "skus": [
+        "PSV-0008"
+      ],
+      "suggested_ml": "MLA2467694620",
+      "ml_title": "Silla Tulip Base Eiffel"
+    },
+    {
+      "tnId": "341430338",
+      "tnName": "Banco Nórdico Amelia Pie De Cama / Recibidor Madera Madera",
+      "skus": [
+        "PAV-0022"
+      ],
+      "suggested_ml": "MLA1522274708",
+      "ml_title": "Banco Nórdico Amelia Pie De Cama / Recibidor Madera"
+    },
+    {
+      "tnId": "342118613",
+      "tnName": "Mesa Redonda Madden Piedra Sinterizada 120 Cm Cromo Piedra Sinterizada",
+      "skus": [
+        "pmmn-0002"
+      ],
+      "suggested_ml": "MLA1416848385",
+      "ml_title": "Mesa Redonda Neolith Simil Marmol Madden 120cm"
+    },
+    {
+      "tnId": "342118702",
+      "tnName": "Mesa De Comedor Bulnes Tapa Neolit 180x90cm Piedra Sinterizada Cromo",
+      "skus": [
+        "pmcn-0001"
+      ],
+      "suggested_ml": "MLA2112572640",
+      "ml_title": "Mesa De Comedor Bulnes Tapa Neolith 180x90cm"
+    },
+    {
+      "tnId": "342215619",
+      "tnName": "Juego Comedor Mesa Madden 160 Y 6 Sillas Jenna Blanco Cuero Sintetico",
+      "skus": [
+        "PME-0021"
+      ],
+      "suggested_ml": "MLA1303640223",
+      "ml_title": "Mesa De Comedor Madden Vidrio Templado Base Cromo 160x80cm"
+    }
+  ],
+  "noMatch": [
+    {
+      "tnId": "339723859",
+      "tnName": "Mesa Ferra Vidrio Linea Nordica 120x80cm Importada Vidrio Símil Madera",
+      "skus": [
+        "dt1296sm"
+      ]
+    },
+    {
+      "tnId": "339724507",
+      "tnName": "Mesa Comedor Iriarte 160 Cromada Minimalista Vidrio",
+      "skus": [
+        "RT161/LCR"
+      ]
+    },
+    {
+      "tnId": "339724746",
+      "tnName": "Mesa Ferra Vidrio Y Cromo 120x80cm Importada Vidrio Cromo",
+      "skus": [
+        "dt1295sc"
+      ]
+    },
+    {
+      "tnId": "339724955",
+      "tnName": "Set Reposera Krabi 2 Unidades C/mesa Arrime Importada Gris",
+      "skus": [
+        "0111111"
+      ]
+    },
+    {
+      "tnId": "339726679",
+      "tnName": "Juego Comedor Mesa Lounna 160cm + 6 Sillas Becca Color Negro Diseño De La Tela De Las Sillas Liso",
+      "skus": [
+        "dt-2216-1/N"
+      ]
+    },
+    {
+      "tnId": "339726965",
+      "tnName": "Futon Aleksi Sofa 3 Cuerpos Cama 1 Plaza Premium Apoyabrazos Diseño De La Tela Lino Gris",
+      "skus": [
+        "00002040"
+      ]
+    },
+    {
+      "tnId": "339727217",
+      "tnName": "Espejo Vidrio Repartido Bukit Rectangular 180x80 Hierro Negro",
+      "skus": [
+        "685302d5-32e8-4992-b1e3-47a1b38f37ff"
+      ]
+    },
+    {
+      "tnId": "339727259",
+      "tnName": "Espejo Vidrio Repartido Bukit Rectangular 180x80 Hierro Marco Negro",
+      "skus": [
+        "685302d5-32e8-4992-b1e3-47a1b38f37ff"
+      ]
+    },
+    {
+      "tnId": "339732131",
+      "tnName": "Mesa De Comedor Tulip Redonda 90cm Base Metal Blanco",
+      "skus": [
+        "XB-T09/BB"
+      ]
+    },
+    {
+      "tnId": "339733006",
+      "tnName": "Mesa De Comedor Vidrio Y Cromo Madden Redonda 90cm Transparente Cromadas",
+      "skus": [
+        "6893ae94-09b0-4458-a73b-4ebdb38f37ff"
+      ]
+    },
+    {
+      "tnId": "339733048",
+      "tnName": "Juego Comedor Mesa Lounna 180cm + 4 Sillas Becca Color Gris Claro Diseño De La Tela De Las Sillas Chenille",
+      "skus": [
+        "000256"
+      ]
+    },
+    {
+      "tnId": "339733480",
+      "tnName": "Mesa Auxiliar Arrime Exterior Krabi Importada C Blanco",
+      "skus": [
+        "11155"
+      ]
+    },
+    {
+      "tnId": "339734777",
+      "tnName": "Silla Comedor Eames Tapizada Shammy Chenille Pack 2 Unid Chenille Negro Gris Oscuro",
+      "skus": [
+        "DC801/NGO"
+      ]
+    },
+    {
+      "tnId": "339734815",
+      "tnName": "Silla Comedor Eames Tapizada Shammy Chenille Pack 2 Unid Chenille Capuccino Gris",
+      "skus": [
+        "DC801/CGC"
+      ]
+    },
+    {
+      "tnId": "339734831",
+      "tnName": "Silla Comedor Eames Tapizada Shammy Chenille Pack 2 Unid Chenille Negro Gris Claro",
+      "skus": [
+        "DC801/NGC"
+      ]
+    },
+    {
+      "tnId": "339734861",
+      "tnName": "Silla Comedor Eames Tapizada Shammy Chenille Pack 2 Unid Chenille Negro Off White",
+      "skus": [
+        "DC801/NOW"
+      ]
+    },
+    {
+      "tnId": "339734879",
+      "tnName": "Silla Comedor Eames Tapizada Shammy Chenille Pack 2 Unid Chenille Capuccino Off White",
+      "skus": [
+        "DC801/COW"
+      ]
+    },
+    {
+      "tnId": "339734918",
+      "tnName": "Silla Comedor Eames Tapizada Chenille Shammy Pack 4 Unid Chenille Negro Off White",
+      "skus": [
+        "DC801/NOW"
+      ]
+    },
+    {
+      "tnId": "339734950",
+      "tnName": "Silla Comedor Eames Tapizada Chenille Shammy Pack 4 Unid Chenille Capuccino Gris",
+      "skus": [
+        "DC801/CGC"
+      ]
+    },
+    {
+      "tnId": "339734976",
+      "tnName": "Silla Comedor Eames Tapizada Chenille Shammy Pack 4 Unid Chenille Negro Gris Oscuro",
+      "skus": [
+        "DC801/NGO"
+      ]
+    },
+    {
+      "tnId": "339735021",
+      "tnName": "Silla Comedor Eames Tapizada Chenille Shammy Pack 4 Unid Chenille Capuccino Off White",
+      "skus": [
+        "DC801/COW"
+      ]
+    },
+    {
+      "tnId": "339735046",
+      "tnName": "Silla Comedor Eames Tapizada Chenille Shammy Pack 4 Unid Chenille Negro Gris Claro",
+      "skus": [
+        "DC801/NGC"
+      ]
+    },
+    {
+      "tnId": "339735076",
+      "tnName": "Camastro Tribeca Krabi Aluminio Textileno 5 Posiciones Gris Jardin",
+      "skus": [
+        "0111111"
+      ]
+    },
+    {
+      "tnId": "339735204",
+      "tnName": "Mesa Comedor Ferra Linea Nordica Vidrio Templado 140x80cm Vidrio Símil Madera",
+      "skus": [
+        "dt1295/mm"
+      ]
+    },
+    {
+      "tnId": "339735275",
+      "tnName": "Mesa Comedor Ferra Vidrio Templado Y Cromo 140x80cm Transparente Cromadas",
+      "skus": [
+        "dt1295/mc"
+      ]
+    },
+    {
+      "tnId": "339735366",
+      "tnName": "Mesa De Comedor Vidrio Y Cromo Madden Redonda 100cm Vidrio Cromo",
+      "skus": [
+        "DT-2211"
+      ]
+    },
+    {
+      "tnId": "339735454",
+      "tnName": "Juego Comedor Mesa Tulip Redonda 90cm + 4 Sillas Oslo Vita",
+      "skus": [
+        "Z-232",
+        "Z-232",
+        "Z-232"
+      ]
+    },
+    {
+      "tnId": "339735526",
+      "tnName": "Juego Comedor Mesa Eames Vidrio + 4 Silla Shammy Tapizadas C Gris Oscuro / Negro Chenille",
+      "skus": [
+        "DT532/N"
+      ]
+    },
+    {
+      "tnId": "339735556",
+      "tnName": "Juego Eames Mesa Redonda Vidrio + 4 Sillas Shammy Chenille Gris Claro /negro Chenille",
+      "skus": [
+        "DT532/N"
+      ]
+    },
+    {
+      "tnId": "339735722",
+      "tnName": "Juego Eames Mesa Redonda Vidrio + 4 Sillas Shammy Chenille Gris Oscuro / Negro Chenille",
+      "skus": [
+        "DT532/N"
+      ]
+    },
+    {
+      "tnId": "339735745",
+      "tnName": "Juego Comedor Mesa Eames Vidrio + 4 Silla Shammy Tapizadas C Off White / Negro Chenille",
+      "skus": [
+        "DT532/N"
+      ]
+    },
+    {
+      "tnId": "339735786",
+      "tnName": "Juego Comedor Mesa Eames Vidrio + 4 Silla Shammy Tapizadas C Gris Claro / Negro Chenille",
+      "skus": [
+        "DT532/N"
+      ]
+    },
+    {
+      "tnId": "339735827",
+      "tnName": "Juego Eames Mesa Redonda Vidrio + 4 Sillas Shammy Chenille Off White / Negro Chenille",
+      "skus": [
+        "DT532/N"
+      ]
+    },
+    {
+      "tnId": "339735954",
+      "tnName": "Silla Comedor Eames Tapizada Shammy Nórdica Pack 4 Unid Chenille Simil Madera",
+      "skus": [
+        "DC801/MGC",
+        "DC801/MGC",
+        "DC801/MGC"
+      ]
+    },
+    {
+      "tnId": "339736432",
+      "tnName": "Juego Eames Mesa Redonda Vidrio + 4 Sillas Shammy Nórdica Off White Chenille",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "339736468",
+      "tnName": "Juego Eames Mesa Redonda Vidrio + 4 Sillas Shammy Nórdica Gris Claro Chenille",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "339736630",
+      "tnName": "Juego Eames Mesa Redonda Vidrio + 4 Sillas Shammy Nórdica Gris Oscuro Chenille",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "339736697",
+      "tnName": "Silla Comedor Eames Tapizada Shammy Nórdica Pack 2 Unid Chenille Simil Madera",
+      "skus": [
+        "DC801/MGO",
+        "DC801/MGO",
+        "DC801/MGO"
+      ]
+    },
+    {
+      "tnId": "339736913",
+      "tnName": "Juego Eames Mesa Redonda Vidrio Nordica + 4 Sillas Shammy Mesa Natural Chenille Gris Oscuro Bade Negra",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "339736940",
+      "tnName": "Juego Eames Mesa Redonda Vidrio Nordica + 4 Sillas Shammy C Mesa Natural Chenille Off White Base Negra",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "339736976",
+      "tnName": "Juego Eames Mesa Redonda Vidrio Nordica + 4 Sillas Shammy Mesa Natural Chenille Off White Base Negra",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "339737004",
+      "tnName": "Juego Eames Mesa Redonda Vidrio Nordica + 4 Sillas Shammy C Mesa Natural Chenille Gris Oscuro Base Negra",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "339737099",
+      "tnName": "Juego Comedor Mesa Evan Nordica + 4 Sillas Shammy Chenille",
+      "skus": [
+        "-097698",
+        "-097698",
+        "-097698"
+      ]
+    },
+    {
+      "tnId": "339737118",
+      "tnName": "Mesa De Comedor Tulip Redonda Neolit Simil Marmol 100cm Travertino Capuccino",
+      "skus": [
+        "dt2607/TRC100"
+      ]
+    },
+    {
+      "tnId": "339737149",
+      "tnName": "Mesa De Comedor Tulip Redonda Neolit Simil Marmol 100cm Italiana Blanca",
+      "skus": [
+        "dt2607/KGB100"
+      ]
+    },
+    {
+      "tnId": "339737166",
+      "tnName": "Juego Eames Mesa Redonda Vidrio Nordica + 4 Sillas Shammy C Mesa Natural Chenille Gris Claro Base Negra",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "339737190",
+      "tnName": "Juego Eames Mesa Redonda Vidrio Nordica + 4 Sillas Shammy Mesa Natural Chenille Gris Claro Base Negra",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "339737258",
+      "tnName": "Mesa De Comedor Tulip Redonda Neolit Simil Marmol 100cm C Travertino Capucchino",
+      "skus": [
+        "dt2607/TRC100"
+      ]
+    },
+    {
+      "tnId": "339737309",
+      "tnName": "Mesa De Comedor Tulip Redonda Neolit Simil Marmol 100cm C Italiana Blanca",
+      "skus": [
+        "dt2607/KGB100"
+      ]
+    },
+    {
+      "tnId": "339737435",
+      "tnName": "Mesa De Comedor Tulip Redonda 90cm Base Metal Capucchino",
+      "skus": [
+        "DT2607-CAP"
+      ]
+    },
+    {
+      "tnId": "339737459",
+      "tnName": "Mesa De Comedor Lina Metal Simil Madera Importada 140cm Vidrio Símil Madera",
+      "skus": [
+        "781345"
+      ]
+    },
+    {
+      "tnId": "339768604",
+      "tnName": "2x1,4 Mts Alfombra Nórdica Pelo Largo Varios Colores Import 200 M 140 M Gris Claro",
+      "skus": [
+        "000295"
+      ]
+    },
+    {
+      "tnId": "339958216",
+      "tnName": "2x1,4 Mts Alfombra Nórdica Pelo Largo Varios Colores 2 M 1.4 M Gis Oscuro Matizado",
+      "skus": [
+        "000299"
+      ]
+    },
+    {
+      "tnId": "339958240",
+      "tnName": "2x1,4 Mts Alfombra Nórdica Pelo Largo Varios Colores 2 M 1.4 M Gris Claro Matizado",
+      "skus": [
+        "000297"
+      ]
+    },
+    {
+      "tnId": "339993588",
+      "tnName": "Juego Comedor Mesa Tulip Redonda + 4 Silla Shammy Capuccino",
+      "skus": [
+        "DT2607-CAP",
+        "DT2607-CAP"
+      ]
+    },
+    {
+      "tnId": "340045234",
+      "tnName": "Juego Comedor Mesa Tulip Redonda + 4 Silla Sofia Capuccino",
+      "skus": [
+        "DT2607-CAP",
+        "DT2607-CAP"
+      ]
+    },
+    {
+      "tnId": "340170004",
+      "tnName": "Juego Eames Mesa Redonda Vidrio + 4 Sillas Shammy Nórdica Gris Oscuro Chenille",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "340201763",
+      "tnName": "Juego Comedor Mesa Eames Vidrio + 4 Silla Shammy Tapizadas C Gris Claro / Negro Chenille",
+      "skus": [
+        "DT532/N"
+      ]
+    },
+    {
+      "tnId": "340237892",
+      "tnName": "Silla Comedor Oslo Vita Plastica Pack 4 Unid Liso Negro",
+      "skus": [
+        "XBP-P20/N"
+      ]
+    },
+    {
+      "tnId": "340238234",
+      "tnName": "Silla Comedor Oslo Vita Plastica Pack 2 Unid Liso Negro",
+      "skus": [
+        "XBP-P20/N"
+      ]
+    },
+    {
+      "tnId": "340273965",
+      "tnName": "Juego Comedor Mesa Tulip Redonda Neolit + 4 Silla Sofia Italiana",
+      "skus": [
+        "e55545",
+        "e55545"
+      ]
+    },
+    {
+      "tnId": "340274026",
+      "tnName": "Juego Comedor Mesa Tulip Redonda Neolit + 4 Silla Sofia Travertino",
+      "skus": [
+        "ddd",
+        "ddd"
+      ]
+    },
+    {
+      "tnId": "340415333",
+      "tnName": "Canasto Leñero Cesto Organzador Mimbre Jeronimo Cónico 45cm Marrón",
+      "skus": [
+        "pv-0007"
+      ]
+    },
+    {
+      "tnId": "340415385",
+      "tnName": "Canasto Leñero Cesto Organzador Mimbre Jeronimo Ovalado Marrón",
+      "skus": [
+        "PV-0008"
+      ]
+    },
+    {
+      "tnId": "340415585",
+      "tnName": "Canasto Leñero Cesto Organzador Mimbre Jeronimo Ovalado M Marrón",
+      "skus": [
+        "PV-0012"
+      ]
+    },
+    {
+      "tnId": "340417407",
+      "tnName": "Juego Comedor Mesa Tulip Redonda Neolit + 4 Silla Shammy Travertino Chenille Gris Capuchino",
+      "skus": [
+        "ddd"
+      ]
+    },
+    {
+      "tnId": "340417417",
+      "tnName": "Juego Comedor Mesa Tulip Redonda Neolit + 4 Silla Shammy Italiana Chenille Off White Capuchino",
+      "skus": [
+        "e55545"
+      ]
+    },
+    {
+      "tnId": "340417431",
+      "tnName": "Juego Comedor Mesa Tulip Redonda Neolit + 4 Silla Shammy Italiana Chenille Gris Capuchino",
+      "skus": [
+        "e55545"
+      ]
+    },
+    {
+      "tnId": "340417437",
+      "tnName": "Juego Comedor Mesa Tulip Redonda Neolit + 4 Silla Shammy Travertino Chenille Off White Capuchino",
+      "skus": [
+        "ddd"
+      ]
+    },
+    {
+      "tnId": "340417446",
+      "tnName": "Juego Eames Mesa Redonda Vidrio + 4 Sillas Shammy Nórdica Off White Chenille",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "340499525",
+      "tnName": "Mesa Comedor Modena Neolith 180x90cm Marquina Negro",
+      "skus": [
+        "vme-0002"
+      ]
+    },
+    {
+      "tnId": "340499537",
+      "tnName": "Mesa Comedor Modena Neolith 180x90cm Statuario Negro",
+      "skus": [
+        "Vme-0001"
+      ]
+    },
+    {
+      "tnId": "340689315",
+      "tnName": "Juego Comedor Mesa Lounna 180cm + 4 Sillas Veneta Cromadas Color Negro Diseño De La Tela De Las Sillas Liso",
+      "skus": [
+        "RT-192L/NT"
+      ]
+    },
+    {
+      "tnId": "340904528",
+      "tnName": "Silla Respaldo Alto Tess Pana Nordica Pack 2 Unid Pana Marrón Claro Taupe",
+      "skus": [
+        "PSV-0032"
+      ]
+    },
+    {
+      "tnId": "340905402",
+      "tnName": "Silla Tulip Base Eiffel Pack 2 Unid Importada Lisa Marrón Claro Negro",
+      "skus": [
+        "13131"
+      ]
+    },
+    {
+      "tnId": "341054508",
+      "tnName": "Sillon Mecedora Poltrona Rocking Volgar Nordico Color Chocolate",
+      "skus": [
+        "YC-10C/MA"
+      ]
+    },
+    {
+      "tnId": "341054589",
+      "tnName": "Sillon Mecedora Poltrona Rocking Volgar Nordico Color Beige Liso",
+      "skus": [
+        "YC-10C/BE"
+      ]
+    },
+    {
+      "tnId": "341054713",
+      "tnName": "Sillón Poltrona Nórdico Modelo Volgar Calidad Premium Color Beige",
+      "skus": [
+        "YC-04F/BE"
+      ]
+    },
+    {
+      "tnId": "341055819",
+      "tnName": "Sillón Poltrona Nórdico Volgar Nordico + Apoyapies Marrón Liso",
+      "skus": [
+        "YC-04F/MA"
+      ]
+    },
+    {
+      "tnId": "341059505",
+      "tnName": "Sillon Volgar De Lino Nordico Poltrona Color Beige",
+      "skus": [
+        "YC-04F/BE"
+      ]
+    },
+    {
+      "tnId": "341103076",
+      "tnName": "Sillon Poltrona Nordico Modelo Volgar + Mesa Apoyo Color Chocolate Diseño De La Tela Lino",
+      "skus": [
+        "YC-04F/MA"
+      ]
+    },
+    {
+      "tnId": "341103099",
+      "tnName": "Poltrona Volgar + Mecedora + Mesa Nuuk Nordica Diseño De La Tela Lino Gris",
+      "skus": [
+        "YC-10C/MA"
+      ]
+    },
+    {
+      "tnId": "341103173",
+      "tnName": "Sillon Poltrona Volgar Nordica + Mecedora Tapizado En Lino Color Beige Liso",
+      "skus": [
+        "YC-04F/BE"
+      ]
+    },
+    {
+      "tnId": "341103204",
+      "tnName": "Poltrona Volgar + Mecedora + Mesa Nuuk Nordica Diseño De La Tela Beige Gris",
+      "skus": [
+        "YC-04F/BE"
+      ]
+    },
+    {
+      "tnId": "341103256",
+      "tnName": "Sillon Poltrona Volgar Nordica + Mecedora Tapizado En Lino Color Chocolate Liso",
+      "skus": [
+        "YC-10C/MA"
+      ]
+    },
+    {
+      "tnId": "341104752",
+      "tnName": "Sillón Poltrona Nórdico Volgar Nordico + Apoyapies Beige Liso",
+      "skus": [
+        "YC-09B/BE"
+      ]
+    },
+    {
+      "tnId": "341108721",
+      "tnName": "Sillon Volgar De Lino Nordico Poltrona Color Chocolate",
+      "skus": [
+        "YC-04F/MA"
+      ]
+    },
+    {
+      "tnId": "341214171",
+      "tnName": "Banco Taburete Nordico Apilable Nuuk Premium Color Natural Laqueado",
+      "skus": [
+        "YC-14A/NN"
+      ]
+    },
+    {
+      "tnId": "341214180",
+      "tnName": "Banco Taburete Nordico Apilable Nuuk Premium Color Haya/blanco Laqueado",
+      "skus": [
+        "YC-14A/BN"
+      ]
+    },
+    {
+      "tnId": "341214329",
+      "tnName": "Banco Taburete Nordico Apilable Nuuk Pack 2 Unid Color Natural Laqueado",
+      "skus": [
+        "YC-14A/NN"
+      ]
+    },
+    {
+      "tnId": "341214359",
+      "tnName": "Banco Taburete Nordico Apilable Nuuk Pack 2 Unid Color Haya/blanco Laqueado",
+      "skus": [
+        "YC-14A/BN"
+      ]
+    },
+    {
+      "tnId": "341216770",
+      "tnName": "Mesa De Luz Linea Nórdica Mesa De Arrime Nuuk Acabado Semimate Color Blanco/ Haya",
+      "skus": [
+        "YC-14A/BN"
+      ]
+    },
+    {
+      "tnId": "341216793",
+      "tnName": "Mesa De Luz Linea Nórdica Mesa De Arrime Nuuk Acabado Semimate Color Marrón Claro",
+      "skus": [
+        "YC-14A/NN"
+      ]
+    },
+    {
+      "tnId": "341432506",
+      "tnName": "Banco Nórdico Amelia Pie De Cama / Recibidor Madera Madera",
+      "skus": [
+        "PAV-0012"
+      ]
+    },
+    {
+      "tnId": "341434112",
+      "tnName": "Sillon Mecedora Volgar Soft Poltrona Nordica Rocking Chocolate Liso",
+      "skus": [
+        "c"
+      ]
+    },
+    {
+      "tnId": "341434139",
+      "tnName": "Sillon Mecedora Volgar Soft Poltrona Nordica Rocking Beige Liso",
+      "skus": [
+        "YC-10CS"
+      ]
+    },
+    {
+      "tnId": "341434159",
+      "tnName": "Sillón Poltrona Volgar Soft Nordico 1 Cuerpo Premium Marrón Liso",
+      "skus": [
+        "c"
+      ]
+    },
+    {
+      "tnId": "341434187",
+      "tnName": "Sillón Poltrona Volgar Soft Nordico 1 Cuerpo Premium Beige Liso",
+      "skus": [
+        "YC-04FS"
+      ]
+    },
+    {
+      "tnId": "341539125",
+      "tnName": "Sillón Poltrona Volgar Soft Nordico 1 Cuerpo Premium C Beige Lino",
+      "skus": [
+        "YC-04FS"
+      ]
+    },
+    {
+      "tnId": "341860431",
+      "tnName": "Sillón Haru Tela Chenille Importado Beige Chenille",
+      "skus": [
+        "S24039NBE"
+      ]
+    },
+    {
+      "tnId": "341860477",
+      "tnName": "Sillón Haru Tela Chenille Importado Taupe Chenille",
+      "skus": [
+        "SL24039NTA"
+      ]
+    },
+    {
+      "tnId": "341863446",
+      "tnName": "Juego Eames Mesa Redonda Vidrio + 4 Sillas Shammy Nórdica Gris Claro Chenille",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "342072455",
+      "tnName": "Mesa Ratona Nuuk Madera Mesa De Arrime Importada Haya",
+      "skus": [
+        "5555"
+      ]
+    },
+    {
+      "tnId": "342118486",
+      "tnName": "Mesa De Comedor Bulnes Neolit 140x80cm Piedra Sinterizada Negra",
+      "skus": [
+        "tt-121/N"
+      ]
+    },
+    {
+      "tnId": "342118521",
+      "tnName": "Mesa Redonda Madden 120 Cm Piedra Sinterizada Base Negra Piedra Sinterizada Negro",
+      "skus": [
+        "1"
+      ]
+    },
+    {
+      "tnId": "342118553",
+      "tnName": "Mesa De Comedor Bulnes Neolit 140x80cm Piedra Sinterizada Marrón Claro",
+      "skus": [
+        "tt-121/SM"
+      ]
+    },
+    {
+      "tnId": "342118581",
+      "tnName": "Mesa Redonda Neolit H Simil Marmol Madden Cromo 90cm Piedra Sinterizada Cromo",
+      "skus": [
+        "Pmcn-0002"
+      ]
+    },
+    {
+      "tnId": "342118646",
+      "tnName": "Mesa De Comedor Bulnes Neolit 140x80cm Piedra Sinterizada Cromo",
+      "skus": [
+        "tt-121/C"
+      ]
+    },
+    {
+      "tnId": "342118752",
+      "tnName": "Mesa De Comedor Bulnes Neo Piedra 120x80cm Piedra Sinterizada Negra",
+      "skus": [
+        "tt-121/N"
+      ]
+    },
+    {
+      "tnId": "342148494",
+      "tnName": "Banquito Balto Pelo Largo Puff Nordico Blanco",
+      "skus": [
+        "PAV-0005"
+      ]
+    },
+    {
+      "tnId": "342215633",
+      "tnName": "Sillón Poltrona Nórdico Volgar Nordico + Apoyapies Negro Liso",
+      "skus": [
+        "dddd"
+      ]
+    },
+    {
+      "tnId": "342277216",
+      "tnName": "Sillon Poltrona Nordico Modelo Volgar + Mesa Ratona Nuuk",
+      "skus": [
+        "dddd",
+        "dddd",
+        "dddd",
+        "dddd",
+        "dddd"
+      ]
+    },
+    {
+      "tnId": "342310937",
+      "tnName": "Sillon Poltrona Nordico Modelo Volgar + Mesa Apoyo Color Chocolate Diseño De La Tela Lino",
+      "skus": [
+        "YC-10C/MA"
+      ]
+    },
+    {
+      "tnId": "342422729",
+      "tnName": "Juego Comedor Eames Vidrio Pata Negro + 4 Shammy Tapizada Gris Oscuro / Negro Chenille",
+      "skus": [
+        "DT532/N"
+      ]
+    },
+    {
+      "tnId": "342453356",
+      "tnName": "Sillon Poltrona Nordico Modelo Volgar + Mesa Apoyo Color Beige Diseño De La Tela Lino",
+      "skus": [
+        "YC-04F/BE"
+      ]
+    },
+    {
+      "tnId": "342487655",
+      "tnName": "Silla Tulip Base Eiffel Pack 2 Unid Lisa Marrón Claro Negro",
+      "skus": [
+        "13131"
+      ]
+    },
+    {
+      "tnId": "342487678",
+      "tnName": "Sillon Poltrona Nordico Modelo Volgar + Mesa Apoyo Color Beige Diseño De La Tela Lino",
+      "skus": [
+        "YC-04F/BE"
+      ]
+    },
+    {
+      "tnId": "342518385",
+      "tnName": "Mesa Lateral Jacinta Mesa De Arrime De Madera Natural",
+      "skus": [
+        "PAV-0011"
+      ]
+    },
+    {
+      "tnId": "342524630",
+      "tnName": "Juego Comedor Mesa Ferra 140cm + 4 Sillas Shammy Nordica",
+      "skus": [
+        "dt1295/mm",
+        "dt1295/mm",
+        "dt1295/mm"
+      ]
+    }
+  ]
+}
