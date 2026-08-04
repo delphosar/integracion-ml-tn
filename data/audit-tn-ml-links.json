@@ -1,0 +1,6531 @@
+{
+  "timestamp": "2026-05-26T19:14:22.590Z",
+  "total": 828,
+  "summary": {
+    "total": 828,
+    "ok_active": 520,
+    "ok_paused": 179,
+    "ml_not_found": 0,
+    "no_ml_id": 129
+  },
+  "ok_active": [
+    {
+      "tnId": "337692797",
+      "tnName": "Mesa De Comedor Trixy 120x80cm Nordica Haya",
+      "mlId": "MLA615617066",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337697743",
+      "tnName": "Banco Nórdico Indi Pie De Cama / Recibidor Madera Tratada",
+      "mlId": "MLA1103123671",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337697803",
+      "tnName": "Almohadon Sillon Gervasoni 2 Cuerpos Espuma 10cm Crudo",
+      "mlId": "MLA1103851236",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337697839",
+      "tnName": "Almohadon Sillon Acapulco Gervasoni Espuma 5cm Crudo",
+      "mlId": "MLA1103852685",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337697876",
+      "tnName": "Silla De Comedor Moderna Modelo Nerd Outlet",
+      "mlId": "MLA1107057684",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337698153",
+      "tnName": "Juego Jardín Balcon Modelo Toscana Almohadon Y Mesa C",
+      "mlId": "MLA1112816740",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337698253",
+      "tnName": "Silla Beetle Pana Base Negra Pack 4",
+      "mlId": "MLA1119804357",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337698653",
+      "tnName": "Mesa Ratona Vidrio, Cromo Patas Madera Modelo Elliot Outlet",
+      "mlId": "MLA1126785840",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337698711",
+      "tnName": "Canasto Leñero Cesto Organzador Mimbre Calado Brisa Medio Marrón",
+      "mlId": "MLA1131674147",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337698751",
+      "tnName": "Canasto Leñero Cesto Organzador Mimbre Calado Brisa Small Marrón",
+      "mlId": "MLA1131686177",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337699224",
+      "tnName": "Base Madera Sillon Eames - Sin Asiento - Outlet - 2da Selecc Madera Base: Madera",
+      "mlId": "MLA1135353155",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337699615",
+      "tnName": "Almohadon Sillas Eames Tussur Pack 2 Unid 3cm",
+      "mlId": "MLA1138482199",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337699986",
+      "tnName": "Almohadon Para Asiento 48x48cm Espuma 5cm Negro",
+      "mlId": "MLA1147874204",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337700189",
+      "tnName": "Sillon Hamaca Mallorca Colgante Hierro Con Base C Negro/haya Mallorca",
+      "mlId": "MLA1213328394",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337700494",
+      "tnName": "Canasto Leñero Cesto Organzador Mimbre Jeronimo Cónico 50cm Marrón",
+      "mlId": "MLA1218954048",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337700533",
+      "tnName": "Reposera Camastro Modelo Yakarta Premium Importada",
+      "mlId": "MLA1221030981",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337700688",
+      "tnName": "Reposera Camastro Pattaya Aluminio Importada Pack 2 Unid",
+      "mlId": "MLA1221083366",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337700897",
+      "tnName": "Set Reposera Krabi 2 Unidades C/mesa Arrime Importada C",
+      "mlId": "MLA1221338073",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337701064",
+      "tnName": "Silla Jeanneret Madera Esterilla C/apoya Brazos",
+      "mlId": "MLA1248081111",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337701245",
+      "tnName": "Estrella Decorativa Origenes Mimbre Pack 2 Unid",
+      "mlId": "MLA1263256648",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337701518",
+      "tnName": "Mesa Redonda Vidrio Templado Patas Simil Madera Evan 90cm Vidrio Marrón Claro",
+      "mlId": "MLA1303723927",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337701556",
+      "tnName": "Silla Jane Pana Base Dorada Importada Pack 2",
+      "mlId": "MLA1308734850",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337701651",
+      "tnName": "Silla Eames Metal Leg New Design Outlet Pack 4 Pvc Negro Visón",
+      "mlId": "MLA1310546780",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337701841",
+      "tnName": "Silla Cheers Pana Nordica Pack 4 Unid",
+      "mlId": "MLA1314558417",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337701959",
+      "tnName": "Canasto Leñero Cesto Organzador Mimbre Simon 20cm Marrón",
+      "mlId": "MLA1323914820",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337701993",
+      "tnName": "Silla Jenna Pana Y Cromo Moderna Super Comodas Pack 4 Unid C",
+      "mlId": "MLA1371599383",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337702150",
+      "tnName": "Almohadón Silla Tolix En Tussur Con Cierre Pack 2 Unid Curry Liso",
+      "mlId": "MLA1372421041",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337702370",
+      "tnName": "Silla Comedor Thea Tapizada Pana Nórdica Pack 4",
+      "mlId": "MLA1374605851",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337702606",
+      "tnName": "Mesa De Comedor Modelo Ashley Base Negra 2,00 Importada Símil Madera Metal",
+      "mlId": "MLA1381810335",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337702690",
+      "tnName": "Mesa De Comedor Base Central Duna Vidrio 200x100cm Importada",
+      "mlId": "MLA1382188943",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337703394",
+      "tnName": "Banqueta Tolix 75cm Importada Asiento Madera Outlet",
+      "mlId": "MLA1385663015",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337703659",
+      "tnName": "Futon Sofa Bed Oslo Pana 3 Cuerpos Cama 1 Plaza C",
+      "mlId": "MLA1393470515",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337703807",
+      "tnName": "Jarrón Florero Candelabro Vidrio Clásico Decorativo Outlet Liso",
+      "mlId": "MLA1405565865",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337703833",
+      "tnName": "Mesa Vidrio Esme Madera Linea Nordica 1,80x90x75cm Outlet",
+      "mlId": "MLA1406016430",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337703995",
+      "tnName": "Silla Thea Pana Base Negra Pack 4",
+      "mlId": "MLA1407895653",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337704481",
+      "tnName": "Silla Olive Pana Base Negra Importada Pack 4",
+      "mlId": "MLA1413014515",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337704527",
+      "tnName": "Mesa De Comedor Modelo Albany Base Negra 1,80 Importada Natural Negras",
+      "mlId": "MLA1413801383",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337704585",
+      "tnName": "Silla Cirebon Esterilla Y Madera Teka Importada",
+      "mlId": "MLA1414769433",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337704650",
+      "tnName": "Sillón Borneo Esterilla Y Madera Teka Importado Indonesia Natural Estirellia",
+      "mlId": "MLA1415215635",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337704694",
+      "tnName": "Canasto Mesa Baul Penelope De Mimbre Con Tapa 65cm Marrón",
+      "mlId": "MLA1415409399",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337704777",
+      "tnName": "Canasto Leñero Cesto Organizador Macetero Mimbre Felipe 19cm Natural",
+      "mlId": "MLA1416712279",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337705237",
+      "tnName": "Mesa Alta De Arrime Recibidora Dressoire Nórdico Alamo",
+      "mlId": "MLA1423076611",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337705294",
+      "tnName": "Silla Sophie Pana Nordica Pack 2 Importado",
+      "mlId": "MLA1425348635",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337705423",
+      "tnName": "Mesa Comedor Moncloa Premium Vidrio 200x100cm Linea Moderna",
+      "mlId": "MLA1426632719",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337706175",
+      "tnName": "Sombrilla Para Jardín Umbrella Roma Natural Roma",
+      "mlId": "MLA1435953805",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337706337",
+      "tnName": "Silla Soft Pana Moderna Impotada Pack 6 Unidades",
+      "mlId": "MLA1437376056",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337706790",
+      "tnName": "Silla Iskia Chenillle Y Cromo Moderna Pack 4 Unid",
+      "mlId": "MLA1437799518",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337706927",
+      "tnName": "Juego Comedor Mesa Lounna 180cm + 4 Sillas Tulip Nordicas Blanco Liso",
+      "mlId": "MLA1438738421",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337706978",
+      "tnName": "Sillon Eames Base Cromada Pack 2 Unid Outlet Cromada Negro",
+      "mlId": "MLA1439167201",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337707796",
+      "tnName": "Juego Comedor Mesa Lounna 180cm + 4 Sillas Becca Importada",
+      "mlId": "MLA1451106161",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337708093",
+      "tnName": "Silla Panuta Importado Premium Almohadon Exterior Pack 4 Negro Natural",
+      "mlId": "MLA1452820613",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337708147",
+      "tnName": "Silla Mileto Importado Premium Con Almohadon Exterior Pack 4 Negro Y Natural",
+      "mlId": "MLA1452871847",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337708194",
+      "tnName": "Silla Comedor Plastica Milan Apilable Pack 2",
+      "mlId": "MLA1455115093",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337708272",
+      "tnName": "Juego Comedor Mesa Moncloa 200cm + 4 Sillas Milan Pvc",
+      "mlId": "MLA1455128697",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337708429",
+      "tnName": "Juego Comedor Mesa Moncloa 200 + 4 Sillas Eames Pvc Nordicas",
+      "mlId": "MLA1455466885",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337708780",
+      "tnName": "Reposera Camastro Hazel Jardín Exterior Pack 2 Unid",
+      "mlId": "MLA1456419817",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337709048",
+      "tnName": "Silla Toscana Importado Con Almohadon Simil Mimbre Pack X 2",
+      "mlId": "MLA1459232133",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337709154",
+      "tnName": "Banco Nórdico Amelia Pie De Cama Recibidor Madera Alamo 70cm",
+      "mlId": "MLA1462473103",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337709269",
+      "tnName": "Banco Nórdico Amelia Pie De Cama / Recibidor Madera Crudo Acabado De La Estructura Sin Pintar",
+      "mlId": "MLA1462498997",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337709290",
+      "tnName": "Banqueta Aulia Exterior Pack 2 Acabado De La Estructura Negro Color Natural",
+      "mlId": "MLA1462499881",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337709500",
+      "tnName": "Banqueta Acapulco Tulum Simil Yute Pack 2 Unid Color Blanco",
+      "mlId": "MLA1462549625",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337709702",
+      "tnName": "Silla Comedor Pradesh Vintage Con Asiento Rattan Pack 2 Unid",
+      "mlId": "MLA1463782767",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337709871",
+      "tnName": "Sillón Poltrona Nórdico Modelo Volgar Calidad Premium Color Marrón Diseño De La Tela Liso",
+      "mlId": "MLA1463784439",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337709974",
+      "tnName": "Mesa De Comedor Modelo Ashley Base Negra 1,80 Importada Símil Madera Metal",
+      "mlId": "MLA1466973670",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337710676",
+      "tnName": "Espejo Bayu Decorativo Moderno Rectangular 180x60 Hierro",
+      "mlId": "MLA1471245107",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337710714",
+      "tnName": "Espejo Bayu Decorativo Moderno Rectangular 180x60 Hierro Marco Blanco",
+      "mlId": "MLA1471800823",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337711523",
+      "tnName": "Silla Nordica Amanda Pack 2 Unid Nordicas Asiento Gris Oscuro",
+      "mlId": "MLA1479272089",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337711719",
+      "tnName": "140x200cm Alfombra Infantil Pie De Cama Multicolor Kids 2 M 1.4 M Multicolor",
+      "mlId": "MLA1481021705",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337711810",
+      "tnName": "Borla Decorativa Julia Puertas Cortinas",
+      "mlId": "MLA1481427479",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337711853",
+      "tnName": "Difusor De Aroma Y Humedificador Ultrasonico/ Linea Relax Color Blanco",
+      "mlId": "MLA1481453649",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337711962",
+      "tnName": "Silla Beetle Pana Base Dorada Pack 2 Dorada Gris Claro Cielo",
+      "mlId": "MLA1483673192",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337712705",
+      "tnName": "Borla Nordica Decorativa Isabella Color Natural",
+      "mlId": "MLA1496916013",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337712856",
+      "tnName": "Silla Sillon Roma Base Black Importado Pana Negro Gris Claro",
+      "mlId": "MLA1497190143",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337712920",
+      "tnName": "Reposera Camastro Kata Jardin Exterior Acero Pack 2 Unid Color Negro",
+      "mlId": "MLA1497195571",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337712960",
+      "tnName": "Silla Sillon Roma Base Black Importado Pana Negra Taupe",
+      "mlId": "MLA1497208593",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337713076",
+      "tnName": "Silla Sillon Roma Base Black Importado Pana Negro Gris Oscuro",
+      "mlId": "MLA1497258557",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337713113",
+      "tnName": "Silla De Comedor Yout Pana Base Negra Pack 4 Pana Negro Gris",
+      "mlId": "MLA1497264173",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337713158",
+      "tnName": "Silla De Comedor Yout Pana Base Negra Pack 4 Pana Negro Gris Oscuro",
+      "mlId": "MLA1497313241",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337713200",
+      "tnName": "Silla Panida Madera Y Esterilla Importada Premium Pack 2 Un Esterilla Negro",
+      "mlId": "MLA1497326611",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337713457",
+      "tnName": "Silla De Comedor Sybil Pana Pack 2 Outlet Pana Negro Taupe",
+      "mlId": "MLA1499589191",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337714074",
+      "tnName": "Banqueta Taburete Ecocuero Sintetico Y Cromo Resp Alto C",
+      "mlId": "MLA1502452522",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337714177",
+      "tnName": "Banqueta Regulable Cuero Sintético Y Cromo Blair Resp Alto C",
+      "mlId": "MLA1503168334",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337714362",
+      "tnName": "Mesa Comedor Alai 140x80cm Outlet",
+      "mlId": "MLA1506988432",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337714504",
+      "tnName": "3x2 Mts Alfombra Nórdica Pelo Largo Varios Colores 3 M 2 M Arena",
+      "mlId": "MLA1508722841",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337714560",
+      "tnName": "Alfombra 100x50cm Nórdicas Pelo Largo Suave Pie De Cama 1 M 50 Cm Gris Claro",
+      "mlId": "MLA1510296889",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337714586",
+      "tnName": "Alfombra 100x50cm Nórdicas Pelo Largo Suave Pie De Cama 1 M 50 Cm Negro",
+      "mlId": "MLA1510335907",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337714617",
+      "tnName": "Alfombra 100x50cm Nórdicas Pelo Largo Suave Pie De Cama 1 M 50 Cm Gris Oscuro",
+      "mlId": "MLA1510361705",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337715035",
+      "tnName": "Silla Comedor Milano Pack 4 Unid Base Simil Madera Chenille Símil Madera Gris Oscuro",
+      "mlId": "MLA1516643861",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337715164",
+      "tnName": "Banqueta Sybil Pana Cromo Importada Pack 4 Unidades C Cromo Taupe",
+      "mlId": "MLA1517306757",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337715198",
+      "tnName": "Banqueta Sybil Pana Cromo Importada Pack 4 Unidades C Cromo Beige",
+      "mlId": "MLA1517306759",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337715242",
+      "tnName": "Banqueta Sybil Pana Base Negra Importada Pack 4 Unidades C Negro Taupe",
+      "mlId": "MLA1517306991",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337715274",
+      "tnName": "Banqueta Sybil Pana Base Negra Importada Pack 4 Unidades C Negro Gris Oscuro",
+      "mlId": "MLA1517346117",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337715323",
+      "tnName": "Banqueta Sybil Pana Cromo Importada Pack 4 Unidades C Cromo Gris Claro",
+      "mlId": "MLA1517371701",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337715348",
+      "tnName": "Banqueta Sybil Pana Cromo Importada Pack 4 Unidades C Cromo Gris Oscuro",
+      "mlId": "MLA1517423483",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337715463",
+      "tnName": "Silla De Escritorio Melk Ejecutivo Ergonómica Importado C Negro Cuero Sintético",
+      "mlId": "MLA1517568669",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337715514",
+      "tnName": "Silla De Escritorio Weis Ejecutivo Ergonómica Importado C Negro Cuero Sintético",
+      "mlId": "MLA1517608037",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337715828",
+      "tnName": "Silla Comedor Zaro Pack 4 Unid Chenille Base Capuchino Chenille Capuchino Gris Claro",
+      "mlId": "MLA1520516891",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337715886",
+      "tnName": "Silla Comedor Zaro Pack 4 Unid Chenille Base Negra Chenille Negro Gris Claro",
+      "mlId": "MLA1520593079",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337716085",
+      "tnName": "Mesa Ratona Auxiliar Eames Importada Outlet Blanco",
+      "mlId": "MLA1536229641",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337716149",
+      "tnName": "Silla Lesley Chenille Importada Patas Natural Pack 4 Chenille Natural Beige",
+      "mlId": "MLA1536328379",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337716268",
+      "tnName": "Puf Fiaca Nórdico Tribeca Blanco Redondo Cuero Sintético 36cm",
+      "mlId": "MLA1550386783",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337716437",
+      "tnName": "Base De Sombrilla Para Jardín Stamm Linea Exterior Negro Stamm",
+      "mlId": "MLA1553703109",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337716688",
+      "tnName": "Silla Comedor Alina Pack 4 Unid Boucle Importada Boucle Capuchino Beige",
+      "mlId": "MLA1557791063",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337716721",
+      "tnName": "Silla Comedor Alina Pack 4 Unid Boucle Importada Boucle Capuchino Gris Claro",
+      "mlId": "MLA1557803821",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337716762",
+      "tnName": "Silla Comedor Alina Pack 4 Unid Boucle Importada Boucle Capuchino Taupe",
+      "mlId": "MLA1557946435",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337716812",
+      "tnName": "Alfombra Nórdica 1x1,4 Mts Pelo Largo Colores Antideslizante 1 M 1.4 M Taupe",
+      "mlId": "MLA1558227287",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337716853",
+      "tnName": "Silla Eames Metal Leg New Design Outlet Pack 4 Blanco Pvc Celeste",
+      "mlId": "MLA1558297287",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337716883",
+      "tnName": "Alfombra Nórdica 1x1,4 Mts Pelo Largo Colores Antideslizante 1 M 1.4 M Gris Claro",
+      "mlId": "MLA1558304717",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337716927",
+      "tnName": "Alfombra Nórdica 1x1,4 Mts Pelo Largo Colores Antideslizante 1 M 1.4 M Beige",
+      "mlId": "MLA1558395563",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337716972",
+      "tnName": "Alfombra Nórdica 1x1,4 Mts Pelo Largo Colores Antideslizante 1 M 1.4 M Gris Oscuro",
+      "mlId": "MLA1558408557",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337717434",
+      "tnName": "Silla Tulip Base Eiffel Pack 4 Unid Importada Negro Pvc Haya/negro",
+      "mlId": "MLA1560651873",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337717539",
+      "tnName": "Pack 4 Sillas Tribeca Iskia Chenille Cromo Asiento Gris Claro Elegante",
+      "mlId": "MLA1562311183",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337717569",
+      "tnName": "Silla Ejecutiva Ergonomica Giratoria Tribeca Anker Negro Ajustable Malla",
+      "mlId": "MLA1562326039",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337717603",
+      "tnName": "Silla Jane Pana Base Dorada Pack 2 Estructura De La Silla Dorado Asiento Gris Oscuro",
+      "mlId": "MLA1562336867",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337717743",
+      "tnName": "Juego Comedor Mesa Evan Madera + 4 Sillas Tulip Diseño De La Tela De Las Sillas Negro",
+      "mlId": "MLA1562601729",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337717907",
+      "tnName": "Silla Ergonomica Tribeca Milan Office Ejecutiva Giratoria Respaldo Alto Negro Tela Mesh",
+      "mlId": "MLA1562796973",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337717937",
+      "tnName": "Banqueta Leeds Cromada 2da Selecc Pack 2 Unid Color Blanco",
+      "mlId": "MLA1563046823",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337717965",
+      "tnName": "Banquetas Tribeca Modelo Katy Pack 2 Regulables Cuero Ecológico Negro Cromado Negra",
+      "mlId": "MLA1563189279",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337717981",
+      "tnName": "Banqueta Tribeca Moderna Ecocuero Ecológico Cromado Pack 2 Blanco Altura Ajustable",
+      "mlId": "MLA1563409453",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337718009",
+      "tnName": "Juego Jardín Balcon Banyu Sillones Con Almohadon Y Mesa Negro",
+      "mlId": "MLA1565432809",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337718075",
+      "tnName": "Reposera Camastro Modelo Mykonos Aluminio Pack X 2 C Gris",
+      "mlId": "MLA1565527349",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337718134",
+      "tnName": "Reposera Camastro Modelo Niza Aluminio Premium Importada C Blanco",
+      "mlId": "MLA1566280543",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337718166",
+      "tnName": "Juego Jardín Balcon Samoa Sillones Con Almohadon Y Mesa C Gris",
+      "mlId": "MLA1566323653",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337718249",
+      "tnName": "Banqueta Budi Exterior Pack 2 Acabado De La Estructura Negro Color Natural",
+      "mlId": "MLA1566355313",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337718331",
+      "tnName": "Silla Bistro Revestida Vintage Rattan Sintetico Importada C Bistro Revestida",
+      "mlId": "MLA1568933379",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337718451",
+      "tnName": "Silla Bistro Paris Vintage Rattan Sintetico Importada C París Símil Rattan Blanco Y Negro",
+      "mlId": "MLA1569622009",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337718743",
+      "tnName": "Juego Comedor Mesa Eames Redonda 100cm + 4 Sillas Windsor Blanco Pvc",
+      "mlId": "MLA1570767695",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337718868",
+      "tnName": "Juego Comedor Mesa Lounna 1,60 + 4 Sillas Wishbone C Tejido Natural",
+      "mlId": "MLA1571313377",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337718942",
+      "tnName": "Silla Modelo Claire Linea Nórdica Pack 2 Importado Madera Haya Negro",
+      "mlId": "MLA1573482937",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337719010",
+      "tnName": "Juego Comedor Mesa Eames + 4 Sillas Wishbone Tejida Imp C Blanco Tejido Natural",
+      "mlId": "MLA1573558727",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337719241",
+      "tnName": "Mesa De Luz Indi Madera Linea Nordica Outlet Brillante Natural",
+      "mlId": "MLA1594950087",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337719361",
+      "tnName": "Silla Comedor Alina Pack 4 Unid Boucle Base Negra C Boucle Negro Taupe",
+      "mlId": "MLA1596619859",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337719396",
+      "tnName": "Cuadro De Diseño Cuadros Decorativos Modernos Color City",
+      "mlId": "MLA1602761305",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337719530",
+      "tnName": "Mesa De Comedor Madden Neolith Base Negra 160x80cm C Blanco Negro",
+      "mlId": "MLA1605209215",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337719606",
+      "tnName": "Sillon Mesh Ejecutivo Respaldo Alto Silla Escritorio Oak Negro Mesh",
+      "mlId": "MLA1626292653",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337719703",
+      "tnName": "Juego Jardín Balcon Banyu Sillones Con Almohadon Y Mesa Crudo",
+      "mlId": "MLA1628175462",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337720342",
+      "tnName": "Jarrón Florero Candelabro Vidrio Clásico 56cm Outlet Liso",
+      "mlId": "MLA1653980326",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337720371",
+      "tnName": "Jarrón Florero Esfera Vidrio Color Outlet Azul Liso",
+      "mlId": "MLA1654464328",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337720409",
+      "tnName": "Silla Comedor Dheli Vintage Con Esterilla Y Rattan",
+      "mlId": "MLA1654780384",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337720439",
+      "tnName": "Mesa De Comedor Base Central Duna Vidrio 200x100cm C Vidrio Negra",
+      "mlId": "MLA1655730377",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337720547",
+      "tnName": "Juego Comedor Mesa Lounna 180cm + 6 Sillas Jenna Importadas Negro Pana Negro",
+      "mlId": "MLA1662986213",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337721124",
+      "tnName": "Mesa Auxiliar Con Bandeja Desmontable Kipa Nordica Marrón",
+      "mlId": "MLA1665072773",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337721225",
+      "tnName": "Silla Jenna Tela Y Cromo Moderna Super Comodas Pack 2 Unid Estructura De La Silla Cromo/pana Asiento Negro",
+      "mlId": "MLA1668176439",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337721328",
+      "tnName": "Silla Jenna Tela Y Cromo Moderna Super Comodas Pack 2 Unid Estructura De La Silla Cromo/pana Asiento Gris",
+      "mlId": "MLA1671365661",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337721626",
+      "tnName": "Silla Comedor Cocina Moderna Veneta Pack 2 Uni Importada C Pana Cromo Negro",
+      "mlId": "MLA1674680679",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337721697",
+      "tnName": "Silla Venecia Cuero Sintetico Cromo Respaldo Alto Outlet Estructura De La Silla Beige Asiento Beige",
+      "mlId": "MLA1678607049",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337721901",
+      "tnName": "Silla Tulip Base Metalica Pack 4 Unidades Outlet Liso Blanco",
+      "mlId": "MLA1679411573",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337722093",
+      "tnName": "Sillón Mecedora Nórdico Modelo Volgar + Ottoman Importado Chocolate Lino",
+      "mlId": "MLA1688006769",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337722121",
+      "tnName": "Sillón Mecedora Nórdico Modelo Volgar + Ottoman Importado Gris Claro Lino",
+      "mlId": "MLA1688019277",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337722207",
+      "tnName": "Silla Olive Pana Base Simil Madera Importada Pack 4",
+      "mlId": "MLA1694992746",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337722325",
+      "tnName": "Silla De Escritorio Creta Ejecutivo Ergonómica Outlet",
+      "mlId": "MLA1696205304",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337722634",
+      "tnName": "Silla De Comedor Moderna Milano Pack 2 Tapizada Pana Pana Capucchino Taupe",
+      "mlId": "MLA1703760247",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337722695",
+      "tnName": "Sillón Induhansen Linea Carl Hansen Teka Indonesia Natural Estirilla",
+      "mlId": "MLA1705611050",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337723013",
+      "tnName": "Silla Casley Cuero Sintético Y Cromo Pack X 4 Unid Cuero Sintético Cromo Blanco",
+      "mlId": "MLA1713485891",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337723045",
+      "tnName": "Canasto Leñero Cesto Organizador Macetero Mimbre Felipe 16cm Marrón",
+      "mlId": "MLA1713780794",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337723222",
+      "tnName": "Banqueta Sofia Chenille Importada Pack 2 Unidades C Capuccino Beige",
+      "mlId": "MLA1716959455",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337723247",
+      "tnName": "Banqueta Sofia Chenille Importada Pack 2 Unidades C Negro Gris Claro",
+      "mlId": "MLA1716959457",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337723274",
+      "tnName": "Banqueta Sofia Chenille Importada Pack 2 Unidades C Capuccino Gris Claro",
+      "mlId": "MLA1716971525",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337723429",
+      "tnName": "Silla Comedor Sofia Pack 2 Unid Chenille Importada C Chenille Negro Gris Oscuro",
+      "mlId": "MLA1722538013",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337723500",
+      "tnName": "Silla Comedor Sofia Pack 2 Unid Chenille Importada C Chenille Negro Beige",
+      "mlId": "MLA1722550603",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337723551",
+      "tnName": "Silla Comedor Sofia Pack 2 Unid Chenille Importada C Chenille Capuccino Gris Claro",
+      "mlId": "MLA1722563565",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337723576",
+      "tnName": "Silla Comedor Sofia Pack 2 Unid Chenille Importada C Chenille Capuccino Beige",
+      "mlId": "MLA1722586943",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337723598",
+      "tnName": "Camastro Tribeca Krabi 5 Posiciones Aluminio Gris Pack 2 Unidades",
+      "mlId": "MLA1723684129",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337724049",
+      "tnName": "Silla Savona Cuero Sintetico Cromo Pack 4 Unid Importada",
+      "mlId": "MLA1741752408",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337724332",
+      "tnName": "Sillon Silla De Comedor Diseño Eames Dsw Patas De Madera",
+      "mlId": "MLA1762510468",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337724516",
+      "tnName": "Banqueta Maga Taburete Regulable Pack 2 Unid",
+      "mlId": "MLA1763389226",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337725617",
+      "tnName": "Banqueta Taburete Desayunador Barra Resp Alto Pack 2 Outlet",
+      "mlId": "MLA1857509178",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337725836",
+      "tnName": "Juego Comedor Mesa Broke 120cm + 4 Sillas Tulip Saarinen Blanco Liso",
+      "mlId": "MLA1886729274",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337725908",
+      "tnName": "Silla De Comedor Sybil Lino Base Dorada Pack 2",
+      "mlId": "MLA1896006958",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337725991",
+      "tnName": "Silla Diseño Master Plástica Apilable Pack 2 Unid",
+      "mlId": "MLA1898205722",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337726225",
+      "tnName": "Mesa Vidrio Esme Madera Linea Nordica 1,80x90cm Outlet",
+      "mlId": "MLA1911245308",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337726293",
+      "tnName": "Juego Comedor Mesa Lounna 180cm + 4 Sillas Master Pvc",
+      "mlId": "MLA1911340582",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337726365",
+      "tnName": "Reposera Jardin Balcon Exterior Playera Circle Pack2 Unid",
+      "mlId": "MLA1914224666",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337726504",
+      "tnName": "Reposera Jardin Balcon Exterior Plegable Playera Pack4 Unid",
+      "mlId": "MLA1920216858",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337726716",
+      "tnName": "Banqueta Aulia Exterior Importado Pack 2 Negro Natural",
+      "mlId": "MLA1923196480",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337726820",
+      "tnName": "Mesa De Comedor Dewi Vidrio Simil Rattan Exterior 160x90cm Vidrio/haya Negro",
+      "mlId": "MLA1923424914",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337726866",
+      "tnName": "Mesa De Comedor Dewi Vidrio Simil Rattan Exterior 180x90cm Vidrio/haya Negro",
+      "mlId": "MLA1923438056",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337727004",
+      "tnName": "Silla Comedor Moderna Jenna Cuero Sintético Cromo Pack 4 C",
+      "mlId": "MLA1932563414",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337727388",
+      "tnName": "Juego Comedor Mesa Moncloa 200cm + 4 Sillas Torino Pvc Blanco Lisa",
+      "mlId": "MLA1934213584",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337727450",
+      "tnName": "Silla Comedor Plastica Torino Apilable Apto Exterior Pack 2",
+      "mlId": "MLA1934396048",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337728549",
+      "tnName": "Silla Eames Dsw Base Madera 2da Selección Estructura De La Silla Celeste",
+      "mlId": "MLA1962686092",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337728609",
+      "tnName": "Silla Tulip Base Metalalica Blanca Pack 4 Unid Outlet Estructura De La Silla Blanco",
+      "mlId": "MLA1962698284",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337728639",
+      "tnName": "Pack Combo 2 Unidades Sillon Eames Base Madera Premium Estructura De La Silla Negra",
+      "mlId": "MLA1962698412",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337728720",
+      "tnName": "Mesa Comedor Vidrio Templado Nordica 140x80 Ferra Outlet",
+      "mlId": "MLA1963519432",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337729218",
+      "tnName": "Sillon Gervasoni Almohadon Asiento Y Respaldo Impermeable Color Blanco Diseño De La Tela Liso",
+      "mlId": "MLA1971237850",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337729327",
+      "tnName": "Banqueta Acapulco Taburete Estilo Mexicano Banqueta Barra Color Blanco",
+      "mlId": "MLA1971251188",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337729823",
+      "tnName": "Herman Miller Chaise Lounge Sillon Y Ottoman Rose Wood Cuero Negro Cuero",
+      "mlId": "MLA1986851038",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337730123",
+      "tnName": "Espejo Perchero Industrial Bali 90x180cm Marco Negro",
+      "mlId": "MLA2005609046",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337730337",
+      "tnName": "Silla Zoe Chenille Importada Patas Negras Pack 4 C",
+      "mlId": "MLA2010539646",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337730604",
+      "tnName": "Silla Fill Noir Pack 2 Importada C",
+      "mlId": "MLA2017580882",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337730725",
+      "tnName": "Sillón Ejecutivo Selb Regulable Silla De Escritorio Colores",
+      "mlId": "MLA2022024070",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337730967",
+      "tnName": "Silla Amanda Pack 2 Unid Chenille Y Madera Asiento Gris Claro",
+      "mlId": "MLA2022484332",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337731011",
+      "tnName": "Silla Wishbone Nordica Madera Y Fibras Naturales Pack 2 Unid Fibra Natural Natural Beige",
+      "mlId": "MLA2023354470",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337731078",
+      "tnName": "Mesa Ratona Living Elliot Vidrio Cromo Patas Madera 110x60 C",
+      "mlId": "MLA2024452076",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337731374",
+      "tnName": "Mesas Ratonas Tribeca Nórdicas Madera Laqueada Color Mix Pack 3 Unidades",
+      "mlId": "MLA2026075294",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337731479",
+      "tnName": "Banqueta Cesca Pana Cromo Pack 2 Unidades Color Gris Oscuro",
+      "mlId": "MLA2026090164",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337731498",
+      "tnName": "Huevera De Madera 6 Huevos Deco Cocina",
+      "mlId": "MLA2026103324",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337731657",
+      "tnName": "Juego De Jardín Exterior Ratan Tribeca Mesa Y Sillones Gris Estructura Hierro",
+      "mlId": "MLA2026140294",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337731726",
+      "tnName": "Almohadon Sillon Acapulco Gervasoni Espuma 5cm Color Crudo Liso",
+      "mlId": "MLA2026153134",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337731757",
+      "tnName": "Almohadón Tribeca Piel Sintética Blanco 45x45 Cm Estilo Nórdico Liso",
+      "mlId": "MLA2026154964",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337731801",
+      "tnName": "Juego De Jardín Tribeca Acero Pintado 3 Piezas Mesa Y Sillas Para Exterior Crudo",
+      "mlId": "MLA2026181364",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337731872",
+      "tnName": "Banqueta Regulable Tribeca Urban 2 Unidades Ecocuero Cromo Blanco",
+      "mlId": "MLA2026194158",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337731893",
+      "tnName": "Silla Tribeca Jane Pana Dorada Pack 2 Asiento Gris Claro Moderna Dorado",
+      "mlId": "MLA2026206392",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337731989",
+      "tnName": "Fiaca Nórdica Redonda Tribeca Molly Piel Sintética Rosa 36cm",
+      "mlId": "MLA2026218642",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337732293",
+      "tnName": "Banqueta Industrial Tribeca Ajustable Altura 67-81cm Asiento Madera Mate Gunmetal",
+      "mlId": "MLA2026297290",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337732326",
+      "tnName": "Banqueta Manhattan Estirilla Y Madera Premium Color Negro",
+      "mlId": "MLA2026305452",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337732438",
+      "tnName": "Sillas Tribeca Zoe Chenille Beige Modernas Pack 4 Patas Negras Negro",
+      "mlId": "MLA2026800346",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337732466",
+      "tnName": "Set Borla Decorativa Julia + Cuentas Indira Puertas Cortinas",
+      "mlId": "MLA2026813692",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337732509",
+      "tnName": "Borla Nordica Decorativa Cuentas De Madera Indira",
+      "mlId": "MLA2026852924",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337732532",
+      "tnName": "Almohadón Silla Tolix En Tussur Con Cierre Pack 2 Unid Color Curry Diseño De La Tela Liso",
+      "mlId": "MLA2026891032",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337732556",
+      "tnName": "Puff Tribeca Yamika Rectangular Bohemio Madera Marrón Claro India",
+      "mlId": "MLA2026916516",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337732626",
+      "tnName": "Silla Rattán Sintético Tribeca Nur Exterior Pack 2 Marrón Claro",
+      "mlId": "MLA2026955240",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337732663",
+      "tnName": "Puff Fiaca Redondo Tribeca Pelo Largo Modelo Molly Pack 2 Piel Sintética Blanco Gris Oscuro",
+      "mlId": "MLA2026956140",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337732725",
+      "tnName": "Silla Beetle Pana Base Dorada Pack 4 Estructura De La Silla Metal/dorada Asiento Gris Claro Liso",
+      "mlId": "MLA2027019848",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337732820",
+      "tnName": "Silla Hamaca Mallorca Colgante Tribeca Hierro Negro/haya Diseño Nórdico",
+      "mlId": "MLA2028347738",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337732848",
+      "tnName": "Silla Exterior Textilene Apilable Mombai Hierro 48x58x40cm Negro Liso",
+      "mlId": "MLA2028568452",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337732864",
+      "tnName": "Silla De Exterior Capri Con Almohadón Y Estructura Negra Negro Natural",
+      "mlId": "MLA2028594548",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337732979",
+      "tnName": "Juego Comedor Mesa Evan Nordica + 4 Sillas Wishbone Madera Liso",
+      "mlId": "MLA2030468962",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337733068",
+      "tnName": "Bandeja Decorativa Artesanal De Mimbre Redonda Kali 35cm Color Marrón Claro",
+      "mlId": "MLA2030560072",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337733122",
+      "tnName": "Manta Pie De Cama Moana Gasa De Algodón 240cm C Color Rosa",
+      "mlId": "MLA2030689808",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337733218",
+      "tnName": "Juego Comedor Mesa Moncloa 200cm + 4 Sillas Wishbone Marrón Claro Trenzado",
+      "mlId": "MLA2031860390",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337733613",
+      "tnName": "Silla Cheers Pana Nordica Pack 4 Unid Pana Negro Taupe",
+      "mlId": "MLA2035486800",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337733644",
+      "tnName": "Silla Cheers Pana Nordica Pack 4 Unid Pana Negro Gris Claro",
+      "mlId": "MLA2035525650",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337733676",
+      "tnName": "Silla Cheers Pana Nordica Pack 4 Unid Pana Negro Gris Oscuro",
+      "mlId": "MLA2035641990",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337733705",
+      "tnName": "Silla Cheers Pana Nordica Pack 4 Unid Pana Negro Beige",
+      "mlId": "MLA2035717718",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337733874",
+      "tnName": "Silla Thea Pana Base Negra Pack 2 Pana Metal/negro Gris Oscuro",
+      "mlId": "MLA2042870072",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337734420",
+      "tnName": "Juego De Comedor Mesa Eames Madera 100cm + 4 Sillas Windsor Blanco Pvc",
+      "mlId": "MLA2061947598",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337734458",
+      "tnName": "Silla Gamer Ergonomica Tribeca Players Rojo/negro Con Soporte Lumbar Cuero Sintético",
+      "mlId": "MLA2066772864",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337734603",
+      "tnName": "Sillón Ejecutivo Gerencial Respaldo Alto Aluminium Office Pc Blanco Cuero Sintético",
+      "mlId": "MLA2073312102",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337734650",
+      "tnName": "Borla Nordica Decorativa Isabella Color Negra",
+      "mlId": "MLA2077002392",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337734785",
+      "tnName": "Puff Apoyapies Ottoman Modelo Volgar Color Gris Oscuro",
+      "mlId": "MLA2077924158",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337734839",
+      "tnName": "Tira De Cuentas De Madera Sujetador De Cortinas Nisha",
+      "mlId": "MLA2079561866",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337734903",
+      "tnName": "Silla Sillon Roma Base Black Importado Boucle Negro Blanco",
+      "mlId": "MLA2080200494",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337734961",
+      "tnName": "Puff Apoyapies Ottoman Modelo Volgar Color Beige",
+      "mlId": "MLA2080219724",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337734996",
+      "tnName": "Silla De Comedor Yout Pana Base Negra Pack 4 Pana Negro Beige",
+      "mlId": "MLA2080492842",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337735033",
+      "tnName": "Silla De Comedor Yout Pana Base Negra Pack 4 Pana Negr Taupe",
+      "mlId": "MLA2080492844",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337735106",
+      "tnName": "Silla Sillon Venetian Base Black Importado Pack 2 Unidades C Chenille Negro Beige",
+      "mlId": "MLA2081774450",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337735184",
+      "tnName": "Colchon En Caja Tribeca Linea Blue Queen Alta Den 160x200 Blanco",
+      "mlId": "MLA2082522744",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337735245",
+      "tnName": "Banqueta Regulable Paris Capitone Giratoria X2 Cromado Blanco",
+      "mlId": "MLA2084518878",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337735290",
+      "tnName": "Silla De Comedor Integral Deco Tribeca Toscana Con Estructura Color Negro Y Asiento Beige X 4 Unidades Full Black",
+      "mlId": "MLA2086780498",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337735302",
+      "tnName": "Sillas Wishbone Tribeca 2 Unidades Blancas Madera Olmo Estilo Nórdico Blanco Beige",
+      "mlId": "MLA2086910472",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337735448",
+      "tnName": "Sillón Poltrona Nórdico Volgar Nordico + Apoyapies Gris Claro Liso",
+      "mlId": "MLA2088447984",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337735506",
+      "tnName": "Juego Comedor Mesa Tulip Redonda + 4 Sillas Tulip Blanco/haya",
+      "mlId": "MLA2089049812",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337736521",
+      "tnName": "Banqueta Regulable Cuero Sintético Y Cromo Blair Resp Alto C Negro",
+      "mlId": "MLA2149700512",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337736716",
+      "tnName": "3x2 Mts Alfombra Nórdica Pelo Largo Varios Colores 3 M 2 M Taupe",
+      "mlId": "MLA2158607212",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337736747",
+      "tnName": "3x2 Mts Alfombra Nórdica Pelo Largo Varios Colores 3 M 2 M Gris Claro",
+      "mlId": "MLA2158607214",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337736789",
+      "tnName": "3x2 Mts Alfombra Nórdica Pelo Largo Varios Colores 3 M 2 M Gris Oscuro",
+      "mlId": "MLA2158607220",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337736853",
+      "tnName": "Mesa De Luz Linea Nórdica Mesa De Arrime Nuuk Acabado Semimate Color Toda Blanca",
+      "mlId": "MLA2162232862",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337736901",
+      "tnName": "Mesa De Comedor Tulip Redonda 100cm Base Metal Blanco",
+      "mlId": "MLA2165946702",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337737280",
+      "tnName": "Servilletero Individual Esferas Madera Nórdico Pack 4 Unid Color Natural",
+      "mlId": "MLA2179522852",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337737487",
+      "tnName": "Pack 4 Sillas Comedor Tribeca Sybil Pana Industrial Base Metal Negro Asiento Taupe Liso",
+      "mlId": "MLA2180393884",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337737863",
+      "tnName": "Cuadro Marilyn Decorativo 80x80cm Outlet No Aplica",
+      "mlId": "MLA2213706272",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337738024",
+      "tnName": "Juego De Jardín Balcon Exterior Ratan Molly + Puff Mesa C Gris",
+      "mlId": "MLA2219895206",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337738100",
+      "tnName": "Juego De Jardín De Ratan Modelo Lisbon Sillones Ratan C Gris Oscuro",
+      "mlId": "MLA2219970152",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337738264",
+      "tnName": "Espejo Circular 50cm Decorativo De Pared Marco Hierro Blanco",
+      "mlId": "MLA2222133680",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337738299",
+      "tnName": "Espejo Circular 70cm Decorativo De Pared Marco Hierro Blanco",
+      "mlId": "MLA2225402038",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337738518",
+      "tnName": "Silla Veneta Lino Y Cromo Pack 2 Unid Outlet Liso Cromo Gris Claro",
+      "mlId": "MLA2269559228",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337738916",
+      "tnName": "Futon Sofa Bed Oslo Pana 3 Cuerpos Cama 1 Plaza Beige Pana",
+      "mlId": "MLA2301614300",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337738959",
+      "tnName": "Banqueta Sybil Pana Base Dorada Importada Pack 4 Unidades C Dorado Gris Claro",
+      "mlId": "MLA2301626900",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337738989",
+      "tnName": "Futon Sofa Bed Oslo Pana 3 Cuerpos Cama 1 Plaza Gris Claro Pana",
+      "mlId": "MLA2301679300",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337739062",
+      "tnName": "Futon Sofa Bed Oslo Pana 3 Cuerpos Cama 1 Plaza Gris Oscuro Pana",
+      "mlId": "MLA2301770138",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337739229",
+      "tnName": "Silla Comedor Zaro Pack 4 Unid Chenille Base Negra Chenille Negro Off White",
+      "mlId": "MLA2316501344",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337739305",
+      "tnName": "Funda Almohadon - Solo Funda Con Cierre Rayas Rosas",
+      "mlId": "MLA2340658612",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337739359",
+      "tnName": "Mesa Ratona Auxiliar Eames Importada Outlet Negro",
+      "mlId": "MLA2357117986",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337739398",
+      "tnName": "Mesa Ratona Auxiliar Eames Importada Negro",
+      "mlId": "MLA2357300308",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337739441",
+      "tnName": "Mesa Ratona Auxiliar Eames Outlet Blanco",
+      "mlId": "MLA2378134808",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337739473",
+      "tnName": "Mesa Ratona Auxiliar Eames Negro",
+      "mlId": "MLA2380919428",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337739528",
+      "tnName": "Silla Thea Lino Pata Simil Madera Linea Nordica Pack 2 Lino Madera Gris Claro",
+      "mlId": "MLA2396043978",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337739549",
+      "tnName": "Silla Iskia Cuero Sintético Y Cromo Pack 2 Unid Cuero Ecológico Cromo Coffe",
+      "mlId": "MLA2398403118",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337739604",
+      "tnName": "Cuadro Decorativo Moderno 60x80cm Love Your Hair",
+      "mlId": "MLA2416672124",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337739639",
+      "tnName": "Reposera Camastro Krabi C/apoya Brazos Pack 2 Uni + Mesa Gris",
+      "mlId": "MLA2417746356",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337739717",
+      "tnName": "Banqueta Taburete Regulable Maga Desayunador Asiento Comodo Cromado Negro",
+      "mlId": "MLA2417838130",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337739908",
+      "tnName": "Mesa Auxiliar Arrime Exterior Krabi Importada Blanco",
+      "mlId": "MLA2424659496",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337739949",
+      "tnName": "Banqueta Paris Capitone Taburete Regulable Giratoria Outlet Cromo Blanco",
+      "mlId": "MLA2424660724",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337739999",
+      "tnName": "Banqueta Regulable Paris Capitone Giratoria X2 Outlet Cromo Blanco",
+      "mlId": "MLA2424675032",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337740245",
+      "tnName": "Mesa De Arrime Anexa Con Bandeja Kipa Importada",
+      "mlId": "MLA2457835058",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337740287",
+      "tnName": "Mesa Eames Rectangular 120x80 Vidrio Templado Base Madera Vidrio Natural",
+      "mlId": "MLA2457923366",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337740329",
+      "tnName": "Silla Cuero Sintetico Cromo Gala Importada Pack 2 Cuero Sintético Cromo Blanco",
+      "mlId": "MLA2458016166",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337740566",
+      "tnName": "Reposera Camastro Modelo Yakarta + Mesa Premium Importada C Gris",
+      "mlId": "MLA2465800390",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337740751",
+      "tnName": "Puf Fiaca Nórdico Tribeca Molly Redondo Cuero Sintético Gris 36x35 Cm",
+      "mlId": "MLA2470660578",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337740847",
+      "tnName": "Banquito Taburete Nordico Modelo Indi + C Acabado De La Estructura Satinado Color Cristal",
+      "mlId": "MLA2471045160",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337740870",
+      "tnName": "Juego Comedor Mesa Evan Madera + 4 Sillas Eames Diseño De La Tela De Las Sillas Blanco",
+      "mlId": "MLA2471080432",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337740964",
+      "tnName": "Puff Apoyapies Ottoman Modelo Volgar Color Chocolate",
+      "mlId": "MLA2471464458",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337741065",
+      "tnName": "Silla Eames Tribeca Patas Metal Negro Asiento Visón Diseño Moderno",
+      "mlId": "MLA2471747234",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337741207",
+      "tnName": "Perchero Organizador Con Estante Nordico Color Marrón Claro",
+      "mlId": "MLA2471786002",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337741242",
+      "tnName": "Cuadro Marilyn Decorativo 80x80cm Outlet",
+      "mlId": "MLA2472267354",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337741305",
+      "tnName": "Sillon Poltrona Leif Industrial Tipo Gervasoni + Almohadones Color Negro Liso",
+      "mlId": "MLA2473306078",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337741407",
+      "tnName": "Sillas Wishbone Tribeca Pack 2 Unidades Madera Olmo Estructura Negra Beige",
+      "mlId": "MLA2474586132",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337741507",
+      "tnName": "Pack Combo 2 Unidades Sillon Eames Base Madera Premium Estructura De La Silla Aqua",
+      "mlId": "MLA2474695520",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337741651",
+      "tnName": "Mesa Ratona De Madera Alamo Modelo Margarita Linea Nórdica",
+      "mlId": "MLA2489093344",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337741682",
+      "tnName": "Banqueta Leeds Cromada 2da Selecc Pack 2 Unid Color Blanco",
+      "mlId": "MLA2489119452",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337741700",
+      "tnName": "Juego Jardín Barbados Sillones Con Almohadon Y Mesa C Beige",
+      "mlId": "MLA2489315490",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337741861",
+      "tnName": "Silla Bistro Trenzada Vintage Rattan Sintetico Importada C Trenzada Símil Madera Negro",
+      "mlId": "MLA2505340976",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337741906",
+      "tnName": "Silla Bistro Trenzada Vintage Rattan Sintetico Importada C Trenzada Símil Madera Rojo",
+      "mlId": "MLA2506630780",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337741965",
+      "tnName": "Silla Bistro Revestida Vintage Rattan Sintetico Importada C Blanco Y Negro Bistro Revestida",
+      "mlId": "MLA2506712112",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337742218",
+      "tnName": "Silla Comedor Zaro Pack 4 Unid Chenille Base Madera C Chenille Símil Madera Gris Oscuro",
+      "mlId": "MLA2518106008",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337742302",
+      "tnName": "Juego Comedor Eames Mesa 100cm + 4 Sillas Milan Blanco Pvc",
+      "mlId": "MLA2535543582",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337742384",
+      "tnName": "Silla Tulip Base Eiffel Pack 4 Unid - Pvc - Haya/negro - Blanco",
+      "mlId": "MLA2536048022",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337742532",
+      "tnName": "Silla Kaiya Chenille Importada Patas Negras Pack 2 C Chenille Negro Tostado",
+      "mlId": "MLA2554613284",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337742612",
+      "tnName": "Almohadon Respaldo Sillon Gervasoni Negro Liso",
+      "mlId": "MLA2571761350",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337742757",
+      "tnName": "Silla Comedor Alina Pack 4 Unid Boucle Base Negra C Boucle Negro Beige",
+      "mlId": "MLA2614768370",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337742858",
+      "tnName": "Mesa De Comedor Madden Neolith Base Negra 160x80cm Importad Negra",
+      "mlId": "MLA2640882590",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337743033",
+      "tnName": "Juego Comedor Mesa Lounna 180cm + 6 Sillas Jenna Cromadas Negro Lisa",
+      "mlId": "MLA2660408298",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337743166",
+      "tnName": "Silla De Comedor Yout Lisa Pana Base Negra Pack 4 Pana Negro Gris Claro",
+      "mlId": "MLA2705169872",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337743191",
+      "tnName": "Silla De Comedor Yout Lisa Pana Base Negra Pack 4 Pana Negro Taupe",
+      "mlId": "MLA2705169874",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337743220",
+      "tnName": "Silla De Comedor Yout Lisa Pana Base Negra Pack 4 Pana Negro Beige",
+      "mlId": "MLA2705260680",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337743249",
+      "tnName": "Silla De Comedor Yout Lisa Pana Base Negra Pack 4 Pana Negro Gris Oscuro",
+      "mlId": "MLA2705505750",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337743270",
+      "tnName": "Silla Cheers Pana Lisa Base Negra Pack 4 Unid Importada Pana Negra Beige",
+      "mlId": "MLA2707620330",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337743299",
+      "tnName": "Silla Cheers Pana Lisa Base Negra Pack 4 Unid Importada Pana Negro Taupe",
+      "mlId": "MLA2708276530",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337743315",
+      "tnName": "Silla Cheers Pana Lisa Base Negra Pack 4 Unid Importada Pana Negro Gris Claro",
+      "mlId": "MLA2708354346",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337743333",
+      "tnName": "Silla Cheers Pana Lisa Nordica Pack 4 Unid Importada Pana Símil Madera Gris Oscuro",
+      "mlId": "MLA2708405780",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337743355",
+      "tnName": "Silla Cheers Pana Lisa Nordica Pack 4 Unid Importada Pana Símil Madera Taupe",
+      "mlId": "MLA2708560386",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337743376",
+      "tnName": "Silla Cheers Pana Lisa Nordica Pack 4 Unid Importada Pana Símil Madera Gris Claro",
+      "mlId": "MLA2708573280",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337743396",
+      "tnName": "Silla Cheers Pana Lisa Base Negra Pack 4 Unid Importada Pana Negro Gris Oscuro",
+      "mlId": "MLA2708573706",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337743458",
+      "tnName": "Silla Comedor Nova Pana Base Cromo Pack 4 Unid Pana Cromo Gris Claro",
+      "mlId": "MLA2715787402",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337743486",
+      "tnName": "Silla Comedor Nova Pana Base Cromo Pack 4 Unid Pana Negro Gris Oscuro",
+      "mlId": "MLA2715904232",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337743507",
+      "tnName": "Silla Comedor Nova Pana Base Cromo Pack 4 Unid Pana Negro Taupe",
+      "mlId": "MLA2715969060",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337743945",
+      "tnName": "Juego De Mesa Cocina Comedor Evan Y 4 Sillas Milano Haya C Gris Chenille",
+      "mlId": "MLA2765568586",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337743969",
+      "tnName": "Reposera Camastro Acero Hazel Apoyabrazos 5 Posicion + Mesa Negro",
+      "mlId": "MLA2768253084",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337744273",
+      "tnName": "Mesa De Comedor Albany Gris Simil Marquina 200 X 100 Cm Gris Negro",
+      "mlId": "MLA2799771532",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337744324",
+      "tnName": "Mesa De Comedor Albany Gris Simil Marquina 200 X 100cm C Gris Negro",
+      "mlId": "MLA2800389584",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337744395",
+      "tnName": "Mesa De Comedor Base Central Duna Vidrio 220x100cm Importada Vidrio Negro",
+      "mlId": "MLA2806984690",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337744410",
+      "tnName": "Mesa De Comedor Base Central Duna Vidrio 240x100cm Importada Vidrio Haya",
+      "mlId": "MLA2806985422",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337744453",
+      "tnName": "Mesa De Comedor Base Central Duna Vidrio 240x100cm Importada Vidrio Negro",
+      "mlId": "MLA2807011238",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337744620",
+      "tnName": "Mesa De Comedor Base Central Duna Vidrio 220x100cm C Vidrio Haya",
+      "mlId": "MLA2807179428",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337744964",
+      "tnName": "Alfombra 100x50cm Nórdicas Pelo Largo Suave Pie De Cama 1 M 50 Cm Beige",
+      "mlId": "MLA2841515720",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337745103",
+      "tnName": "Juego Comedor Mesa Shina Neolith 160cm + 4 Sillas Milano C Gris Pana",
+      "mlId": "MLA2847834332",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337745317",
+      "tnName": "Silla Comedor Cocina Moderna Veneta Pack 2 Uni Importada C Pana Cromo Taupe",
+      "mlId": "MLA2852077500",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337745424",
+      "tnName": "2x1,4 Mts Alfombra Nórdica Pelo Largo Varios Colores 2 M 1.4 Cm Gris Claro",
+      "mlId": "MLA2852113824",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337745505",
+      "tnName": "2x1,4 Mts Alfombra Nórdica Pelo Largo Varios Colores 2 M 1.4 M Gris Claro Matizado",
+      "mlId": "MLA2852126878",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337745699",
+      "tnName": "2x1,4 Mts Alfombra Nórdica Pelo Largo Varios Colores 2 M 1.4 M Negro",
+      "mlId": "MLA2852165392",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337745787",
+      "tnName": "2x1,4 Mts Alfombra Nórdica Pelo Largo Varios Colores 2 M 1.4 M Gris Oscuro",
+      "mlId": "MLA2852204354",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337745829",
+      "tnName": "2x1,4 Mts Alfombra Nórdica Pelo Largo Varios Colores 2 M 1.4 M Beige",
+      "mlId": "MLA2852230532",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337745883",
+      "tnName": "Silla Comedor Cocina Moderna Veneta Pack 2 Uni Importada C Pana Cromo Gris",
+      "mlId": "MLA2852285022",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337746017",
+      "tnName": "2x1,4 Mts Alfombra Nórdica Pelo Largo Varios Colores 2 M 1.4 M Taupe",
+      "mlId": "MLA2853052678",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337746253",
+      "tnName": "Mesa Ratona Living Rectangular Vidrio Elliot 110x60cm Negra Negro",
+      "mlId": "MLA2856038762",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337746414",
+      "tnName": "Mesa Ratona Living Rectangular Vidrio Elliot 110x60cm Madera Haya",
+      "mlId": "MLA2856207118",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337746499",
+      "tnName": "Mesa Ratona Living Rectangular Vidrio Elliot 110x60cm Blanca Blanco",
+      "mlId": "MLA2856246304",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337746535",
+      "tnName": "Mesa Ratona Living Rectangular Vidrio Elliot 110x60 Wengue Marrón Oscuro",
+      "mlId": "MLA2856311594",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337746879",
+      "tnName": "Silla Comedor Alina Pack 4 Unid Boucle Base Negra Importada Boucle Negro Gris Claro",
+      "mlId": "MLA2890683758",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337746903",
+      "tnName": "Mesa Comedor Eames Redonda Blanca Base Madera 100cm Blanco",
+      "mlId": "MLA2890727240",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337747089",
+      "tnName": "Silla Venecia Cuero Sintetico Cromo Respaldo Alto Outlet Estructura De La Silla Plateado Asiento Plateado",
+      "mlId": "MLA2906560830",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337747156",
+      "tnName": "Banqueta Taburete Regulable Maga Desayunador Pack 2 Outlet Cromado Blanco",
+      "mlId": "MLA2907543818",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337747247",
+      "tnName": "Silla Tulip Base Metalica Pack 2 Unidades Outlet Pvc/cuero Ecologico Blanco",
+      "mlId": "MLA2912046992",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337747305",
+      "tnName": "Sillón Mecedora Nórdico Modelo Volgar + Ottoman Importado Gris Oscuro Lino",
+      "mlId": "MLA2998979324",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337747352",
+      "tnName": "Tapa De Vidrio De Mesa Madden De 160x 90 Solo Vidrio Solo Vidrio Sin Patas",
+      "mlId": "MLA2999218702",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337747624",
+      "tnName": "Silla Comedor Oslo Tulip Nordica Base Madera Pack 2 Unid Liso Marrón Claro Gris",
+      "mlId": "MLA3065463490",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337747722",
+      "tnName": "Silla Comedor Oslo Vita Plastica Pack 2 Unid Liso Gris",
+      "mlId": "MLA3075171462",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337747792",
+      "tnName": "Banqueta Sofia Chenille Importada Pack 2 Unidades C Negro Off White",
+      "mlId": "MLA3091220246",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337747833",
+      "tnName": "2x1,4 Mts Alfombra Nórdica Pelo Largo Varios Colores Import 200 M 140 M Gris Oscuro",
+      "mlId": "MLA3091417826",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337747932",
+      "tnName": "Silla Comedor Sofia Pack 2 Unid Chenille Importada C Chenille Negro Gris Claro",
+      "mlId": "MLA3108225738",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337748099",
+      "tnName": "Silla Viena Capitone Pack 2 Unidades C Pana Cromo Taupe",
+      "mlId": "MLA3127068180",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337748145",
+      "tnName": "Mesa Comedor Base Central Vanna 240x110cm Importada Madera Negras",
+      "mlId": "MLA3132442932",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337748180",
+      "tnName": "Base Repuesto De Silla Eames Eiffel - Solo Base Sin Asiento",
+      "mlId": "MLA3136380406",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337748281",
+      "tnName": "Mesa Claire Natural Patas Blancas Linea Nordica 120x80cm Madera Blanco",
+      "mlId": "MLA616960578",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337750561",
+      "tnName": "Mesa De Comedor 1,40x80cm Modelo Iriarte Minimalista",
+      "mlId": "MLA647509093",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337750686",
+      "tnName": "Banco Taburete Hale Stool Edicion Limitada India Gris",
+      "mlId": "MLA648768984",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337751394",
+      "tnName": "Mesa De Comedor Linea Nórdica Modelo Claire 1,40x80cm Blanco",
+      "mlId": "MLA666398239",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337751574",
+      "tnName": "Banqueta Taburete Pack 2 Unid Tulip Eames Con Almohadón",
+      "mlId": "MLA682645281",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337752078",
+      "tnName": "Juego De Jardín De Ratan Modelo Meissa Sillones De Ratan",
+      "mlId": "MLA689851077",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337752199",
+      "tnName": "Sombrilla Para Jardín Stamm Linea Exterior",
+      "mlId": "MLA689852902",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337752387",
+      "tnName": "Sillon Poltrona Volgar Nordica + Mecedora Tapizado En Lino",
+      "mlId": "MLA694426562",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337753305",
+      "tnName": "Banqueta Taburete Regulable Altura Tulip Pack 2 Unid Import",
+      "mlId": "MLA721397398",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337754051",
+      "tnName": "Set Mesas De Arrime Madera Natural Modelo Boris Importadas",
+      "mlId": "MLA742639943",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337754183",
+      "tnName": "Puff Basel Stoll Importado Premium India Edición Limitada Marrón",
+      "mlId": "MLA752096205",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337754584",
+      "tnName": "Sillon Mecedora Poltrona Rocking Volgar Importado Nordico",
+      "mlId": "MLA782731135",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337755157",
+      "tnName": "Mesa De Comedor 120x80cm Iriarte Vidrio Templado Outlet",
+      "mlId": "MLA796328620",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337755542",
+      "tnName": "Mesa De Comedor 1,20x80cm Modelo Iriarte Minimalista",
+      "mlId": "MLA798204598",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337756243",
+      "tnName": "Mesa Eames Kids Para Niños Juegos 60cm Outlet Blanco",
+      "mlId": "MLA814568407",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337756299",
+      "tnName": "Banqueta Leeds Cromada 2da Selecc Pack 2 Unid Cromada Blanco",
+      "mlId": "MLA816804384",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337756499",
+      "tnName": "Silla Amanda Pack 2 Unid Chenille Y Madera",
+      "mlId": "MLA817195562",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337757647",
+      "tnName": "Mesa De Comedor Pixie Walnut 120x80cm Importada Industrial Walnut Negro",
+      "mlId": "MLA825783620",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337757828",
+      "tnName": "Mesa Vidrio Y Cromo 1,50x90cm Modelo Delhi 2da Selec Outlet",
+      "mlId": "MLA827956396",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337760236",
+      "tnName": "Sillon Gerencial Aluminium Premium Charles Eames Ergonomic C",
+      "mlId": "MLA866337026",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337761129",
+      "tnName": "Oferta Futon Napa 2da Seleccion Cama 1 Plaza Cuero Sintetico",
+      "mlId": "MLA876410823",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337761239",
+      "tnName": "Juego Jardín Balcon Modelo Maui Con Mesa Y Almohadón + C",
+      "mlId": "MLA897192770",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337762154",
+      "tnName": "Mesa De Luz Nordica Mesa Lateral Nuuk",
+      "mlId": "MLA905071655",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337762316",
+      "tnName": "Almohadón Silla Eames Niños Pelo Largo Nordico Kids 3cm",
+      "mlId": "MLA905953594",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337762787",
+      "tnName": "Mesa De Comedor Vidrio Templado Lounna 180x90 C",
+      "mlId": "MLA909734641",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337763152",
+      "tnName": "Borla Nordica Decorativa Isabella",
+      "mlId": "MLA918299322",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337763199",
+      "tnName": "Mesa De Comedor Broke Nordica 120x80cm Blanco",
+      "mlId": "MLA919182945",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337763642",
+      "tnName": "Silla Bresso Esterilla Y Madera Pack 2 Unid",
+      "mlId": "MLA930764919",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337763809",
+      "tnName": "Sillon Brett Sofa 3 Cuerpos Lino Y Madera Nórdico",
+      "mlId": "MLA930816478",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337767784",
+      "tnName": "Asiento Silla Eames Repuesto Outlet - Solo Asiento",
+      "mlId": "MLA1133267178",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337772522",
+      "tnName": "100x50cm Alfombra Pie De Cama Nórdicas Pelo Largo",
+      "mlId": "MLA1480345811",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "337772748",
+      "tnName": "140x100 Cm Alfombra Nórdica Pelo Largo Varios Colores",
+      "mlId": "MLA2023875496",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "339723426",
+      "tnName": "Futon Sillón Cama Ben Nordico Sofa 3 Cuerpos Patas Madera",
+      "mlId": "MLA627191951",
+      "source": "sku",
+      "skuFound": "MLA627191951-175212560264",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "339723481",
+      "tnName": "Futon Aleksi Sofa 3 Cuerpos Cama 1 Plaza Premium Apoyabrazos",
+      "mlId": "MLA636405111",
+      "source": "sku",
+      "skuFound": "MLA636405111-186785383833",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "339723902",
+      "tnName": "Mesa Comedor Ferra Nordica Vidrio 140x80cm Simil Madera",
+      "mlId": "MLA830027786",
+      "source": "sku",
+      "skuFound": "MLA830027786-47877084729",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "339725927",
+      "tnName": "Silla Pana Cromo Modelo Becca Linea Moderna Pack 4 Uni C",
+      "mlId": "MLA1374445793",
+      "source": "sku",
+      "skuFound": "MLA1374445793-178751971703",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "339736796",
+      "tnName": "Repuesto Pack 4 Patas Mesa De Comedor Mumbai / Sin Vidrio Simil Madera",
+      "mlId": "MLA3211815032",
+      "source": "sku",
+      "skuFound": "MLA3211815032",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "339736823",
+      "tnName": "Repuesto Pack 4 Patas Mesa De Comedor Mumbai / Sin Vidrio Cromada",
+      "mlId": "MLA3211814750",
+      "source": "sku",
+      "skuFound": "MLA3211814750",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "339736866",
+      "tnName": "Pata Mesa Comedor Mumbai Pack 4 Unidad Sin Vidrio Simil Madera",
+      "mlId": "MLA3211778790",
+      "source": "sku",
+      "skuFound": "MLA3211778790",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "339736883",
+      "tnName": "Pata Mesa Comedor Mumbai Pack 4 Unidad Sin Vidrio Cromada",
+      "mlId": "MLA1755705179",
+      "source": "sku",
+      "skuFound": "MLA1755705179",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "339737404",
+      "tnName": "Sillon Sofa Krogh 3 Cuerpos Lino Nordico Importado Gris Claro Lino",
+      "mlId": "MLA3219603090",
+      "source": "sku",
+      "skuFound": "MLA3219603090",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "339768587",
+      "tnName": "2x1,4 Mts Alfombra Nórdica Pelo Largo Varios Colores Import 200 M 140 M Taupe",
+      "mlId": "MLA3223396598",
+      "source": "sku",
+      "skuFound": "MLA3223396598",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "339768618",
+      "tnName": "2x1,4 Mts Alfombra Nórdica Pelo Largo Varios Colores Import 200 M 140 M Beige",
+      "mlId": "MLA3223341170",
+      "source": "sku",
+      "skuFound": "MLA3223341170",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "340273912",
+      "tnName": "2x1,4 Mts Alfombra Nórdica Pelo Largo Varios Colores Import 200 M 140 M Multicolor",
+      "mlId": "MLA3233212690",
+      "source": "sku",
+      "skuFound": "MLA3233212690",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "341098641",
+      "tnName": "Sillón Mecedora Nórdico Modelo Volgar + Mesa Nuuk Nordico",
+      "mlId": "MLA636411206",
+      "source": "sku",
+      "skuFound": "MLA636411206-35485980421",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "341098866",
+      "tnName": "Sillón Modelo Volgar + Ottoman + Mesa De Arrime Premium",
+      "mlId": "MLA637845966",
+      "source": "sku",
+      "skuFound": "MLA637845966-35485213466",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "341098959",
+      "tnName": "Sillon Poltrona Nordico Modelo Volgar + Mesa Apoyo",
+      "mlId": "MLA638218390",
+      "source": "sku",
+      "skuFound": "MLA638218390-38750799126",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "341099408",
+      "tnName": "Poltrona Volgar + Mecedora + Mesa Nuuk Nordica Importada",
+      "mlId": "MLA694431176",
+      "source": "sku",
+      "skuFound": "MLA694431176-35485404465",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "341099656",
+      "tnName": "Juego De Comedor Mesa Vidrio 120cm + 4 Sillas Eames Madera",
+      "mlId": "MLA732351421",
+      "source": "sku",
+      "skuFound": "MLA732351421",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "341212294",
+      "tnName": "Banco Taburete Nordico Apilable Nuuk Pack 2 Unid",
+      "mlId": "MLA912098082",
+      "source": "sku",
+      "skuFound": "MLA912098082-78895630740",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "341213369",
+      "tnName": "Banco Taburete Nordico Apilable Nuuk Premium",
+      "mlId": "MLA912100996",
+      "source": "sku",
+      "skuFound": "MLA912100996-78897057264",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "341613117",
+      "tnName": "Silla Bali Circle Importada Madera De Teka",
+      "mlId": "MLA1635368010",
+      "source": "sku",
+      "skuFound": "MLA1635368010-179721222734",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "341856696",
+      "tnName": "Sillón Alba Antique Tela Chenille Rubber Wood Nordico",
+      "mlId": "MLA1417772417",
+      "source": "sku",
+      "skuFound": "MLA1417772417-187942358229",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "341863516",
+      "tnName": "Mesa Auxiliar Nuuk Madera Mesa De Arrime Mesa De Luz",
+      "mlId": "MLA791982953",
+      "source": "sku",
+      "skuFound": "MLA791982953-38648576716",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "341901575",
+      "tnName": "Sillón Haru Tela Chenille Importado Taupe/ Walnut Chenille",
+      "mlId": "MLA3268203462",
+      "source": "sku",
+      "skuFound": "MLA3268203462",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "341901582",
+      "tnName": "Sillón Haru Tela Chenille Importado Beige/ Walnut Chenille",
+      "mlId": "MLA3268153772",
+      "source": "sku",
+      "skuFound": "MLA3268153772",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "342044877",
+      "tnName": "Juego Comedor Mesa Madden Vidrio Negra + 4 Sillas Sybil Pana Taupe Pana Base Negra",
+      "mlId": "MLA3271041730",
+      "source": "sku",
+      "skuFound": "MLA3271041730",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "342044895",
+      "tnName": "Juego Comedor Mesa Madden Vidrio Negra + 4 Sillas Sybil Pana Gris Pana Base Negra",
+      "mlId": "MLA1774829385",
+      "source": "sku",
+      "skuFound": "MLA1774829385",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "342068307",
+      "tnName": "Futon Luka Vintage Sillón Cama 1 Plaza Sofa 3 Cuerpos Outlet",
+      "mlId": "MLA1148732431",
+      "source": "sku",
+      "skuFound": "MLA1148732431-178497403353",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "342243340",
+      "tnName": "Base Para Mesa De Acero Integral Deco Moferna Mumbai Cromada",
+      "mlId": "MLA3273456344",
+      "source": "sku",
+      "skuFound": "MLA3273456344",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "342272574",
+      "tnName": "Silla Jenna Tela Y Cromo Moderna Super Comodas Pack 2 Unid",
+      "mlId": "MLA724536880",
+      "source": "sku",
+      "skuFound": "MLA724536880-189937102164",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "342524897",
+      "tnName": "Mesa De Luz Jacinta 39cm Madera Linea Nórdica Smimate Roble Claro",
+      "mlId": "MLA1777343009",
+      "source": "sku",
+      "skuFound": "MLA1777343009",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "342690692",
+      "tnName": "Silla Tulip Base Eiffel Pack 2 Unid Lisa Marrón Claro Blanco",
+      "mlId": "MLA3283628734",
+      "source": "sku",
+      "skuFound": "MLA3283628734",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "342725164",
+      "tnName": "Juego Comedor Mesa Ferra 120cm + 4 Sillas Oslo Nordica",
+      "mlId": "MLA1778971997",
+      "source": "sku",
+      "skuFound": "MLA1778971997",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "342755318",
+      "tnName": "Juego Comedor Mesa Ferra 140cm + 4 Sillas Oslo Nordica",
+      "mlId": "MLA3285954786",
+      "source": "sku",
+      "skuFound": "MLA3285954786",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "342804198",
+      "tnName": "Puff Apoyapies Ottoman Modelo Volgar Color Negro",
+      "mlId": "MLA3286865510",
+      "source": "sku",
+      "skuFound": "MLA3286865510",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "342904468",
+      "tnName": "Juego Comedor Mesa Ferra 120cm Nordica + 4 Sillas Wishbone C Natural Fibra Natural",
+      "mlId": "MLA1780526015",
+      "source": "sku",
+      "skuFound": "MLA1780526015",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "342904585",
+      "tnName": "Juego Comedor Mesa Ferra 120cm Nordica + 4 Sillas Wishbone Natural Fibra Natural",
+      "mlId": "MLA1780512541",
+      "source": "sku",
+      "skuFound": "MLA1780512541",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343020324",
+      "tnName": "Silla De Comedor Becca Pana Importada Pack 2 Unidades Pana Cromo Gris",
+      "mlId": "MLA2708338854",
+      "source": "sku",
+      "skuFound": "MLA2708338854",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343115961",
+      "tnName": "Juego De Comedor Mesa Vidrio 120cm + 4 Sillas Eames Madera Liso",
+      "mlId": "MLA1782016709",
+      "source": "sku",
+      "skuFound": "MLA1782016709",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343125948",
+      "tnName": "Mesa Redonda Madden 90 Cm Piedra Sinterizada Base Negra Piedra Sinterizada Negro",
+      "mlId": "MLA1782714221",
+      "source": "sku",
+      "skuFound": "MLA1782714221",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343139714",
+      "tnName": "Sillas De Comedor Moderna Romelia Chenille Pack 4 Chenille Capucchino Gris",
+      "mlId": "MLA3297137152",
+      "source": "sku",
+      "skuFound": "MLA3297137152",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343139720",
+      "tnName": "Sillas De Comedor Moderna Romelia Chenille Pack 4 Chenille Capucchino Off White",
+      "mlId": "MLA3297137150",
+      "source": "sku",
+      "skuFound": "MLA3297137150",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343139726",
+      "tnName": "Sillas De Comedor Moderna Romelia Chenille Pack 4 Chenille Negro Gris",
+      "mlId": "MLA3297137148",
+      "source": "sku",
+      "skuFound": "MLA3297137148",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343139734",
+      "tnName": "Sillas De Comedor Moderna Romelia Chenille Pack 4 Chenille Capucchino Taupe",
+      "mlId": "MLA3297137146",
+      "source": "sku",
+      "skuFound": "MLA3297137146",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343139740",
+      "tnName": "Sillas De Comedor Moderna Romelia Chenille Pack 4 Chenille Negro Gris Oscuro",
+      "mlId": "MLA3297124526",
+      "source": "sku",
+      "skuFound": "MLA3297124526",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343146633",
+      "tnName": "Mesa Bandeja Ágata Mesa De Luz Importada Semimate Capuchino",
+      "mlId": "MLA2080197658",
+      "source": "sku",
+      "skuFound": "MLA2080197658",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343146645",
+      "tnName": "Mesa Bandeja Ágata Mesa De Luz Importada Semimate Verde",
+      "mlId": "MLA2080030108",
+      "source": "sku",
+      "skuFound": "MLA2080030108",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343146655",
+      "tnName": "Mesa Bandeja Ágata Mesa De Luz Importada Semimate Dorada",
+      "mlId": "MLA2080016774",
+      "source": "sku",
+      "skuFound": "MLA2080016774",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343146665",
+      "tnName": "Mesa Bandeja Ágata Mesa De Luz Importada Semimate Negro",
+      "mlId": "MLA2079851428",
+      "source": "sku",
+      "skuFound": "MLA2079851428",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343146672",
+      "tnName": "Mesa Bandeja Ágata Mesa De Luz Importada Semimate Blanco",
+      "mlId": "MLA1497112933",
+      "source": "sku",
+      "skuFound": "MLA1497112933",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343147090",
+      "tnName": "Mesa Bandeja Ágata Neo Piedra Mesa De Luz Statruario Blanco Negro",
+      "mlId": "MLA1782920909",
+      "source": "sku",
+      "skuFound": "MLA1782920909",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343147099",
+      "tnName": "Mesa Bandeja Ágata Neo Piedra Mesa De Luz Arman Grey Negro",
+      "mlId": "MLA1782920907",
+      "source": "sku",
+      "skuFound": "MLA1782920907",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343147104",
+      "tnName": "Mesa Bandeja Ágata Neo Piedra Mesa De Luz Statuario Negro Negro",
+      "mlId": "MLA1782920905",
+      "source": "sku",
+      "skuFound": "MLA1782920905",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343147111",
+      "tnName": "Mesa Bandeja Ágata Neo Piedra Mesa De Luz Verona Negro",
+      "mlId": "MLA1782920903",
+      "source": "sku",
+      "skuFound": "MLA1782920903",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343147122",
+      "tnName": "Mesa Bandeja Ágata Neo Piedra Mesa De Luz Travertino Capuccino",
+      "mlId": "MLA1782896183",
+      "source": "sku",
+      "skuFound": "MLA1782896183",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343147130",
+      "tnName": "Mesa Bandeja Ágata Neo Piedra Mesa De Luz Italiano Grey Negro",
+      "mlId": "MLA1782884121",
+      "source": "sku",
+      "skuFound": "MLA1782884121",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343157294",
+      "tnName": "Sillas De Comedor Moderna Romelia Chenille Pack 4 Chenille Negro Gris Oscuro",
+      "mlId": "MLA1782887945",
+      "source": "sku",
+      "skuFound": "MLA1782887945",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343167882",
+      "tnName": "Silla Bistro Trenzada Vintage Rattan Sintetico Importada Trenzada Símil Madera Verde",
+      "mlId": "MLA2498420548",
+      "source": "sku",
+      "skuFound": "MLA2498420548",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343174760",
+      "tnName": "Mesa Gervasoni 50cm Apta Exterior Madera",
+      "mlId": "MLA1394558409",
+      "source": "sku",
+      "skuFound": "MLA1394558409",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343175782",
+      "tnName": "Juego Sillon Gervasoni X 2 + Mesa 50cm Madera Marrón",
+      "mlId": "MLA3297547400",
+      "source": "sku",
+      "skuFound": "MLA3297547400",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343180230",
+      "tnName": "Colchon En Caja Tribeca Linea Blue 1 Plazas Alta Den 80x190 Blanco",
+      "mlId": "MLA2082679300",
+      "source": "sku",
+      "skuFound": "MLA2082679300",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343180241",
+      "tnName": "Colchón 1 Plaza Tribeca Línea Blue Memory Foam 80x190 Cm Firme Hipoalergénico Blanco",
+      "mlId": "MLA2131025342",
+      "source": "sku",
+      "skuFound": "MLA2131025342",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343379634",
+      "tnName": "Silla Moderna Cuero Sintetico Cromo Becca Outlet Pack 2 Unid Lisa Cromada Blanco",
+      "mlId": "MLA3305850170",
+      "source": "sku",
+      "skuFound": "MLA3305850170",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343635429",
+      "tnName": "Mesa De Apoyo Toscana Jardin Exterior Balcon Mesa Anexa Natural",
+      "mlId": "MLA1785853397",
+      "source": "sku",
+      "skuFound": "MLA1785853397",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343717799",
+      "tnName": "Silla Comedor Oslo Vita Plastica Pack 2 Unid Liso Negro",
+      "mlId": "MLA3311891818",
+      "source": "sku",
+      "skuFound": "MLA3311891818",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343717813",
+      "tnName": "Juego Comedor Mesa Ferra 120cm + 4 Sillas Shammy Nordica",
+      "mlId": "MLA3311706190",
+      "source": "sku",
+      "skuFound": "MLA3311706190",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343774991",
+      "tnName": "Mesa Comedor Luna Roble Americano 200x100cm Importada Natural",
+      "mlId": "MLA1786944379",
+      "source": "sku",
+      "skuFound": "MLA1786944379",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343775006",
+      "tnName": "Mesa Comedor Luna Roble Americano 200x100cm Importada Negro",
+      "mlId": "MLA1786944377",
+      "source": "sku",
+      "skuFound": "MLA1786944377",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343827854",
+      "tnName": "Mesa De Comedor Vidrio Y Cromo Madden Redonda 100cm Vidrio Cromo",
+      "mlId": "MLA3315147786",
+      "source": "sku",
+      "skuFound": "MLA3315147786",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "343885752",
+      "tnName": "Juego Comedor Mesa Ferra 120cm + 4 Sillas Viena Pana Cromo",
+      "mlId": "MLA3315918714",
+      "source": "sku",
+      "skuFound": "MLA3315918714",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "344132805",
+      "tnName": "Juego Comedor Mesa Ferra 140cm + 4 Sillas Viena",
+      "mlId": "MLA3322900778",
+      "source": "sku",
+      "skuFound": "MLA3322900778",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "344535020",
+      "tnName": "Mesa De Comedor 1,60x90cm Iriarte Minimalista",
+      "mlId": "MLA796329584",
+      "source": "sku",
+      "skuFound": "MLA796329584-70594098866",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "344870345",
+      "tnName": "Almohadón Silla Eames Niños Pelo Largo Nordico Kids 3cm Color Mostaza Liso",
+      "mlId": "MLA3336117826",
+      "source": "sku",
+      "skuFound": "MLA3336117826",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "345159700",
+      "tnName": "Mecedora Sillon Volgar Poltrona Nordica Gabardina Color Gris",
+      "mlId": "MLA3341419736",
+      "source": "sku",
+      "skuFound": "MLA3341419736",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "345265468",
+      "tnName": "Silla De Escritorio Selb Ergonomica Oficina Sillon Mesh Blanco Rosa",
+      "mlId": "MLA1508140275",
+      "source": "sku",
+      "skuFound": "MLA1508140275",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "345265492",
+      "tnName": "Silla De Escritorio Selb Ergonomica Oficina Sillon Mesh Blanco Gris Oscuro",
+      "mlId": "MLA1507997783",
+      "source": "sku",
+      "skuFound": "MLA1507997783",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "345265515",
+      "tnName": "Silla De Escritorio Selb Ergonomica Oficina Sillon Mesh Blanco",
+      "mlId": "MLA1508088425",
+      "source": "sku",
+      "skuFound": "MLA1508088425",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "345295343",
+      "tnName": "Juego Comedor Mesa Madden 100cm + 4 Sillas Jenna",
+      "mlId": "MLA1795515973",
+      "source": "sku",
+      "skuFound": "MLA1795515973",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "345458954",
+      "tnName": "Juego Comedor Mesa Madden 160 Y 6 Sillas Jenna Negro Cuero Sintetico",
+      "mlId": "MLA1511490509",
+      "source": "sku",
+      "skuFound": "MLA1511490509",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "345461810",
+      "tnName": "Silla Veneta Chenille Y Cromo Anatomica Moderna Pack 2 Unid Asiento Gris Claro",
+      "mlId": "MLA3347898112",
+      "source": "sku",
+      "skuFound": "MLA3347898112",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "345506756",
+      "tnName": "Sillón Ejecutivo Ellen Regulable Silla De Escritorio Oficina",
+      "mlId": "MLA1112672131",
+      "source": "sku",
+      "skuFound": "MLA1112672131-178692178587",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "345512694",
+      "tnName": "Silla Escritorio Mesh Darwin Apoyacabeza Ergonomica Negro/negro Malla",
+      "mlId": "MLA2024462788",
+      "source": "sku",
+      "skuFound": "MLA2024462788",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "345512785",
+      "tnName": "Silla Escritorio Mesh Modelo Ellen Ergonomica Regulable Negro/negro",
+      "mlId": "MLA2024462452",
+      "source": "sku",
+      "skuFound": "MLA2024462452",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "345521443",
+      "tnName": "Silla Ergonómica Oficina Escritorio Mesh Darwin Apoyacabeza Negro Mesh",
+      "mlId": "MLA1796430129",
+      "source": "sku",
+      "skuFound": "MLA1796430129",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "345740225",
+      "tnName": "Manta Pie De Cama Greta Wafle De Algodón 180x80cm Color Verde Tomillo",
+      "mlId": "MLA3355819504",
+      "source": "sku",
+      "skuFound": "MLA3355819504",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "345740258",
+      "tnName": "Manta Pie De Cama Greta Wafle De Algodón 220x80cm Verde Tomillo Liso",
+      "mlId": "MLA1797701889",
+      "source": "sku",
+      "skuFound": "MLA1797701889",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "345785530",
+      "tnName": "Juego Comedor Mesa Ferra 120cm + 4 Sillas Jenna Pana Cromo",
+      "mlId": "MLA1797707617",
+      "source": "sku",
+      "skuFound": "MLA1797707617",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "345852407",
+      "tnName": "Banqueta Tolix 75cm Asiento Madera Outlet Asiento Negra Laqueado",
+      "mlId": "MLA3356627176",
+      "source": "sku",
+      "skuFound": "MLA3356627176",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "345966299",
+      "tnName": "Juego Comedor Mesa Ferra 140cm + 4 Sillas Jenna Pana Cromo",
+      "mlId": "MLA1799219989",
+      "source": "sku",
+      "skuFound": "MLA1799219989",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "345999855",
+      "tnName": "Silla Oficina Escritorio Mesh Ergonomico Galileo Pro Metal Negro Tela Mesh",
+      "mlId": "MLA3360178860",
+      "source": "sku",
+      "skuFound": "MLA3360178860",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "345999968",
+      "tnName": "Juego Comedor Mesa Ferra 120cm + 4 Sillas Veneta Pana Cromo",
+      "mlId": "MLA1799345773",
+      "source": "sku",
+      "skuFound": "MLA1799345773",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "345999991",
+      "tnName": "Juego Comedor Mesa Madden 100cm + 4 Sillas Veneta Pana Cromo Negro Pana",
+      "mlId": "MLA1799338723",
+      "source": "sku",
+      "skuFound": "MLA1799338723",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346000070",
+      "tnName": "Juego Comedor Mesa Madden 100cm + 4 Sillas Veneta Pana Cromo Taupe Pana",
+      "mlId": "MLA1799326079",
+      "source": "sku",
+      "skuFound": "MLA1799326079",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346000094",
+      "tnName": "Juego Comedor Mesa Madden 100cm + 4 Sillas Veneta Pana Cromo Gris Pana",
+      "mlId": "MLA1799326077",
+      "source": "sku",
+      "skuFound": "MLA1799326077",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346105813",
+      "tnName": "Juego Comedor Mesa Ferra 140cm + 4 Sillas Veneta Pana C Taupe Pana",
+      "mlId": "MLA3363821922",
+      "source": "sku",
+      "skuFound": "MLA3363821922",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346105829",
+      "tnName": "Juego Comedor Mesa Ferra 140cm + 4 Sillas Veneta Pana Cromo Negro Pana",
+      "mlId": "MLA3363809576",
+      "source": "sku",
+      "skuFound": "MLA3363809576",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346105849",
+      "tnName": "Juego Comedor Mesa Ferra 140cm + 4 Sillas Veneta Pana Cromo Gris Pana",
+      "mlId": "MLA3363732564",
+      "source": "sku",
+      "skuFound": "MLA3363732564",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346105869",
+      "tnName": "Juego Comedor Mesa Ferra 140cm + 4 Sillas Veneta Pana Cromo Taupe Pana",
+      "mlId": "MLA3363720074",
+      "source": "sku",
+      "skuFound": "MLA3363720074",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346105882",
+      "tnName": "Juego Comedor Mesa Ferra 140cm + 4 Sillas Veneta Pana C Gris Pana",
+      "mlId": "MLA1800391097",
+      "source": "sku",
+      "skuFound": "MLA1800391097",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346105892",
+      "tnName": "Juego Comedor Mesa Ferra 140cm + 4 Sillas Veneta Pana C Negro Pana",
+      "mlId": "MLA1800378559",
+      "source": "sku",
+      "skuFound": "MLA1800378559",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346186765",
+      "tnName": "Juego Comedor Mesa Ferra 140cm + 4 Sillas Viena Pana Cromo Negro Pana",
+      "mlId": "MLA3364746018",
+      "source": "sku",
+      "skuFound": "MLA3364746018",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346186774",
+      "tnName": "Juego Comedor Mesa Madden 100cm + 4 Sillas Jenna Pana C Negro Pana",
+      "mlId": "MLA3364516002",
+      "source": "sku",
+      "skuFound": "MLA3364516002",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346186777",
+      "tnName": "Juego Comedor Mesa Ferra 120cm + 4 Sillas Jenna Pana Cromo C Taupe Pana",
+      "mlId": "MLA3364515844",
+      "source": "sku",
+      "skuFound": "MLA3364515844",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346197140",
+      "tnName": "Juego Comedor Mesa Ferra 140cm + 4 Sillas Viena Pana C Taupe Pana",
+      "mlId": "MLA3364517344",
+      "source": "sku",
+      "skuFound": "MLA3364517344",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346357793",
+      "tnName": "Juego Comedor Mesa Ferra 120cm + 4 Sillas Viena Pana C Gris Pana",
+      "mlId": "MLA1801433997",
+      "source": "sku",
+      "skuFound": "MLA1801433997",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346364828",
+      "tnName": "Juego Comedor Mesa Ferra 120cm Nordica + 4 Sillas Oslo Negro Liso",
+      "mlId": "MLA1801437671",
+      "source": "sku",
+      "skuFound": "MLA1801437671",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346655607",
+      "tnName": "Sillón Poltrona Nórdico Modelo Volgar Calidad Premium",
+      "mlId": "MLA634030551",
+      "source": "sku",
+      "skuFound": "MLA634030551-187418677397",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346655942",
+      "tnName": "Mesa De Arrime Anexa Con Bandeja Kipa",
+      "mlId": "MLA728403798",
+      "source": "sku",
+      "skuFound": "MLA728403798",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346655983",
+      "tnName": "Perchero Organizador Estantes + Puff Molly Marrón Claro",
+      "mlId": "MLA728774590",
+      "source": "sku",
+      "skuFound": "MLA728774590",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346656093",
+      "tnName": "Puff Pelo Largo Modelo Molly Pack 2 Unidades Nordico",
+      "mlId": "MLA788670957",
+      "source": "sku",
+      "skuFound": "MLA788670957",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346656272",
+      "tnName": "Perchero Organizador Con Estante Nordico Marrón Claro",
+      "mlId": "MLA728617306",
+      "source": "sku",
+      "skuFound": "MLA728617306",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346656366",
+      "tnName": "Reposera Camastro Hazel Premium Importada Jardin C",
+      "mlId": "MLA817692662",
+      "source": "sku",
+      "skuFound": "MLA817692662-44851608694",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346656563",
+      "tnName": "Silla Viena Minimalista Pack 2 Unid Chenille Capitone C",
+      "mlId": "MLA847048491",
+      "source": "sku",
+      "skuFound": "MLA847048491-53397753760",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346656680",
+      "tnName": "Sillón Ejecutivo Selb Regulable Respaldo Alto Mesh Negro",
+      "mlId": "MLA866709713",
+      "source": "sku",
+      "skuFound": "MLA866709713",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346656874",
+      "tnName": "Reposera Camastro Aluminio Krabi Exterior Pack 2 Unid C",
+      "mlId": "MLA897197213",
+      "source": "sku",
+      "skuFound": "MLA897197213-175077184013",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346657013",
+      "tnName": "Silla Jenna Cuero Sintético Y Cromo Pack 2 Unid C",
+      "mlId": "MLA909565013",
+      "source": "sku",
+      "skuFound": "MLA909565013-76982535964",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346657307",
+      "tnName": "Juego Jardín Balcon Modelo Tropea Almohadon Y Mesa",
+      "mlId": "MLA1112780689",
+      "source": "sku",
+      "skuFound": "MLA1112780689-173919022496",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346657400",
+      "tnName": "Servilletero Individual Esferas Madera Nordico Pack 6 Unid Natural",
+      "mlId": "MLA1115050698",
+      "source": "sku",
+      "skuFound": "MLA1115050698",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346657623",
+      "tnName": "Herman Miller Chaise Lounge Sillon Y Ottoman Rose Wood C Negro Cuero Sintético",
+      "mlId": "MLA1136923565",
+      "source": "sku",
+      "skuFound": "MLA1136923565",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346657812",
+      "tnName": "Silla De Escritorio Gamer Pro Players Ergonomica Rojo/negro Cuero Sintético",
+      "mlId": "MLA1149154308",
+      "source": "sku",
+      "skuFound": "MLA1149154308",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346657892",
+      "tnName": "Silla Ejecutiva De Escritorio Milan Tapizado Mesh C Negro",
+      "mlId": "MLA1149059492",
+      "source": "sku",
+      "skuFound": "MLA1149059492",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346658022",
+      "tnName": "Sillon Hamaca Mallorca Colgante Hierro Con Base Importada Negro/haya Mallorca",
+      "mlId": "MLA1213936256",
+      "source": "sku",
+      "skuFound": "MLA1213936256",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346658088",
+      "tnName": "Reposera Camastro Krabi C/apoya Brazos Pack 2 Unidades C",
+      "mlId": "MLA1215241453",
+      "source": "sku",
+      "skuFound": "MLA1215241453-175609158970",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346658189",
+      "tnName": "Reposera Camastro Modelo Kata Pack 2 Uni Importado C Negro",
+      "mlId": "MLA1215044796",
+      "source": "sku",
+      "skuFound": "MLA1215044796",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346658281",
+      "tnName": "Reposera Camastro Modelo Yakarta Pack 2 Unid Importada C",
+      "mlId": "MLA1221133371",
+      "source": "sku",
+      "skuFound": "MLA1221133371-175650188117",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346658370",
+      "tnName": "Silla Jeanneret Madera Esterilla C/apoya Brazos C",
+      "mlId": "MLA1247997622",
+      "source": "sku",
+      "skuFound": "MLA1247997622-175816747025",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346658491",
+      "tnName": "Mesa Comedor Madden Vidrio Base Cromo 160x80cm C Vidrio Cromo",
+      "mlId": "MLA1303666034",
+      "source": "sku",
+      "skuFound": "MLA1303666034",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346658554",
+      "tnName": "Mesa De Comedor Madden Vidrio Templado Base Cromo 160x80cm Vidrio Cromo",
+      "mlId": "MLA1303640223",
+      "source": "sku",
+      "skuFound": "MLA1303640223",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346658770",
+      "tnName": "Silla Escritorio Oficina Sillón Ejecutivo Oaklan Mesh + C Negro Mesh/tela",
+      "mlId": "MLA1373904805",
+      "source": "sku",
+      "skuFound": "MLA1373904805",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346659103",
+      "tnName": "Banco Nórdico Amelia Pie De Cama / Recibidor Madera Crudo Sin Pintar Madera",
+      "mlId": "MLA1522274708",
+      "source": "sku",
+      "skuFound": "MLA1522274708",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346659595",
+      "tnName": "Perchero Organizador + Puff Molly Pelo Largo Marrón Claro",
+      "mlId": "MLA797095159",
+      "source": "sku",
+      "skuFound": "MLA797095159",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346659799",
+      "tnName": "Juego Jardín Balcon Modelo Tropea Almohadon Y Mesa C",
+      "mlId": "MLA1112804076",
+      "source": "sku",
+      "skuFound": "MLA1112804076-173919053939",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346660213",
+      "tnName": "Juego Comedor Mesa Lounna 180cm + 6 Sillas Becca Importada",
+      "mlId": "MLA1451169187",
+      "source": "sku",
+      "skuFound": "MLA1451169187-189569550599",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346660363",
+      "tnName": "Sillón Poltrona Nórdico Volgar Modelo Relax Calidad Premium",
+      "mlId": "MLA1920227840",
+      "source": "sku",
+      "skuFound": "MLA1920227840-181786101696",
+      "mlStatus": "active"
+    },
+    {
+      "tnId": "346660585",
+      "tnName": "Juego Comedor Mesa Madden 160 Y 4 Sillas Jenna",
+      "mlId": "MLA1936699792",
+      "source": "sku",
+      "skuFound": "MLA1936699792-186035244539",
+      "mlStatus": "active"
+    }
+  ],
+  "ok_paused": [
+    {
+      "tnId": "337698515",
+      "tnName": "Banqueta Thea Pana Importada Pack 4 Unidades",
+      "mlId": "MLA1122543598",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337698788",
+      "tnName": "Canasto Leñero Cesto Organzador Mimbre Jeronimo Cónico",
+      "mlId": "MLA1131697066",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337699895",
+      "tnName": "Mesa Comedor Moncloa Premium Vidrio Templado 180x90 Cm C",
+      "mlId": "MLA1144898747",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337700835",
+      "tnName": "Canasto Leñero Cesto Organzador Mimbre Jeronimo Colores 50cm Combinado",
+      "mlId": "MLA1221192705",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337702547",
+      "tnName": "Silla De Escritorio Gamer Ergonómica Con Apoyapies Negro Cuero Sintético",
+      "mlId": "MLA1377225727",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337702788",
+      "tnName": "Mesa De Comedor Base Central Duna Vidrio 180x90cm Impor C",
+      "mlId": "MLA1382239953",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337703085",
+      "tnName": "Mesa De Comedor Base Central Exxe Vidrio 160x90cm Impor C",
+      "mlId": "MLA1382601331",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337703331",
+      "tnName": "Mesa De Comedor Base Central Exxe Vidrio 180x90cm Import C",
+      "mlId": "MLA1382823003",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337703365",
+      "tnName": "Mesa De Comedor Base Central Exxe Vidrio 200x100cm Import C",
+      "mlId": "MLA1382823219",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337703893",
+      "tnName": "Silla Modelo Cross Madera Asiento Esterilla Premium Pack 4",
+      "mlId": "MLA1407796777",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337704799",
+      "tnName": "Canasto Leñero Cesto Organizador Macetero Mimbre Felipe 26cm Natural",
+      "mlId": "MLA1416736611",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337704959",
+      "tnName": "Silla Batur Importada Madera De Teka Y Esterilla",
+      "mlId": "MLA1416859881",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337705011",
+      "tnName": "Silla Gili Importada Madera De Teka Y Esterilla Apoyabrazos Natural",
+      "mlId": "MLA1417121381",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337706073",
+      "tnName": "Mesa Comedor Lounna Vidrio Templado 160x90 C",
+      "mlId": "MLA1435195861",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337706865",
+      "tnName": "Juego Comedor Mesa Lounna 160cm + 4 Sillas Tulip Nordicas Blanco Liso",
+      "mlId": "MLA1438738109",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337707244",
+      "tnName": "Juego Comedor Mesa Moncloa 180cm + 4 Sillas Becca",
+      "mlId": "MLA1442867691",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337707466",
+      "tnName": "Juego Comedor Eames Mesa 120x80cm + 4 Sillas Torino Pvc Blanco Pvc",
+      "mlId": "MLA1447197139",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337707510",
+      "tnName": "Juego Comedor Eames Mesa Redonda 90cm + 4 Sillas Torino",
+      "mlId": "MLA1447224181",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337707556",
+      "tnName": "Juego Comedor Mesa Lounna 160cm + 4 Sillas Becca Importada Negro Liso",
+      "mlId": "MLA1451077795",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337708036",
+      "tnName": "Juego Comedor Mesa Lounna 160cm + 4 Sillas Veneta Importada Negro Liso",
+      "mlId": "MLA1452014267",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337708354",
+      "tnName": "Juego Comedor Mesa Moncloa 180 + 4 Sillas Eames Pvc Nordicas",
+      "mlId": "MLA1455449973",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337709073",
+      "tnName": "Mesa Redonda Evan Vidrio Templado 90cm Base Cromada C Vidrio Cromadas",
+      "mlId": "MLA1461590095",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337709235",
+      "tnName": "Juego Comedor Mesa Iriarte Cromo 160cm + 4 Viena Color Negro Diseño De La Tela De Las Sillas Capitone",
+      "mlId": "MLA1462485109",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337709460",
+      "tnName": "Juego Comedor Mesa Evan + 4 Sillas Viena Paris Capitone Color Negro Y Cromo",
+      "mlId": "MLA1462525647",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337709600",
+      "tnName": "Juego Comedor Mesa Evan Cromo 90cm + 4 Sillas Veneta Color Blanco Diseño De La Tela De Las Sillas Cuero Sintetico",
+      "mlId": "MLA1463479581",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337709925",
+      "tnName": "Acolchado King Blanco 100% Poliéster Cdi Diseño Piumone 2.40x2.80",
+      "mlId": "MLA1466233346",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337710058",
+      "tnName": "Sillon Poltrona Madera Alamo Matilda Hilo Kraft Natural Hilo Kraft",
+      "mlId": "MLA1467982801",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337710102",
+      "tnName": "Juego Comedor Eames Mesa Redonda 90cm + 4 Sillas Tulip",
+      "mlId": "MLA1468608637",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337710972",
+      "tnName": "Juego Comedor Mesa Eames Redonda Vidrio + 4 Sillas Milan",
+      "mlId": "MLA1474137879",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337711027",
+      "tnName": "Juego Comedor Mesa Eames Redonda Vidrio + 4 Sillas Windsor",
+      "mlId": "MLA1474431435",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337711149",
+      "tnName": "Silla Berna Chenille Importada Patas Negras Pack 4 C",
+      "mlId": "MLA1476111625",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337711338",
+      "tnName": "Silla Berna Pana Importada Patas Simil Madera Pack 4 C",
+      "mlId": "MLA1476367985",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337711440",
+      "tnName": "Juego Mesa Eames Redonda Vidrio + 4 Sillas Sybil Base Negra Diseño De La Tela De Las Sillas Taupe",
+      "mlId": "MLA1477100377",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337713331",
+      "tnName": "Mesa De Luz Nordica Mesa Lateral Nuuk Color Haya- Blanco Semi-matte",
+      "mlId": "MLA1498608703",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337713544",
+      "tnName": "Silla Bandung Con Apoya Brazos Teka Asiento Tejido Natural Kraft Natural Kraft Natural",
+      "mlId": "MLA1499807407",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337714208",
+      "tnName": "Juego Comedor Bulnes Neolith 140 Patas Negra + 4 Thea Taupe Liso",
+      "mlId": "MLA1504151375",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337714534",
+      "tnName": "Alfombra 100x50cm Nórdicas Pelo Largo Suave Pie De Cama 1 M 50 Cm Taupe",
+      "mlId": "MLA1510271019",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337715382",
+      "tnName": "Silla De Escritorio Linz Ejecutivo Ergonómica Importado C Negro Cuero Sintético",
+      "mlId": "MLA1517502533",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337715809",
+      "tnName": "Banco Nórdico Amelia Pie De Cama/recibidor Crudo Outlet Sin Pintar Madera",
+      "mlId": "MLA1519595693",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337716000",
+      "tnName": "Funda Almohadon - Solo Funda Con Cierre Estrellas",
+      "mlId": "MLA1530058747",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337716206",
+      "tnName": "Juego Comedor Mesa Alai Y 4 Sillas Eames Importado Outlet Negro Vison",
+      "mlId": "MLA1548192643",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337717771",
+      "tnName": "Juego Comedor Eames Mesa Redonda 90cm + 4 Sillas Torino Color Blanco Diseño De La Tela De Las Sillas Pvc Blanco",
+      "mlId": "MLA1562614445",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337717797",
+      "tnName": "Banqueta Industrial Tolix Tribeca 75cm Con Respaldo Asiento Madera Galvanizado Rusty",
+      "mlId": "MLA1562615421",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337718268",
+      "tnName": "Silla Respaldo Alto Tess Pana Pack 2 Unid Outlet Importada Pana Negro Gris Claro",
+      "mlId": "MLA1566557489",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337718424",
+      "tnName": "Silla Bistro Combinada Vintage Rattan Sintetico Importado C Combinada Verde Y Crema Bistro Combinada",
+      "mlId": "MLA1569582069",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337718480",
+      "tnName": "Silla Bistro White Vintage Rattan Sintetico Importado Blanco Bistro White",
+      "mlId": "MLA1569635527",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337718507",
+      "tnName": "Sillon Bistro Combinada Vintage Rattan Sintetico Importada C Negro Y Crema Sillon Bistro Combinado",
+      "mlId": "MLA1569639017",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337718558",
+      "tnName": "Silla Bistro Albori Vintage Rattan Sintetico Importada C Albori Símil Madera Blanco",
+      "mlId": "MLA1569651297",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337718581",
+      "tnName": "Silla Bistro Combinada Vintage Rattan Sintetico Importado C Combinada Rojo Y Crema Bistro Combinada",
+      "mlId": "MLA1569659753",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337719175",
+      "tnName": "Juego Comedor Mesa Eames 120 + 4 Sillas Wishbone Importada Haya Tejido",
+      "mlId": "MLA1575273681",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337719577",
+      "tnName": "Silla Cheers Pana Lisa Nordica Pack 4 Unid Importada Pana Símil Madera Beige",
+      "mlId": "MLA1617609029",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337719764",
+      "tnName": "Silla Sillon Matero Pack X 2 Unid Poltrona Nórdica Negro Rayas",
+      "mlId": "MLA1630106569",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337719820",
+      "tnName": "Juego Comedor Mesa Eames Nordica + 4 Sillas Thea Gris Oscuro Pana",
+      "mlId": "MLA1634553125",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337720262",
+      "tnName": "Juego Comedor Eames Mesa 120x80cm + 4 Sillas Tulip Blanco No",
+      "mlId": "MLA1652374192",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337721048",
+      "tnName": "Juego Comedor Mesa Iriarte Cromo 120cm + 4 Sillas Jenna C Taupe Gris",
+      "mlId": "MLA1664439949",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337721080",
+      "tnName": "Juego Comedor Mesa Iriarte Cromo 140cm + 4 Sillas Jenna C Negro Cuero Ecológico",
+      "mlId": "MLA1664489661",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337721102",
+      "tnName": "Juego Comedor Mesa Iriarte Cromo 160cm + 6 Sillas Jenna Negro Cuero Ecológico",
+      "mlId": "MLA1664491897",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337721192",
+      "tnName": "Alfombra 100x50cm Nórdicas Pelo Largo Suave Pie De Cama 1 M 50 Cm Multicolor",
+      "mlId": "MLA1667855495",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337721251",
+      "tnName": "Juego Comedor Mesa Iriarte Cromo 140cm + 4 Sillas Viena Cromo Liso",
+      "mlId": "MLA1668971751",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337721436",
+      "tnName": "Juego Comedor Madden Cromo 160cm + 4 Silla Milano Base Negra Gris/base Negro Pana",
+      "mlId": "MLA1672308487",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337721591",
+      "tnName": "Silla Comedor Cocina Moderna Veneta Pack 2 Uni Importada C Cuero Ecologico Cromo Negro",
+      "mlId": "MLA1674641803",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337721967",
+      "tnName": "Juego Comedor Mesa Lounna 160cm + 4 Sillas Tulip Nordicas Liso Negro",
+      "mlId": "MLA1682523285",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337722402",
+      "tnName": "Juego Eames Cellini Madera 120x80 Cm + 4 Sillas Tulip C Liso Blanco",
+      "mlId": "MLA1701601327",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337723090",
+      "tnName": "Sillon Gerencial Aluminium Premium Charles Eames Bajo Import Negro",
+      "mlId": "MLA1714385893",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337723197",
+      "tnName": "Banqueta Sofia Chenille Importada Pack 2 Unidades C Negro Gris Oscuro",
+      "mlId": "MLA1716948205",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337723655",
+      "tnName": "Juego Comedor Mesa Madden + 4 Sillas Sybil Pana Cromo C Impo Gris Pana",
+      "mlId": "MLA1725158511",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337723985",
+      "tnName": "Juego Comedor Mesa Evan Madera + 4 Sillas Milan Madera Blanco",
+      "mlId": "MLA1734615983",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337725729",
+      "tnName": "Juego Comedor Mesa Moncloa 200cm + 4 Sillas Viena Paris",
+      "mlId": "MLA1882840946",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337726053",
+      "tnName": "Juego Comedor Eames Mesa 120x80cm + 4 Sillas Milan - Blanco - Pvc",
+      "mlId": "MLA1900061846",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337726099",
+      "tnName": "Juego Comedor Eames Mesa 120x80cm + 4 Sillas Master Pvc - Blanco - Pvc",
+      "mlId": "MLA1905629564",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337726149",
+      "tnName": "Juego Comedor Mesa Lounna 160cm + 4 Sillas Master Pvc",
+      "mlId": "MLA1911215244",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337726437",
+      "tnName": "Juego Comedor Mesa Lounna 180cm + 6 Sillas Veneta Importada",
+      "mlId": "MLA1916135238",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337726936",
+      "tnName": "Juego Comedor Mesa Redonda Linea Eames + 4 Sillas Milan",
+      "mlId": "MLA1929741546",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337727092",
+      "tnName": "Silla Comedor Moderna Chenille Cromo Modelo Becca Pack 2",
+      "mlId": "MLA1933026624",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337727294",
+      "tnName": "Juego Comedor Mesa Moncloa Nor 180cm + 4 Sillas Torino Pvc Blanco Lisa",
+      "mlId": "MLA1933947642",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337727515",
+      "tnName": "Juego Comedor Mesa Moncloa 180cm + 4 Sillas Milan Pvc",
+      "mlId": "MLA1934397718",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337727623",
+      "tnName": "Juego Comedor Mesa Evan Cromo + 4 Sillas Sybil Pana",
+      "mlId": "MLA1935955730",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337728668",
+      "tnName": "Silla Eames Dsw Base Madera 2da Selección Estructura De La Silla Turquesa",
+      "mlId": "MLA1962711192",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337729072",
+      "tnName": "Juego Comedor Mesa Madden Neolith 120 Y 4 Sillas Viena Paris Color Blanco Diseño De La Tela De Las Sillas Lisa",
+      "mlId": "MLA1968810860",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "closed"
+    },
+    {
+      "tnId": "337729407",
+      "tnName": "Futon Owen Sofa Cama Chenille Outlet 2da Seleccion Color Gris",
+      "mlId": "MLA1972853264",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337729915",
+      "tnName": "Juego Comedor Eames Mesa Redonda 90cm + 4 Sillas Eames Color Blanco",
+      "mlId": "MLA1987412992",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337729932",
+      "tnName": "Juego Comedor Eames Mesa Redonda 90cm + 4 Sillas Master Color Negro",
+      "mlId": "MLA1987425838",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337730146",
+      "tnName": "Juego Comedor Mesa Eames Redonda Vidrio + 4 Sillas Milan Diseño De La Tela De Las Sillas Negro",
+      "mlId": "MLA2007581656",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337730203",
+      "tnName": "Juego Comedor Mesa Eames Redonda Vidrio + 4 Sillas Master",
+      "mlId": "MLA2008132872",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337730316",
+      "tnName": "Juego Mesa Evan Cromo + 4 Sillas Sybil Pana Base Negra Toupe Cromo",
+      "mlId": "MLA2009531382",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337730479",
+      "tnName": "Silla Lucerna Chenille Importada Patas Simil Madera Pack 4 C",
+      "mlId": "MLA2016965964",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337730653",
+      "tnName": "Mesa De Comedor Base Central Cala 180x90cm Importada Outlet Vidrio Blanco",
+      "mlId": "MLA2018277978",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337731339",
+      "tnName": "Manta Pie De Cama Moana Gasa De Algodón 240cm C Color Canela",
+      "mlId": "MLA2026064174",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337732057",
+      "tnName": "Sillas Comedor Modernas Chenille Beige Pack 4 Metal Negro Berna",
+      "mlId": "MLA2026231754",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337733440",
+      "tnName": "Mesa De Comedor Bulnes Neolith 140x80cm Neolith Marrón Claro",
+      "mlId": "MLA2034014528",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "closed"
+    },
+    {
+      "tnId": "337733500",
+      "tnName": "Juego Comedor Mesa Iriarte 120cm + 4 Silas Thea Nordicas Gris Oscuro Pana",
+      "mlId": "MLA2034715326",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337733951",
+      "tnName": "Mesa Redonda Vidrio Templado Y Cromo Evan 90cm Vidrio Cromadas",
+      "mlId": "MLA2046010258",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337735074",
+      "tnName": "Silla Sillon Venetian Base Black Importado Pack 2 Unidades C Chenille Negro Taupe",
+      "mlId": "MLA2081644378",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337735268",
+      "tnName": "Manta Pie De Cama Greta Wafle De Algodón 180cm Color Vison",
+      "mlId": "MLA2086780258",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337735371",
+      "tnName": "Silla Metal Tribeca Toscana Exterior Interiores Set 4 Simil Mimbre Negro Beige",
+      "mlId": "MLA2087277828",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337736060",
+      "tnName": "Juego Comedor Shina Neolith 160 Patas Negra + 4 Thea Taupe Liso",
+      "mlId": "MLA2111039382",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337736108",
+      "tnName": "Mesa De Comedor Bulnes Tapa Neolith 180x90cm Neolith Cromadas",
+      "mlId": "MLA2112572640",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "closed"
+    },
+    {
+      "tnId": "337736319",
+      "tnName": "Colchón 2 Plazas Tribeca Linea Blue 140x190 Cm Memory Foam Alta Densidad Gris",
+      "mlId": "MLA2126005180",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337736442",
+      "tnName": "Silla Tribeca Becca Gris Oscuro 4 Unidades Moderna Tapizado Chenille Cromo",
+      "mlId": "MLA2149648774",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337736494",
+      "tnName": "Banqueta Regulable Cuero Sintético Y Cromo Blair Resp Alto C Blanco",
+      "mlId": "MLA2149687656",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337736612",
+      "tnName": "Juego Comedor Mesa Redonda Linea Eames + 4 Sillas Sybil Blanco Taupe",
+      "mlId": "MLA2158513414",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337736653",
+      "tnName": "2x2,4 Mts Alfombras Nórdicas Pelo Largo Varios Colores 2 M 2.4 Cm Arena",
+      "mlId": "MLA2158607192",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337736692",
+      "tnName": "2x2,4 Mts Alfombras Nórdicas Pelo Largo Varios Colores 2 M 2.4 M Taupe",
+      "mlId": "MLA2158607204",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337736822",
+      "tnName": "3x2 Mts Alfombra Nórdica Pelo Largo Varios Colores 3 M 2 M Gris Oscuro Matiz",
+      "mlId": "MLA2158607226",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337736937",
+      "tnName": "Juego Comedor Mesa Eames Vidrio 100cm + 4 Sillas Tulip Blanco Liso",
+      "mlId": "MLA2165949460",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337737212",
+      "tnName": "Juego Mesa Eames Vidrio Redonda 100cm + 4 Zoe Chenillle Taupe Chenille",
+      "mlId": "MLA2174521110",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337737703",
+      "tnName": "Silla Oficina Sillon Gamer Ergonómico Apoyapie Colors Outlet Blanco/pink Cuero Sintético",
+      "mlId": "MLA2205963196",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337737786",
+      "tnName": "Silla Oficina Sillon Gamer Ergonómico Apoyapie Colors Outlet Negro/pink Cuero Sintético",
+      "mlId": "MLA2206723272",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337737953",
+      "tnName": "Mesa De Comedor Vidrio Y Cromo Madden Redonda 120cm Transparente Cromadas",
+      "mlId": "MLA2219757830",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337739151",
+      "tnName": "Juego Comedor Mesa Madden Cromo + 4 Sillas Sybil Pana Gris",
+      "mlId": "MLA2305243666",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337739860",
+      "tnName": "Mesa Auxiliar Arrime Exterior Krabi Importada Gris",
+      "mlId": "MLA2424646542",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337740812",
+      "tnName": "Sillas Modernas Comedor Tapizadas Chenille Patas Cromadas Pack 4 Tribeca Becca Cromo Gris Claro",
+      "mlId": "MLA2470955782",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337741111",
+      "tnName": "Juego Comedor Tribeca Moncloa Mesa Vidrio 180cm + 4 Sillas Amanda Gris Chenille Nórdico",
+      "mlId": "MLA2471747414",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337741336",
+      "tnName": "Juego Comedor Eames Mesa Redonda 90cm + 4 Sillas Eames Color Negro",
+      "mlId": "MLA2473516590",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337741375",
+      "tnName": "Sillas Tribeca Viena Cuero Sintético Cromo Negro Pack 2 Moderno Plateado Negra",
+      "mlId": "MLA2474585410",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337741454",
+      "tnName": "Juego Comedor Eames Mesa Redonda 90cm + 4 Sillas Master Color Blanco",
+      "mlId": "MLA2474631112",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337742124",
+      "tnName": "Silla Bistro Revestida Vintage Rattan Sintetico Importada C Revestida Símil Madera Verde Y Crema",
+      "mlId": "MLA2506777094",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337742286",
+      "tnName": "Silla Respaldo Alto Tess Pana Pack 2 Unid Outlet Negro Gris Claro",
+      "mlId": "MLA2535479976",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337742478",
+      "tnName": "Silla Modelo Cross Madera Asiento Esterilla Premium Pack 4 C Negra",
+      "mlId": "MLA2550412402",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337742571",
+      "tnName": "Silla Jepara Negra Esterilla Y Madera Importada Ratan Y Estirilla Negro Natural",
+      "mlId": "MLA2558289808",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337743554",
+      "tnName": "Sofá Mike 2 Cuerpos Chenille Premium Importado C Beige Chenille",
+      "mlId": "MLA2752782324",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337743583",
+      "tnName": "Sofá Mike 2 Cuerpos Chenille Premium Importado C Gris Chenille",
+      "mlId": "MLA2752795100",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337743605",
+      "tnName": "Sofá Mike 2 Cuerpos Chenille Premium Importado Gris Chenille",
+      "mlId": "MLA2752873032",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337743656",
+      "tnName": "Sofá Mike Chenille Premium 220cm Importado C Gris Chenille",
+      "mlId": "MLA2753042820",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337743717",
+      "tnName": "Silla Cuero Sintetico Cromo Becca Linea Moderna 4 Unid C Asiento Blanco Diseño De La Tela Cuero Ecologico",
+      "mlId": "MLA2753695156",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337743787",
+      "tnName": "Silla Windsor Patas De Madera Pack Combo 2 Unidades Nórdica Estructura De La Silla Negra",
+      "mlId": "MLA2753771972",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337744707",
+      "tnName": "Silla De Comedor Moderna Milano Pack 2 Tapizada Pana Pana Negro Gris",
+      "mlId": "MLA2821937662",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337744775",
+      "tnName": "Juego Comedor Mesa Redonda Linea Eames + 4 Sillas Thea Gris /madera Mesa Blanca",
+      "mlId": "MLA2824982904",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337744792",
+      "tnName": "Juego Comedor Mesa Redonda Linea Eames + 4 Sillas Thea Taupe/madera Mesa Blanca",
+      "mlId": "MLA2824982906",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337744810",
+      "tnName": "Juego Comedor Mesa Iriarte Cromo 160cm + 6 Sillas Jenna C Blanco Cuero Ecologico",
+      "mlId": "MLA2825099120",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337744943",
+      "tnName": "Juego Comedor Mesa Iriarte Cromo 160cm + 6 Viena Importado Gris Chenille",
+      "mlId": "MLA2839142580",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337745378",
+      "tnName": "2x1,4 Mts Alfombra Nórdica Pelo Largo Varios Colores 2 M 1.4 M Gris Oscuro Matizado",
+      "mlId": "MLA2852100706",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337745485",
+      "tnName": "2x1,4 Mts Alfombra Nórdica Pelo Largo Varios Colores 2 M 1.4 M Arena",
+      "mlId": "MLA2852126876",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337746092",
+      "tnName": "Juego Comedor Mesa Eames Vidrio + 3 Sillas Milano Importad C Gris/pana Negro",
+      "mlId": "MLA2855205554",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337746704",
+      "tnName": "Juego Comedor Madden Neolith 90cm Y 4 Silla Milano Pana Comb Cromo Pana /gris/ Negro",
+      "mlId": "MLA2863104808",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "closed"
+    },
+    {
+      "tnId": "337746955",
+      "tnName": "Mesa Comedor Eames Redonda Blanca Base Madera 100cm Blanca / Negra",
+      "mlId": "MLA2890753212",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337747121",
+      "tnName": "Silla Tulip Base Metalalica Blanca Outlet Pvc/cuero Sintetico Blanco",
+      "mlId": "MLA2906561538",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337747815",
+      "tnName": "Banqueta Sofia Chenille Importada Pack 2 Unidades C Capuccino Gris Oscuro",
+      "mlId": "MLA3091278952",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337747858",
+      "tnName": "Silla De Oficina Tribeca Selb Ergonómica Negra Con Malla Y Ruedas Negro",
+      "mlId": "MLA3095103038",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "under_review"
+    },
+    {
+      "tnId": "337747969",
+      "tnName": "Silla Gerencial Ergonómica Tribeca Aluminium Negro Con Ruedas Reclinable Cuero Sintético",
+      "mlId": "MLA3112052472",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337748005",
+      "tnName": "Silla Tulip Base Pvc Pack 2 Unidades Pvc Blanco",
+      "mlId": "MLA3112052782",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337748028",
+      "tnName": "Silla Viena Capitone Pack 2 Unidades Cuero Ecológico Cromo Blanco",
+      "mlId": "MLA3119045928",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337748077",
+      "tnName": "Juego Comedor Eames Mesa Vidrio 120x80cm + 4 Sillas Oslo Tulip",
+      "mlId": "MLA3122488222",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337748427",
+      "tnName": "Sillon Sofa Krogh 3 Cuerpos 2da Selección Lino Nordico Gris",
+      "mlId": "MLA627068350",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337753439",
+      "tnName": "Banquito Madera Nórdico Modelo Jack Banco Piel Sintética Puf",
+      "mlId": "MLA727972166",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337755009",
+      "tnName": "Silla Windsor Patas Madera Pack Combo 2 Unid",
+      "mlId": "MLA795038060",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337757216",
+      "tnName": "Juego Jardin Living Simil Rattan New Meissa Exterior",
+      "mlId": "MLA820631710",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337758013",
+      "tnName": "Juego Comedor Mesa Evan Nordica + 4 Sillas Thea",
+      "mlId": "MLA831269948",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337758397",
+      "tnName": "Funda Almohadon Super Oferta - Solo Funda Con Cierre",
+      "mlId": "MLA838524928",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "closed"
+    },
+    {
+      "tnId": "337758801",
+      "tnName": "Funda Almohadon Super Oferta - Solo Funda Con Cierre 30x30cm",
+      "mlId": "MLA838525111",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337761664",
+      "tnName": "Futon Owen Sofa Cama Chenille Outlet 2da Seleccion",
+      "mlId": "MLA903609496",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337761904",
+      "tnName": "Mesa Comedor Alai 120x80cm Outlet",
+      "mlId": "MLA903624251",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337762033",
+      "tnName": "Silla Luis Xv Acrílico Apoyabrazos Outlet",
+      "mlId": "MLA904577099",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337763462",
+      "tnName": "Edredon Acolchado Termico Simil Plumon 240x280 Medida King C Blanco Piumone",
+      "mlId": "MLA930425333",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "337768460",
+      "tnName": "Silla De Comedor Sybil Pana Base Cromo Pack 2",
+      "mlId": "MLA1933989294",
+      "source": "db",
+      "skuFound": null,
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "339723287",
+      "tnName": "Futon Modelo Owen Sofa Cama Chenille Y Patas Cromadas Sillon",
+      "mlId": "MLA618350758",
+      "source": "sku",
+      "skuFound": "MLA618350758-44630344529",
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "339723352",
+      "tnName": "Mesa De Comedor Eames Cellini Nordica 120x80cm",
+      "mlId": "MLA623251909",
+      "source": "sku",
+      "skuFound": "MLA623251909-56856346378",
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "339723971",
+      "tnName": "Mesa Comedor Eames 120x80cm Madera C",
+      "mlId": "MLA858385367",
+      "source": "sku",
+      "skuFound": "MLA858385367-56858951360",
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "339731944",
+      "tnName": "Mesa De Comedor Bulnes Neolith 120x80cm Neolith Negro",
+      "mlId": "MLA2034183154",
+      "source": "sku",
+      "skuFound": "MLA2034183154",
+      "mlStatus": "closed"
+    },
+    {
+      "tnId": "339734208",
+      "tnName": "Juego Comedor Mesa Madden Neolith 120cm Y 4 Sillas Veneta Blanco Liso",
+      "mlId": "MLA2805302692",
+      "source": "sku",
+      "skuFound": "MLA2805302692",
+      "mlStatus": "closed"
+    },
+    {
+      "tnId": "339735128",
+      "tnName": "Juego Comedor Madden Neolith 100 Y 4 Silla Sybil Base Cromo Taupe Pana",
+      "mlId": "MLA3191064348",
+      "source": "sku",
+      "skuFound": "MLA3191064348",
+      "mlStatus": "closed"
+    },
+    {
+      "tnId": "339735150",
+      "tnName": "Juego Comedor Madden Neolith 100 Y 4 Silla Sybil Base Cromo Gris Pana",
+      "mlId": "MLA3191064346",
+      "source": "sku",
+      "skuFound": "MLA3191064346",
+      "mlStatus": "closed"
+    },
+    {
+      "tnId": "339736587",
+      "tnName": "Juego Comedor Mesa Madden Neolith 90cm Y 4 Sillas Viena Color Blanco Diseño De La Tela De Las Sillas Capitone",
+      "mlId": "MLA3206604200",
+      "source": "sku",
+      "skuFound": "MLA3206604200",
+      "mlStatus": "closed"
+    },
+    {
+      "tnId": "340415223",
+      "tnName": "Futon Owen Nordico Sillon Cama Sofa Cama",
+      "mlId": "MLA792970763",
+      "source": "sku",
+      "skuFound": "MLA792970763-179305013307",
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "340415893",
+      "tnName": "Futon Owen Sofa Cama Chenille Outlet 2da Seleccion Color Negro",
+      "mlId": "MLA1462525591",
+      "source": "sku",
+      "skuFound": "MLA1462525591",
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "340510966",
+      "tnName": "Futon Sillon Cama Owen Cr Importado Cama 1 Plaza",
+      "mlId": "MLA625663498",
+      "source": "sku",
+      "skuFound": "MLA625663498-48078759839",
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "340942641",
+      "tnName": "Juego Comedor Mesa Shina 160cm + 4 Sillas Milano Importada Gris/cromo Pana",
+      "mlId": "MLA2847793636",
+      "source": "sku",
+      "skuFound": "MLA2847793636",
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "341100484",
+      "tnName": "Silla Cuero Sintetico Y Cromo Veneta Pack 4 Uni",
+      "mlId": "MLA878752111",
+      "source": "sku",
+      "skuFound": "MLA878752111-64027004754",
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "341431740",
+      "tnName": "Silla Oficina Sillon Gamer Ergonómico Con Apoyapies Colors",
+      "mlId": "MLA2022688754",
+      "source": "sku",
+      "skuFound": "MLA2022688754-187083260471",
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "342310957",
+      "tnName": "Sillon Poltrona Nordico Modelo Volgar + Mesa Apoyo Color Chocolate Diseño De La Tela Lino",
+      "mlId": "MLA1775662515",
+      "source": "sku",
+      "skuFound": "MLA1775662515",
+      "mlStatus": "under_review"
+    },
+    {
+      "tnId": "342524846",
+      "tnName": "Juego Comedor Mesa Ferra 120cm + 4 Sillas Thea Nordica Taupe Pana",
+      "mlId": "MLA1777360363",
+      "source": "sku",
+      "skuFound": "MLA1777360363",
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "342524864",
+      "tnName": "Juego Comedor Mesa Ferra 120cm + 4 Sillas Thea Nordica Gris Pana",
+      "mlId": "MLA1777351807",
+      "source": "sku",
+      "skuFound": "MLA1777351807",
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "342901985",
+      "tnName": "Set 4 Sillas Comedor Tribeca Becca Cuero Sintético Cromado Moderno Cuero Ecológico Cromo Negro",
+      "mlId": "MLA2027033060",
+      "source": "sku",
+      "skuFound": "MLA2027033060",
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "342904374",
+      "tnName": "Silla Moderna Tribeca Becca Cuero Sintético Negro Cromo Set 4 Unidades Liso",
+      "mlId": "MLA2026140382",
+      "source": "sku",
+      "skuFound": "MLA2026140382",
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "343180332",
+      "tnName": "Colchon En Caja Tribeca Linea Blue 2 Plazas Alta Den 140x190 Gris",
+      "mlId": "MLA1783180135",
+      "source": "sku",
+      "skuFound": "MLA1783180135",
+      "mlStatus": "paused"
+    },
+    {
+      "tnId": "345159676",
+      "tnName": "Mecedora Sillon Volgar Poltrona Nordica Gabardina Color Gris Oscuro",
+      "mlId": "MLA3342346702",
+      "source": "sku",
+      "skuFound": "MLA3342346702",
+      "mlStatus": "closed"
+    },
+    {
+      "tnId": "345458813",
+      "tnName": "Espejo Circular 60cm Decorativo De Pared Marco Hierro Negro",
+      "mlId": "MLA2113926558",
+      "source": "sku",
+      "skuFound": "MLA2113926558",
+      "mlStatus": "under_review"
+    },
+    {
+      "tnId": "345461883",
+      "tnName": "Espejo Circular 70cm Decorativo De Pared Marco Hierro Negro",
+      "mlId": "MLA3347384262",
+      "source": "sku",
+      "skuFound": "MLA3347384262",
+      "mlStatus": "inactive"
+    },
+    {
+      "tnId": "345521346",
+      "tnName": "Mesa De Luz Linea Nórdica Mesa De Arrime Nuuk Acabado Semimate Color Marrón Claro",
+      "mlId": "MLA3347899504",
+      "source": "sku",
+      "skuFound": "MLA3347899504",
+      "mlStatus": "inactive"
+    }
+  ],
+  "ml_not_found": [],
+  "no_ml_id": [
+    {
+      "tnId": "339723859",
+      "tnName": "Mesa Ferra Vidrio Linea Nordica 120x80cm Importada Vidrio Símil Madera",
+      "skus": [
+        "dt1296sm"
+      ]
+    },
+    {
+      "tnId": "339724507",
+      "tnName": "Mesa Comedor Iriarte 160 Cromada Minimalista Vidrio",
+      "skus": [
+        "RT161/LCR"
+      ]
+    },
+    {
+      "tnId": "339724746",
+      "tnName": "Mesa Ferra Vidrio Y Cromo 120x80cm Importada Vidrio Cromo",
+      "skus": [
+        "dt1295sc"
+      ]
+    },
+    {
+      "tnId": "339724955",
+      "tnName": "Set Reposera Krabi 2 Unidades C/mesa Arrime Importada Gris",
+      "skus": [
+        "0111111"
+      ]
+    },
+    {
+      "tnId": "339726679",
+      "tnName": "Juego Comedor Mesa Lounna 160cm + 6 Sillas Becca Color Negro Diseño De La Tela De Las Sillas Liso",
+      "skus": [
+        "dt-2216-1/N"
+      ]
+    },
+    {
+      "tnId": "339726965",
+      "tnName": "Futon Aleksi Sofa 3 Cuerpos Cama 1 Plaza Premium Apoyabrazos Diseño De La Tela Lino Gris",
+      "skus": [
+        "00002040"
+      ]
+    },
+    {
+      "tnId": "339727217",
+      "tnName": "Espejo Vidrio Repartido Bukit Rectangular 180x80 Hierro Negro",
+      "skus": [
+        "685302d5-32e8-4992-b1e3-47a1b38f37ff"
+      ]
+    },
+    {
+      "tnId": "339727259",
+      "tnName": "Espejo Vidrio Repartido Bukit Rectangular 180x80 Hierro Marco Negro",
+      "skus": [
+        "685302d5-32e8-4992-b1e3-47a1b38f37ff"
+      ]
+    },
+    {
+      "tnId": "339732131",
+      "tnName": "Mesa De Comedor Tulip Redonda 90cm Base Metal Blanco",
+      "skus": [
+        "XB-T09/BB"
+      ]
+    },
+    {
+      "tnId": "339733006",
+      "tnName": "Mesa De Comedor Vidrio Y Cromo Madden Redonda 90cm Transparente Cromadas",
+      "skus": [
+        "6893ae94-09b0-4458-a73b-4ebdb38f37ff"
+      ]
+    },
+    {
+      "tnId": "339733048",
+      "tnName": "Juego Comedor Mesa Lounna 180cm + 4 Sillas Becca Color Gris Claro Diseño De La Tela De Las Sillas Chenille",
+      "skus": [
+        "000256"
+      ]
+    },
+    {
+      "tnId": "339733480",
+      "tnName": "Mesa Auxiliar Arrime Exterior Krabi Importada C Blanco",
+      "skus": [
+        "11155"
+      ]
+    },
+    {
+      "tnId": "339733578",
+      "tnName": "Juego Comedor Mesa Madden 160 Y 6 Sillas Viena Importado - Blanco - Cuero Sintetico",
+      "skus": [
+        "PME-0021"
+      ]
+    },
+    {
+      "tnId": "339734096",
+      "tnName": "Juego Comedor Mesa Madden Neolith 120cm Y 4 Sillas Veneta Blanco",
+      "skus": [
+        "pmmn-0002"
+      ]
+    },
+    {
+      "tnId": "339734777",
+      "tnName": "Silla Comedor Eames Tapizada Shammy Chenille Pack 2 Unid Chenille Negro Gris Oscuro",
+      "skus": [
+        "DC801/NGO"
+      ]
+    },
+    {
+      "tnId": "339734815",
+      "tnName": "Silla Comedor Eames Tapizada Shammy Chenille Pack 2 Unid Chenille Capuccino Gris",
+      "skus": [
+        "DC801/CGC"
+      ]
+    },
+    {
+      "tnId": "339734831",
+      "tnName": "Silla Comedor Eames Tapizada Shammy Chenille Pack 2 Unid Chenille Negro Gris Claro",
+      "skus": [
+        "DC801/NGC"
+      ]
+    },
+    {
+      "tnId": "339734861",
+      "tnName": "Silla Comedor Eames Tapizada Shammy Chenille Pack 2 Unid Chenille Negro Off White",
+      "skus": [
+        "DC801/NOW"
+      ]
+    },
+    {
+      "tnId": "339734879",
+      "tnName": "Silla Comedor Eames Tapizada Shammy Chenille Pack 2 Unid Chenille Capuccino Off White",
+      "skus": [
+        "DC801/COW"
+      ]
+    },
+    {
+      "tnId": "339734918",
+      "tnName": "Silla Comedor Eames Tapizada Chenille Shammy Pack 4 Unid Chenille Negro Off White",
+      "skus": [
+        "DC801/NOW"
+      ]
+    },
+    {
+      "tnId": "339734950",
+      "tnName": "Silla Comedor Eames Tapizada Chenille Shammy Pack 4 Unid Chenille Capuccino Gris",
+      "skus": [
+        "DC801/CGC"
+      ]
+    },
+    {
+      "tnId": "339734976",
+      "tnName": "Silla Comedor Eames Tapizada Chenille Shammy Pack 4 Unid Chenille Negro Gris Oscuro",
+      "skus": [
+        "DC801/NGO"
+      ]
+    },
+    {
+      "tnId": "339735021",
+      "tnName": "Silla Comedor Eames Tapizada Chenille Shammy Pack 4 Unid Chenille Capuccino Off White",
+      "skus": [
+        "DC801/COW"
+      ]
+    },
+    {
+      "tnId": "339735046",
+      "tnName": "Silla Comedor Eames Tapizada Chenille Shammy Pack 4 Unid Chenille Negro Gris Claro",
+      "skus": [
+        "DC801/NGC"
+      ]
+    },
+    {
+      "tnId": "339735076",
+      "tnName": "Camastro Tribeca Krabi Aluminio Textileno 5 Posiciones Gris Jardin",
+      "skus": [
+        "0111111"
+      ]
+    },
+    {
+      "tnId": "339735204",
+      "tnName": "Mesa Comedor Ferra Linea Nordica Vidrio Templado 140x80cm Vidrio Símil Madera",
+      "skus": [
+        "dt1295/mm"
+      ]
+    },
+    {
+      "tnId": "339735275",
+      "tnName": "Mesa Comedor Ferra Vidrio Templado Y Cromo 140x80cm Transparente Cromadas",
+      "skus": [
+        "dt1295/mc"
+      ]
+    },
+    {
+      "tnId": "339735366",
+      "tnName": "Mesa De Comedor Vidrio Y Cromo Madden Redonda 100cm Vidrio Cromo",
+      "skus": [
+        "DT-2211"
+      ]
+    },
+    {
+      "tnId": "339735454",
+      "tnName": "Juego Comedor Mesa Tulip Redonda 90cm + 4 Sillas Oslo Vita",
+      "skus": [
+        "Z-232",
+        "Z-232",
+        "Z-232"
+      ]
+    },
+    {
+      "tnId": "339735526",
+      "tnName": "Juego Comedor Mesa Eames Vidrio + 4 Silla Shammy Tapizadas C Gris Oscuro / Negro Chenille",
+      "skus": [
+        "DT532/N"
+      ]
+    },
+    {
+      "tnId": "339735556",
+      "tnName": "Juego Eames Mesa Redonda Vidrio + 4 Sillas Shammy Chenille Gris Claro /negro Chenille",
+      "skus": [
+        "DT532/N"
+      ]
+    },
+    {
+      "tnId": "339735722",
+      "tnName": "Juego Eames Mesa Redonda Vidrio + 4 Sillas Shammy Chenille Gris Oscuro / Negro Chenille",
+      "skus": [
+        "DT532/N"
+      ]
+    },
+    {
+      "tnId": "339735745",
+      "tnName": "Juego Comedor Mesa Eames Vidrio + 4 Silla Shammy Tapizadas C Off White / Negro Chenille",
+      "skus": [
+        "DT532/N"
+      ]
+    },
+    {
+      "tnId": "339735786",
+      "tnName": "Juego Comedor Mesa Eames Vidrio + 4 Silla Shammy Tapizadas C Gris Claro / Negro Chenille",
+      "skus": [
+        "DT532/N"
+      ]
+    },
+    {
+      "tnId": "339735827",
+      "tnName": "Juego Eames Mesa Redonda Vidrio + 4 Sillas Shammy Chenille Off White / Negro Chenille",
+      "skus": [
+        "DT532/N"
+      ]
+    },
+    {
+      "tnId": "339735954",
+      "tnName": "Silla Comedor Eames Tapizada Shammy Nórdica Pack 4 Unid Chenille Simil Madera",
+      "skus": [
+        "DC801/MGC",
+        "DC801/MGC",
+        "DC801/MGC"
+      ]
+    },
+    {
+      "tnId": "339736432",
+      "tnName": "Juego Eames Mesa Redonda Vidrio + 4 Sillas Shammy Nórdica Off White Chenille",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "339736468",
+      "tnName": "Juego Eames Mesa Redonda Vidrio + 4 Sillas Shammy Nórdica Gris Claro Chenille",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "339736630",
+      "tnName": "Juego Eames Mesa Redonda Vidrio + 4 Sillas Shammy Nórdica Gris Oscuro Chenille",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "339736697",
+      "tnName": "Silla Comedor Eames Tapizada Shammy Nórdica Pack 2 Unid Chenille Simil Madera",
+      "skus": [
+        "DC801/MGO",
+        "DC801/MGO",
+        "DC801/MGO"
+      ]
+    },
+    {
+      "tnId": "339736913",
+      "tnName": "Juego Eames Mesa Redonda Vidrio Nordica + 4 Sillas Shammy Mesa Natural Chenille Gris Oscuro Bade Negra",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "339736940",
+      "tnName": "Juego Eames Mesa Redonda Vidrio Nordica + 4 Sillas Shammy C Mesa Natural Chenille Off White Base Negra",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "339736976",
+      "tnName": "Juego Eames Mesa Redonda Vidrio Nordica + 4 Sillas Shammy Mesa Natural Chenille Off White Base Negra",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "339737004",
+      "tnName": "Juego Eames Mesa Redonda Vidrio Nordica + 4 Sillas Shammy C Mesa Natural Chenille Gris Oscuro Base Negra",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "339737099",
+      "tnName": "Juego Comedor Mesa Evan Nordica + 4 Sillas Shammy Chenille",
+      "skus": [
+        "-097698",
+        "-097698",
+        "-097698"
+      ]
+    },
+    {
+      "tnId": "339737118",
+      "tnName": "Mesa De Comedor Tulip Redonda Neolit Simil Marmol 100cm Travertino Capuccino",
+      "skus": [
+        "dt2607/TRC100"
+      ]
+    },
+    {
+      "tnId": "339737149",
+      "tnName": "Mesa De Comedor Tulip Redonda Neolit Simil Marmol 100cm Italiana Blanca",
+      "skus": [
+        "dt2607/KGB100"
+      ]
+    },
+    {
+      "tnId": "339737166",
+      "tnName": "Juego Eames Mesa Redonda Vidrio Nordica + 4 Sillas Shammy C Mesa Natural Chenille Gris Claro Base Negra",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "339737190",
+      "tnName": "Juego Eames Mesa Redonda Vidrio Nordica + 4 Sillas Shammy Mesa Natural Chenille Gris Claro Base Negra",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "339737258",
+      "tnName": "Mesa De Comedor Tulip Redonda Neolit Simil Marmol 100cm C Travertino Capucchino",
+      "skus": [
+        "dt2607/TRC100"
+      ]
+    },
+    {
+      "tnId": "339737309",
+      "tnName": "Mesa De Comedor Tulip Redonda Neolit Simil Marmol 100cm C Italiana Blanca",
+      "skus": [
+        "dt2607/KGB100"
+      ]
+    },
+    {
+      "tnId": "339737435",
+      "tnName": "Mesa De Comedor Tulip Redonda 90cm Base Metal Capucchino",
+      "skus": [
+        "DT2607-CAP"
+      ]
+    },
+    {
+      "tnId": "339737459",
+      "tnName": "Mesa De Comedor Lina Metal Simil Madera Importada 140cm Vidrio Símil Madera",
+      "skus": [
+        "781345"
+      ]
+    },
+    {
+      "tnId": "339768604",
+      "tnName": "2x1,4 Mts Alfombra Nórdica Pelo Largo Varios Colores Import 200 M 140 M Gris Claro",
+      "skus": [
+        "000295"
+      ]
+    },
+    {
+      "tnId": "339920119",
+      "tnName": "Juego Comedor Mesa Vidrio Redonda Eames + 4 Sillas Oslo Vita Negro Liso",
+      "skus": [
+        "C602-1/v"
+      ]
+    },
+    {
+      "tnId": "339958216",
+      "tnName": "2x1,4 Mts Alfombra Nórdica Pelo Largo Varios Colores 2 M 1.4 M Gis Oscuro Matizado",
+      "skus": [
+        "000299"
+      ]
+    },
+    {
+      "tnId": "339958240",
+      "tnName": "2x1,4 Mts Alfombra Nórdica Pelo Largo Varios Colores 2 M 1.4 M Gris Claro Matizado",
+      "skus": [
+        "000297"
+      ]
+    },
+    {
+      "tnId": "339993588",
+      "tnName": "Juego Comedor Mesa Tulip Redonda + 4 Silla Shammy Capuccino",
+      "skus": [
+        "DT2607-CAP",
+        "DT2607-CAP"
+      ]
+    },
+    {
+      "tnId": "340045234",
+      "tnName": "Juego Comedor Mesa Tulip Redonda + 4 Silla Sofia Capuccino",
+      "skus": [
+        "DT2607-CAP",
+        "DT2607-CAP"
+      ]
+    },
+    {
+      "tnId": "340170004",
+      "tnName": "Juego Eames Mesa Redonda Vidrio + 4 Sillas Shammy Nórdica Gris Oscuro Chenille",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "340201763",
+      "tnName": "Juego Comedor Mesa Eames Vidrio + 4 Silla Shammy Tapizadas C Gris Claro / Negro Chenille",
+      "skus": [
+        "DT532/N"
+      ]
+    },
+    {
+      "tnId": "340237892",
+      "tnName": "Silla Comedor Oslo Vita Plastica Pack 4 Unid Liso Negro",
+      "skus": [
+        "XBP-P20/N"
+      ]
+    },
+    {
+      "tnId": "340238234",
+      "tnName": "Silla Comedor Oslo Vita Plastica Pack 2 Unid Liso Negro",
+      "skus": [
+        "XBP-P20/N"
+      ]
+    },
+    {
+      "tnId": "340273965",
+      "tnName": "Juego Comedor Mesa Tulip Redonda Neolit + 4 Silla Sofia Italiana",
+      "skus": [
+        "e55545",
+        "e55545"
+      ]
+    },
+    {
+      "tnId": "340274026",
+      "tnName": "Juego Comedor Mesa Tulip Redonda Neolit + 4 Silla Sofia Travertino",
+      "skus": [
+        "ddd",
+        "ddd"
+      ]
+    },
+    {
+      "tnId": "340415333",
+      "tnName": "Canasto Leñero Cesto Organzador Mimbre Jeronimo Cónico 45cm Marrón",
+      "skus": [
+        "pv-0007"
+      ]
+    },
+    {
+      "tnId": "340415385",
+      "tnName": "Canasto Leñero Cesto Organzador Mimbre Jeronimo Ovalado Marrón",
+      "skus": [
+        "PV-0008"
+      ]
+    },
+    {
+      "tnId": "340415547",
+      "tnName": "Canasto Mesa Baul Penelope De Mimbre Con Tapa 80cm Marrón",
+      "skus": [
+        "pbc-0000001"
+      ]
+    },
+    {
+      "tnId": "340415562",
+      "tnName": "Canasto Leñero Cesto Organzador Mimbre Jeronimo Ovalado Ch Marrón",
+      "skus": [
+        "PAV-00089"
+      ]
+    },
+    {
+      "tnId": "340415585",
+      "tnName": "Canasto Leñero Cesto Organzador Mimbre Jeronimo Ovalado M Marrón",
+      "skus": [
+        "PV-0012"
+      ]
+    },
+    {
+      "tnId": "340417407",
+      "tnName": "Juego Comedor Mesa Tulip Redonda Neolit + 4 Silla Shammy Travertino Chenille Gris Capuchino",
+      "skus": [
+        "ddd"
+      ]
+    },
+    {
+      "tnId": "340417417",
+      "tnName": "Juego Comedor Mesa Tulip Redonda Neolit + 4 Silla Shammy Italiana Chenille Off White Capuchino",
+      "skus": [
+        "e55545"
+      ]
+    },
+    {
+      "tnId": "340417431",
+      "tnName": "Juego Comedor Mesa Tulip Redonda Neolit + 4 Silla Shammy Italiana Chenille Gris Capuchino",
+      "skus": [
+        "e55545"
+      ]
+    },
+    {
+      "tnId": "340417437",
+      "tnName": "Juego Comedor Mesa Tulip Redonda Neolit + 4 Silla Shammy Travertino Chenille Off White Capuchino",
+      "skus": [
+        "ddd"
+      ]
+    },
+    {
+      "tnId": "340417446",
+      "tnName": "Juego Eames Mesa Redonda Vidrio + 4 Sillas Shammy Nórdica Off White Chenille",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "340499525",
+      "tnName": "Mesa Comedor Modena Neolith 180x90cm Marquina Negro",
+      "skus": [
+        "vme-0002"
+      ]
+    },
+    {
+      "tnId": "340499537",
+      "tnName": "Mesa Comedor Modena Neolith 180x90cm Statuario Negro",
+      "skus": [
+        "Vme-0001"
+      ]
+    },
+    {
+      "tnId": "340689315",
+      "tnName": "Juego Comedor Mesa Lounna 180cm + 4 Sillas Veneta Cromadas Color Negro Diseño De La Tela De Las Sillas Liso",
+      "skus": [
+        "RT-192L/NT"
+      ]
+    },
+    {
+      "tnId": "340904528",
+      "tnName": "Silla Respaldo Alto Tess Pana Nordica Pack 2 Unid Pana Marrón Claro Taupe",
+      "skus": [
+        "PSV-0032"
+      ]
+    },
+    {
+      "tnId": "340905380",
+      "tnName": "Silla Tulip Base Eiffel Pack 2 Unid Importada Lisa Marrón Claro Blanco",
+      "skus": [
+        "PSV-0008"
+      ]
+    },
+    {
+      "tnId": "340905402",
+      "tnName": "Silla Tulip Base Eiffel Pack 2 Unid Importada Lisa Marrón Claro Negro",
+      "skus": [
+        "13131"
+      ]
+    },
+    {
+      "tnId": "341054508",
+      "tnName": "Sillon Mecedora Poltrona Rocking Volgar Nordico Color Chocolate",
+      "skus": [
+        "YC-10C/MA"
+      ]
+    },
+    {
+      "tnId": "341054589",
+      "tnName": "Sillon Mecedora Poltrona Rocking Volgar Nordico Color Beige Liso",
+      "skus": [
+        "YC-10C/BE"
+      ]
+    },
+    {
+      "tnId": "341054713",
+      "tnName": "Sillón Poltrona Nórdico Modelo Volgar Calidad Premium Color Beige",
+      "skus": [
+        "YC-04F/BE"
+      ]
+    },
+    {
+      "tnId": "341055819",
+      "tnName": "Sillón Poltrona Nórdico Volgar Nordico + Apoyapies Marrón Liso",
+      "skus": [
+        "YC-04F/MA"
+      ]
+    },
+    {
+      "tnId": "341059505",
+      "tnName": "Sillon Volgar De Lino Nordico Poltrona Color Beige",
+      "skus": [
+        "YC-04F/BE"
+      ]
+    },
+    {
+      "tnId": "341103076",
+      "tnName": "Sillon Poltrona Nordico Modelo Volgar + Mesa Apoyo Color Chocolate Diseño De La Tela Lino",
+      "skus": [
+        "YC-04F/MA"
+      ]
+    },
+    {
+      "tnId": "341103099",
+      "tnName": "Poltrona Volgar + Mecedora + Mesa Nuuk Nordica Diseño De La Tela Lino Gris",
+      "skus": [
+        "YC-10C/MA"
+      ]
+    },
+    {
+      "tnId": "341103173",
+      "tnName": "Sillon Poltrona Volgar Nordica + Mecedora Tapizado En Lino Color Beige Liso",
+      "skus": [
+        "YC-04F/BE"
+      ]
+    },
+    {
+      "tnId": "341103204",
+      "tnName": "Poltrona Volgar + Mecedora + Mesa Nuuk Nordica Diseño De La Tela Beige Gris",
+      "skus": [
+        "YC-04F/BE"
+      ]
+    },
+    {
+      "tnId": "341103256",
+      "tnName": "Sillon Poltrona Volgar Nordica + Mecedora Tapizado En Lino Color Chocolate Liso",
+      "skus": [
+        "YC-10C/MA"
+      ]
+    },
+    {
+      "tnId": "341104752",
+      "tnName": "Sillón Poltrona Nórdico Volgar Nordico + Apoyapies Beige Liso",
+      "skus": [
+        "YC-09B/BE"
+      ]
+    },
+    {
+      "tnId": "341108721",
+      "tnName": "Sillon Volgar De Lino Nordico Poltrona Color Chocolate",
+      "skus": [
+        "YC-04F/MA"
+      ]
+    },
+    {
+      "tnId": "341214171",
+      "tnName": "Banco Taburete Nordico Apilable Nuuk Premium Color Natural Laqueado",
+      "skus": [
+        "YC-14A/NN"
+      ]
+    },
+    {
+      "tnId": "341214180",
+      "tnName": "Banco Taburete Nordico Apilable Nuuk Premium Color Haya/blanco Laqueado",
+      "skus": [
+        "YC-14A/BN"
+      ]
+    },
+    {
+      "tnId": "341214329",
+      "tnName": "Banco Taburete Nordico Apilable Nuuk Pack 2 Unid Color Natural Laqueado",
+      "skus": [
+        "YC-14A/NN"
+      ]
+    },
+    {
+      "tnId": "341214359",
+      "tnName": "Banco Taburete Nordico Apilable Nuuk Pack 2 Unid Color Haya/blanco Laqueado",
+      "skus": [
+        "YC-14A/BN"
+      ]
+    },
+    {
+      "tnId": "341216770",
+      "tnName": "Mesa De Luz Linea Nórdica Mesa De Arrime Nuuk Acabado Semimate Color Blanco/ Haya",
+      "skus": [
+        "YC-14A/BN"
+      ]
+    },
+    {
+      "tnId": "341216793",
+      "tnName": "Mesa De Luz Linea Nórdica Mesa De Arrime Nuuk Acabado Semimate Color Marrón Claro",
+      "skus": [
+        "YC-14A/NN"
+      ]
+    },
+    {
+      "tnId": "341430338",
+      "tnName": "Banco Nórdico Amelia Pie De Cama / Recibidor Madera Madera",
+      "skus": [
+        "PAV-0022"
+      ]
+    },
+    {
+      "tnId": "341432506",
+      "tnName": "Banco Nórdico Amelia Pie De Cama / Recibidor Madera Madera",
+      "skus": [
+        "PAV-0012"
+      ]
+    },
+    {
+      "tnId": "341434112",
+      "tnName": "Sillon Mecedora Volgar Soft Poltrona Nordica Rocking Chocolate Liso",
+      "skus": [
+        "c"
+      ]
+    },
+    {
+      "tnId": "341434139",
+      "tnName": "Sillon Mecedora Volgar Soft Poltrona Nordica Rocking Beige Liso",
+      "skus": [
+        "YC-10CS"
+      ]
+    },
+    {
+      "tnId": "341434159",
+      "tnName": "Sillón Poltrona Volgar Soft Nordico 1 Cuerpo Premium Marrón Liso",
+      "skus": [
+        "c"
+      ]
+    },
+    {
+      "tnId": "341434187",
+      "tnName": "Sillón Poltrona Volgar Soft Nordico 1 Cuerpo Premium Beige Liso",
+      "skus": [
+        "YC-04FS"
+      ]
+    },
+    {
+      "tnId": "341539125",
+      "tnName": "Sillón Poltrona Volgar Soft Nordico 1 Cuerpo Premium C Beige Lino",
+      "skus": [
+        "YC-04FS"
+      ]
+    },
+    {
+      "tnId": "341860431",
+      "tnName": "Sillón Haru Tela Chenille Importado Beige Chenille",
+      "skus": [
+        "S24039NBE"
+      ]
+    },
+    {
+      "tnId": "341860477",
+      "tnName": "Sillón Haru Tela Chenille Importado Taupe Chenille",
+      "skus": [
+        "SL24039NTA"
+      ]
+    },
+    {
+      "tnId": "341863446",
+      "tnName": "Juego Eames Mesa Redonda Vidrio + 4 Sillas Shammy Nórdica Gris Claro Chenille",
+      "skus": [
+        "DT532/W"
+      ]
+    },
+    {
+      "tnId": "342072455",
+      "tnName": "Mesa Ratona Nuuk Madera Mesa De Arrime Importada Haya",
+      "skus": [
+        "5555"
+      ]
+    },
+    {
+      "tnId": "342118486",
+      "tnName": "Mesa De Comedor Bulnes Neolit 140x80cm Piedra Sinterizada Negra",
+      "skus": [
+        "tt-121/N"
+      ]
+    },
+    {
+      "tnId": "342118521",
+      "tnName": "Mesa Redonda Madden 120 Cm Piedra Sinterizada Base Negra Piedra Sinterizada Negro",
+      "skus": [
+        "1"
+      ]
+    },
+    {
+      "tnId": "342118553",
+      "tnName": "Mesa De Comedor Bulnes Neolit 140x80cm Piedra Sinterizada Marrón Claro",
+      "skus": [
+        "tt-121/SM"
+      ]
+    },
+    {
+      "tnId": "342118581",
+      "tnName": "Mesa Redonda Neolit H Simil Marmol Madden Cromo 90cm Piedra Sinterizada Cromo",
+      "skus": [
+        "Pmcn-0002"
+      ]
+    },
+    {
+      "tnId": "342118613",
+      "tnName": "Mesa Redonda Madden Piedra Sinterizada 120 Cm Cromo Piedra Sinterizada",
+      "skus": [
+        "pmmn-0002"
+      ]
+    },
+    {
+      "tnId": "342118646",
+      "tnName": "Mesa De Comedor Bulnes Neolit 140x80cm Piedra Sinterizada Cromo",
+      "skus": [
+        "tt-121/C"
+      ]
+    },
+    {
+      "tnId": "342118702",
+      "tnName": "Mesa De Comedor Bulnes Tapa Neolit 180x90cm Piedra Sinterizada Cromo",
+      "skus": [
+        "pmcn-0001"
+      ]
+    },
+    {
+      "tnId": "342118752",
+      "tnName": "Mesa De Comedor Bulnes Neo Piedra 120x80cm Piedra Sinterizada Negra",
+      "skus": [
+        "tt-121/N"
+      ]
+    },
+    {
+      "tnId": "342148494",
+      "tnName": "Banquito Balto Pelo Largo Puff Nordico Blanco",
+      "skus": [
+        "PAV-0005"
+      ]
+    },
+    {
+      "tnId": "342215619",
+      "tnName": "Juego Comedor Mesa Madden 160 Y 6 Sillas Jenna Blanco Cuero Sintetico",
+      "skus": [
+        "PME-0021"
+      ]
+    },
+    {
+      "tnId": "342215633",
+      "tnName": "Sillón Poltrona Nórdico Volgar Nordico + Apoyapies Negro Liso",
+      "skus": [
+        "dddd"
+      ]
+    },
+    {
+      "tnId": "342277216",
+      "tnName": "Sillon Poltrona Nordico Modelo Volgar + Mesa Ratona Nuuk",
+      "skus": [
+        "dddd",
+        "dddd",
+        "dddd",
+        "dddd",
+        "dddd"
+      ]
+    },
+    {
+      "tnId": "342310937",
+      "tnName": "Sillon Poltrona Nordico Modelo Volgar + Mesa Apoyo Color Chocolate Diseño De La Tela Lino",
+      "skus": [
+        "YC-10C/MA"
+      ]
+    },
+    {
+      "tnId": "342422729",
+      "tnName": "Juego Comedor Eames Vidrio Pata Negro + 4 Shammy Tapizada Gris Oscuro / Negro Chenille",
+      "skus": [
+        "DT532/N"
+      ]
+    },
+    {
+      "tnId": "342453356",
+      "tnName": "Sillon Poltrona Nordico Modelo Volgar + Mesa Apoyo Color Beige Diseño De La Tela Lino",
+      "skus": [
+        "YC-04F/BE"
+      ]
+    },
+    {
+      "tnId": "342487655",
+      "tnName": "Silla Tulip Base Eiffel Pack 2 Unid Lisa Marrón Claro Negro",
+      "skus": [
+        "13131"
+      ]
+    },
+    {
+      "tnId": "342487678",
+      "tnName": "Sillon Poltrona Nordico Modelo Volgar + Mesa Apoyo Color Beige Diseño De La Tela Lino",
+      "skus": [
+        "YC-04F/BE"
+      ]
+    },
+    {
+      "tnId": "342518385",
+      "tnName": "Mesa Lateral Jacinta Mesa De Arrime De Madera Natural",
+      "skus": [
+        "PAV-0011"
+      ]
+    },
+    {
+      "tnId": "342524630",
+      "tnName": "Juego Comedor Mesa Ferra 140cm + 4 Sillas Shammy Nordica",
+      "skus": [
+        "dt1295/mm",
+        "dt1295/mm",
+        "dt1295/mm"
+      ]
+    }
+  ]
+}

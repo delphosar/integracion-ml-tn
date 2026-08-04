@@ -16,7 +16,14 @@
     "sync:delta": "node src/sync-delta.js",
     "sync:delta:dry": "node src/sync-delta.js --dry-run",
     "sync:new": "node src/sync-new-items.js",
-    "sync:new:dry": "node src/sync-new-items.js --dry-run"
+    "sync:new:dry": "node src/sync-new-items.js --dry-run",
+    "webhook": "node src/tn-webhook.js",
+    "ecom:test-auth": "node src/ecom-auth.js --test",
+    "ecom:explore": "node src/ecom-explore.js",
+    "update-tn-skus": "node src/update-tn-skus.js",
+    "update-tn-skus:dry": "node src/update-tn-skus.js --dry-run",
+    "update-tn-skus:simple": "node src/update-tn-skus.js --only-simple",
+    "update-tn-skus:simple:dry": "node src/update-tn-skus.js --dry-run --only-simple"
   },
   "dependencies": {
     "axios": "^1.7.9",

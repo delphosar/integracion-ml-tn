@@ -1,0 +1,237 @@
+{
+  "nubeListings.find (pageInfo)": {
+    "nubeListings": {
+      "find": {
+        "pageInfo": {
+          "page": 1,
+          "pageCount": 0,
+          "nextPage": false,
+          "count": 0,
+          "limit": 50
+        }
+      }
+    }
+  },
+  "nubeListings.find (owner + listingLinks + variantLinks.sku)": {
+    "nubeListings": {
+      "find": {
+        "pageInfo": {
+          "page": 1,
+          "pageCount": 0,
+          "nextPage": false,
+          "count": 0,
+          "limit": 50
+        },
+        "data": []
+      }
+    }
+  },
+  "nubeMlListings.find (pageInfo)": {
+    "nubeMlListings": {
+      "find": {
+        "pageInfo": {
+          "page": 1,
+          "pageCount": 115,
+          "nextPage": true,
+          "count": 3430,
+          "limit": 30
+        }
+      }
+    }
+  },
+  "nubeMlListings.find (owner + listingLinks + variantLinks.sku)": {
+    "nubeMlListings": {
+      "find": {
+        "pageInfo": {
+          "page": 1,
+          "pageCount": 115,
+          "nextPage": true,
+          "count": 3430,
+          "limit": 30
+        },
+        "data": [
+          {
+            "id": "92482614",
+            "owner": "MlItem",
+            "ownerId": "MLA3268153772",
+            "listingLinks": []
+          },
+          {
+            "id": "92482613",
+            "owner": "MlItem",
+            "ownerId": "MLA3268203462",
+            "listingLinks": []
+          },
+          {
+            "id": "92482608",
+            "owner": "MlItem",
+            "ownerId": "MLA3267956078",
+            "listingLinks": []
+          },
+          {
+            "id": "92482252",
+            "owner": "MlItem",
+            "ownerId": "MLA3268082648",
+            "listingLinks": []
+          },
+          {
+            "id": "92481330",
+            "owner": "MlItem",
+            "ownerId": "MLA3266965310",
+            "listingLinks": []
+          },
+          {
+            "id": "92480182",
+            "owner": "MlItem",
+            "ownerId": "MLA3265428216",
+            "listingLinks": []
+          },
+          {
+            "id": "92480177",
+            "owner": "MlItem",
+            "ownerId": "MLA3265428134",
+            "listingLinks": []
+          },
+          {
+            "id": "92480129",
+            "owner": "MlItem",
+            "ownerId": "MLA3265426950",
+            "listingLinks": []
+          },
+          {
+            "id": "92477986",
+            "owner": "MlItem",
+            "ownerId": "MLA1771909413",
+            "listingLinks": []
+          },
+          {
+            "id": "92477985",
+            "owner": "MlItem",
+            "ownerId": "MLA1771909411",
+            "listingLinks": []
+          },
+          {
+            "id": "92458675",
+            "owner": "MlItem",
+            "ownerId": "MLA3260306014",
+            "listingLinks": []
+          },
+          {
+            "id": "92448719",
+            "owner": "MlItem",
+            "ownerId": "MLA3260087528",
+            "listingLinks": []
+          },
+          {
+            "id": "92448717",
+            "owner": "MlItem",
+            "ownerId": "MLA3260074618",
+            "listingLinks": []
+          },
+          {
+            "id": "92447881",
+            "owner": "MlItem",
+            "ownerId": "MLA1771110615",
+            "listingLinks": []
+          },
+          {
+            "id": "92447879",
+            "owner": "MlItem",
+            "ownerId": "MLA1771072559",
+            "listingLinks": []
+          },
+          {
+            "id": "92440026",
+            "owner": "MlItem",
+            "ownerId": "MLA3255766930",
+            "listingLinks": []
+          },
+          {
+            "id": "92439936",
+            "owner": "MlItem",
+            "ownerId": "MLA1770960969",
+            "listingLinks": []
+          },
+          {
+            "id": "92430609",
+            "owner": "MlItem",
+            "ownerId": "MLA1769689023",
+            "listingLinks": []
+          },
+          {
+            "id": "92419160",
+            "owner": "MlItem",
+            "ownerId": "MLA1767966889",
+            "listingLinks": []
+          },
+          {
+            "id": "92418969",
+            "owner": "MlItem",
+            "ownerId": "MLA1767953553",
+            "listingLinks": []
+          },
+          {
+            "id": "92418580",
+            "owner": "MlItem",
+            "ownerId": "MLA1767965939",
+            "listingLinks": []
+          },
+          {
+            "id": "92418347",
+            "owner": "MlItem",
+            "ownerId": "MLA1767965567",
+            "listingLinks": []
+          },
+          {
+            "id": "92417172",
+            "owner": "MlItem",
+            "ownerId": "MLA1767963165",
+            "listingLinks": []
+          },
+          {
+            "id": "92416994",
+            "owner": "MlItem",
+            "ownerId": "MLA1767962493",
+            "listingLinks": []
+          },
+          {
+            "id": "92415579",
+            "owner": "MlItem",
+            "ownerId": "MLA3244574902",
+            "listingLinks": []
+          },
+          {
+            "id": "92415577",
+            "owner": "MlItem",
+            "ownerId": "MLA3244574900",
+            "listingLinks": []
+          },
+          {
+            "id": "92412191",
+            "owner": "MlItem",
+            "ownerId": "MLA3240932152",
+            "listingLinks": []
+          },
+          {
+            "id": "92403991",
+            "owner": "MlItem",
+            "ownerId": "MLA3236137740",
+            "listingLinks": []
+          },
+          {
+            "id": "92403990",
+            "owner": "MlItem",
+            "ownerId": "MLA3236137738",
+            "listingLinks": []
+          },
+          {
+            "id": "92403989",
+            "owner": "MlItem",
+            "ownerId": "MLA3236074472",
+            "listingLinks": []
+          }
+        ]
+      }
+    }
+  }
+}

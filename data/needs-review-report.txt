@@ -1,0 +1,584 @@
+=== PRODUCTOS TN SIN SKU CORRECTO (44) ===
+Fecha: 2026-05-05
+
+─────────────────────────────────────────────────────────────────
+SECCIÓN A — 7 GRUPOS SIN KEEPER (elegir cuál conservar y borrar el resto)
+─────────────────────────────────────────────────────────────────
+
+ERP SKU: DC608-C
+  TN 337768460 | MLA MLA1933989294
+  Nombre: Silla De Comedor Sybil Pana Base Cromo Pack 2
+    Variante 1501394440 | SKU actual: MLA1933989294-185449554875 | Attrs: Cromo / Toupe / Pana
+    Variante 1501394448 | SKU actual: MLA1933989294-185449554871 | Attrs: Cromo / Gris oscuro / Pana
+    Variante 1501394455 | SKU actual: MLA1933989294-185449554873 | Attrs: Cromo / Beige / Pana
+    Variante 1501394460 | SKU actual: MLA1933989294-185449554869 | Attrs: Cromo / Gris claro / Pana
+  TN 337701717 | MLA MLA1313761591
+  Nombre: Silla De Comedor Sybil Pana Base Cromo Pack 4
+    Variante 1501099206 | SKU actual: MLA1313761591-176367210898 | Attrs: Cromo / Toupe / Pana
+    Variante 1501099212 | SKU actual: MLA1313761591-176367210895 | Attrs: Cromo / Gris claro / Pana
+    Variante 1501099214 | SKU actual: MLA1313761591-176367210896 | Attrs: Cromo / Gris / Pana
+    Variante 1501099217 | SKU actual: MLA1313761591-176367210897 | Attrs: Cromo / Beige / Pana
+  Variantes ERP:
+    SKU: DC608C/GC | Color:Gris Claro | Color de las patas:Cromo
+    SKU: DC608C/TA | Color de las patas:cromada | Color:taupe
+    SKU: DC608C/GO | Color:Gris oscuro | Color de las patas:cromada
+
+OBSERVACIÓN: ES COMBO
+
+ERP SKU: RT192/LNT, RT780
+  TN 337707796 | MLA MLA1451106161
+  Nombre: Juego Comedor Mesa Lounna 180cm + 4 Sillas Becca Importada
+    Variante 1501129277 | SKU actual: MLA1451106161-189572734999 | Attrs: Blanco / Liso
+    Variante 1501129290 | SKU actual: MLA1451106161-181710116542 | Attrs: Negro / Liso
+    Variante 1501129300 | SKU actual: MLA1451106161-189572735001 | Attrs: Gris Claro / chenille
+    Variante 1501129306 | SKU actual: MLA1451106161-189572735003 | Attrs: Gris oscuro / chenille
+  TN 337707922 | MLA MLA1451169187
+  Nombre: Juego Comedor Mesa Lounna 180cm + 6 Sillas Becca Importada
+    Variante 1501130343 | SKU actual: MLA1451169187-189569550599 | Attrs: Blanco / Liso
+    Variante 1501130358 | SKU actual: MLA1451169187-184976891037 | Attrs: Negro / Liso
+    Variante 1501130369 | SKU actual: MLA1451169187-189573761877 | Attrs: Gris Claro / chenille
+    Variante 1501130379 | SKU actual: MLA1451169187-189573761879 | Attrs: Gris oscuro / chenille
+  Variantes ERP:
+    SKU: RT-192L/NT | Color de la tapa:Vidrio | Color de las patas:Haya
+    SKU: 000255 | Color de las patas:Blanco | Color de la tapa:Vidrio
+    SKU: 000256 | Color de las patas:Negro | Color de la tapa:Transparente
+
+OBSERVACIÓN: ES COMBO
+
+ERP SKU: 21313
+  TN 337698442 | MLA MLA1119830074
+  Nombre: Silla Beetle Pana Base Negra Pack 4 C
+    Variante 1501088341 | SKU actual: MLA1119830074-174108101914 | Attrs: Metal/Negro / Toupe / Pana
+    Variante 1501088346 | SKU actual: MLA1119830074-174108101915 | Attrs: Metal/Negro / Gris oscuro / Pana
+    Variante 1501088352 | SKU actual: MLA1119830074-174108101916 | Attrs: Metal/Negro / Verde / Pana
+    Variante 1501088357 | SKU actual: MLA1119830074-174108101917 | Attrs: Metal/Negro / Gris claro / Pana
+    Variante 1501088362 | SKU actual: MLA1119830074-194733738217 | Attrs: Metal Negro / Beige / Pana
+    Variante 1501088365 | SKU actual: MLA1119830074-194733738219 | Attrs: Metal Negro / Rosa / Pana
+  TN 337698253 | MLA MLA1119804357
+  Nombre: Silla Beetle Pana Base Negra Pack 4
+    Variante 1501087663 | SKU actual: MLA1119804357-181963176429 | Attrs: Metal/Negro / Azul / Pana
+    Variante 1501087671 | SKU actual: MLA1119804357-174108182364 | Attrs: Metal/Negro / Gris oscuro / Pana
+    Variante 1501087675 | SKU actual: MLA1119804357-174108182365 | Attrs: Metal/Negro / Verde / Pana
+    Variante 1501087681 | SKU actual: MLA1119804357-174108182366 | Attrs: Metal/Negro / Gris claro / Pana
+    Variante 1501087685 | SKU actual: MLA1119804357-175638311034 | Attrs: Metal/Negro / Beige / Pana
+    Variante 1501087690 | SKU actual: MLA1119804357-174108182363 | Attrs: Metal/Negro / Toupe / Pana
+    Variante 1501087696 | SKU actual: MLA1119804357-181963176431 | Attrs: Metal/Negro / Toupe Claro / Pana
+    Variante 1501087702 | SKU actual: MLA1119804357-194592511085 | Attrs: Metal Negro / Rosa / Pana
+  Variantes ERP:
+    SKU: 21313 | Color de la estructura de la silla:Metal/Negro | Color del asiento:Rosa
+    SKU: null | Color de la estructura de la silla:Metal/Negro | Color del asiento:Azul
+    SKU: null | Color de la estructura de la silla:Metal/Negro | Color del asiento:Gris oscuro
+    SKU: null | Color de la estructura de la silla:Metal/Negro | Color del asiento:Verde
+    SKU: null | Color de la estructura de la silla:Metal/Negro | Color del asiento:Gris claro
+    SKU: null | Color de la estructura de la silla:Metal/Negro | Color del asiento:Beige
+    SKU: null | Color de la estructura de la silla:Metal/Negro | Color del asiento:Toupe
+    SKU: null | Color de la estructura de la silla:Metal/Negro | Color del asiento:Toupe Claro
+
+OBSERVACIÓN: ES COMBO
+
+ERP SKU: YC-14A
+  TN 337762900 | MLA MLA912114439
+  Nombre: Mesa De Luz Nordica Mesa Lateral Nuuk C
+    Variante 1501368053 | SKU actual: MLA912114439-78901678504 | Attrs: Semimate / Blanco
+    Variante 1501368061 | SKU actual: MLA912114439-78901678487 | Attrs: Semimate / Marrón claro
+    Variante 1501368065 | SKU actual: MLA912114439-78901678491 | Attrs: Semimate / Toda Blanca
+    Variante 1501368070 | SKU actual: MLA912114439-78901678495 | Attrs: Semimate / TODA NEGRA
+    Variante 1501368078 | SKU actual: MLA912114439-78901678499 | Attrs: Semimate / Walnut
+
+    OBSERVACION: ESTA PUBLICACIÓN NO EXISTE. 
+
+  TN 337762154 | MLA MLA905071655
+  Nombre: Mesa De Luz Nordica Mesa Lateral Nuuk
+    Variante 1501364389 | SKU actual: MLA905071655-90023396278 | Attrs: haya- blanco
+    Variante 1501364400 | SKU actual: MLA905071655-78898019288 | Attrs: Blanco
+    Variante 1501364409 | SKU actual: MLA905071655-78898019296 | Attrs: Negro
+    Variante 1501364416 | SKU actual: MLA905071655-78898019304 | Attrs: Walnut
+    Variante 1501364424 | SKU actual: MLA905071655-78898019276 | Attrs: Natural
+
+    OBSERVACION: ESTA ES LA PUBLICACION QUE QUEDÓ. 
+    MODIFICACIONES: 
+      A LA VARIANTE NATURAL SE LE DIO EL SKU YC-14A/NN
+      A LA VARIANTE BLANCO SE LE DIO EL SKU YC-14A/BB
+      A LA VARIANTE HAYA - BLANCO SE LE DIO EL SKU YC-14A/BN
+      SE ELIMINARON LAS VARIANTES NEGRO Y WALNUT 
+
+  TN 337750004 | MLA MLA640260557
+  Nombre: Mesa De Luz Linea Nórdica Mesa De Arrime Nuuk
+    Variante 1501320110 | SKU actual: MLA640260557-187489408683 | Attrs: Semimate / Blanco/Haya
+    Variante 1501320119 | SKU actual: MLA640260557-79551062466 | Attrs: Semimate / Toda Blanca
+    Variante 1501320125 | SKU actual: MLA640260557-32987282127 | Attrs: Semimate / Marrón claro
+    Variante 1501320131 | SKU actual: MLA640260557-32987282123 | Attrs: Semimate / Negro
+    Variante 1501320135 | SKU actual: MLA640260557-79551062479 | Attrs: Semimate / TODA NEGRA
+    Variante 1501320143 | SKU actual: MLA640260557-79551062498 | Attrs: Semimate / Walnut
+
+
+    OBSERVACIÓN: ESTA PUBLICACIÓN NO EXISTE. 
+  Variantes ERP:
+    SKU: YC-14A/BN | Color:Blanco | Color de la estructura:Natural
+    SKU: YC-14A/BN | Color:Blanco | Color de la estructura:Natural
+    SKU: YC-14A/BB | Color:Blanco | Color de la estructura:Blanco
+
+ERP SKU: PCC-0005
+  TN 337756499 | MLA MLA817195562
+  Nombre: Silla Amanda Pack 2 Unid Chenille Y Madera
+    Variante 1501343174 | SKU actual: MLA817195562-173971627074 | Attrs: Gris claro
+    Variante 1501343184 | SKU actual: MLA817195562-173971627075 | Attrs: Beige
+    Variante 1501343195 | SKU actual: MLA817195562-44123881266 | Attrs: Gris oscuro
+
+  OBSERVACIÓN: ES COMBO
+
+  TN 337756650 | MLA MLA817195571
+  Nombre: Silla Amanda Chenille Y Madera Pack 4 Unid
+    Variante 1501343820 | SKU actual: MLA817195571-44123903603 | Attrs: Gris oscuro
+    Variante 1501343827 | SKU actual: MLA817195571-173971659261 | Attrs: Gris claro
+    Variante 1501343836 | SKU actual: MLA817195571-173971659262 | Attrs: Beige
+
+  OBSERVACIÓN: ES COMBO
+  
+  TN 337756382 | MLA MLA817195056
+  Nombre: Silla Nordica Amanda Pack 2 Unid Nordicas
+    Variante 1501342477 | SKU actual: MLA817195056-173971652343 | Attrs: Gris claro
+    Variante 1501342485 | SKU actual: MLA817195056-173971652344 | Attrs: Beige
+    Variante 1501342494 | SKU actual: MLA817195056-44123662496 | Attrs: Gris oscuro
+    
+  OBSERVACIÓN: ES COMBO
+  
+  TN 337751207 | MLA MLA665554803
+  Nombre: Silla Amanda Chenille Pack 4 Unid Nordica Base Madera
+    Variante 1501324190 | SKU actual: MLA665554803-173972333447 | Attrs: Beige / Gris claro / Liso
+    Variante 1501324202 | SKU actual: MLA665554803-173972333448 | Attrs: Beige / Beige / Liso
+    Variante 1501324209 | SKU actual: MLA665554803-44122495365 | Attrs: Beige / Gris oscuro / Liso
+  
+  OBSERVACIÓN: ES COMBO
+  
+  Variantes ERP:
+    SKU: 000230 | Color:Gris Claro | Color de las patas:Madera | Material del tapizado:Chenille
+    SKU: SC-0026 | Color:Gris oscuro | Color de las patas:Símil madera | Material del tapizado:Chenille
+
+ERP SKU: sombrilla STAMM
+  TN 337756128 | MLA MLA811973696
+  Nombre: Sombrilla De Jardín Modelo Stamm Exterior C
+    Variante 1501341399 | SKU actual: MLA811973696-175075192203 | Attrs: Rojo / Lisa
+    Variante 1501341405 | SKU actual: MLA811973696-175075192204 | Attrs: Beige / Lisa
+    Variante 1501341411 | SKU actual: MLA811973696-191427133791 | Attrs: Blanco / Lisa
+
+  OBSERVACION: ESTE PROD YA NO EXISTE EN TN 
+
+  TN 337752199 | MLA MLA689852902
+  Nombre: Sombrilla Para Jardín Stamm Linea Exterior
+    Variante 1501327331 | SKU actual: MLA689852902-175075484865 | Attrs: Rojo
+    Variante 1501327342 | SKU actual: MLA689852902-175075484866 | Attrs: Natural
+    Variante 1501327349 | SKU actual: MLA689852902-191104520887 | Attrs: Blanco
+  Variantes ERP:
+    SKU: sombrilla STAMM | Color:ROJO
+    SKU: null | Color:Natural
+
+  MODIFICACIONES REALIZADAS: 
+  A LA VARIANTE ROJO, SE LE ASIGNO EL SKU "sombrilla STAMM" COMO ESTABA EN EL ERP
+  A LA VARIANTE NATURAL SE LE ASIGNO EL SKU PEJ-0009/N Y TAMBIEN SE ASIGNÓ ESTE EN EL ERP YA Q NO TENIA
+  SE ELIMINÓ LA VARIANTE BLANCO YA Q NO EXISTIA EN EL ERP 
+OBSERVACIONES: EL SKU ES PEJ-0009 EN ERP. 
+
+
+ERP SKU: YC-10C
+  TN 337754584 | MLA MLA782731135
+  Nombre: Sillon Mecedora Poltrona Rocking Volgar Importado Nordico
+    Variante 1501335704 | SKU actual: MLA782731135-187455270935 | Attrs: Gris claro
+    Variante 1501335711 | SKU actual: MLA782731135-187455270937 | Attrs: Gris oscuro
+    Variante 1501335721 | SKU actual: MLA782731135-78337565451 | Attrs: Chocolate
+    Variante 1501335731 | SKU actual: MLA782731135-78337770163 | Attrs: Beige
+
+  MODIFICACIONES REALIZADAS: SE ASIGNARON LOS SKU CORRESPONDIENTES POR COINCIDENCIA DE ATRIBUTOS
+  MARRON SE TOMA COMO CHOCOLATE
+
+  TN 337751845 | MLA MLA688001848
+  Nombre: Mecedora Sillon Volgar Poltrona Linea Nordica De Lino C
+    Variante 1501326193 | SKU actual: MLA688001848-187454802901 | Attrs: Gris claro
+    Variante 1501326199 | SKU actual: MLA688001848-187454802903 | Attrs: Gris oscuro
+    Variante 1501326208 | SKU actual: MLA688001848-78337452148 | Attrs: Chocolate
+    Variante 1501326214 | SKU actual: MLA688001848-78337452164 | Attrs: Beige
+
+  
+
+  Variantes ERP:
+    SKU: YC-10C/MA | Color de la estructura:Natural | Color del tapizado:Marron
+    SKU: YC-10C/BE | Color de la estructura:Natural | Color del tapizado:beige
+    SKU: YC-10C/GO | Color de la estructura:Natural | Color del tapizado:Gris oscuro
+    SKU: YC-10C/GC | Color de la estructura:Natural | Color del tapizado:Gris Claro
+
+─────────────────────────────────────────────────────────────────
+SECCIÓN B — 27 PRODUCTOS ÚNICOS (solo actualizar SKU de variante/s)
+─────────────────────────────────────────────────────────────────
+
+TN 337731078 | MLA MLA2024452076 | ERP SKU: PME-0008
+Nombre: Mesa Ratona Living Elliot Vidrio Cromo Patas Madera 110x60 C
+Variantes TN:
+  ❌ SIN MATCH Variante 1501240362 | SKU actual: MLA2024452076-187116201685 | Attrs: Haya
+  ✓ Variante 1501240367 | SKU actual: MLA2024452076-187116201687 | Attrs: Blanco
+  ❌ SIN MATCH Variante 1501240370 | SKU actual: MLA2024452076-187116201689 | Attrs: Marrón oscuro
+  ✓ Variante 1501240372 | SKU actual: MLA2024452076-187116201691 | Attrs: Negro
+Variantes ERP:
+  SKU: CT1516/WD | Color:vidrio | Color de la estructura:Simil Madera
+  SKU: CT1516/W | Color de la estructura:Blanco | Color:varios
+  SKU: CT1516/B | Color de la estructura:Negro | Color:vidrio
+  SKU: CT1516/WA | Color:vidrio | Color de la estructura:Madera Oscura
+
+MODIFICACION MANUAL HECHA: 
+  SKU ANTERIOR: MLA2024452076-187116201685 | Attrs: Haya | SKU NUEVO: CT1516/WD
+  SKU ANTERIOR: MLA2024452076-187116201687 | Attrs: Blanco | SKU NUEVO: CT1516/W
+  SKU ANTERIOR: MLA2024452076-187116201689 | Attrs: Marrón oscuro | SKU NUEVO: CT1516/WA
+  SKU ANTERIOR: MLA2024452076-187116201691 | Attrs: Negro | SKU NUEVO: CT1516/B
+
+TN 337730203 | MLA MLA2008132872 | ERP SKU: C602-1/v, PSO-0011
+Nombre: Juego Comedor Mesa Eames Redonda Vidrio + 4 Sillas Master
+Variantes TN:
+  ❌ SIN MATCH Variante 1501237283 | SKU actual: MLA2008132872-182831953098 | Attrs: Blanco
+  ❌ SIN MATCH Variante 1501237292 | SKU actual: MLA2008132872-187183895965 | Attrs: Negro
+Variantes ERP:
+  SKU: DT532/N | Color de las patas:negras | Color de la tapa:Vidrio
+  SKU: DT532/W | Color de la tapa:Vidrio | Color de las patas:Haya
+
+OBSERVACIÓN: ES COMBO. 
+
+TN 337710885 | MLA MLA1473393487 | ERP SKU: C602-1-B, PCC-0002
+Nombre: Juego Comedor Mesa Eames Redonda Vidrio + 4 Sillas Windsor
+Variantes TN:
+  ❌ SIN MATCH Variante 1501144627 | SKU actual: MLA1473393487-189253026305 | Attrs: Negro
+  ❌ SIN MATCH Variante 1501144636 | SKU actual: MLA1473393487-186802548275 | Attrs: Blanco
+Variantes ERP:
+  SKU: (null) | (sin attrs)
+
+OBSERVACIÓN: ES COMBO. 
+
+TN 337710676 | MLA MLA1471245107 | ERP SKU: PAV-0006
+Nombre: Espejo Bayu Decorativo Moderno Rectangular 180x60 Hierro
+Variantes TN:
+  ❌ SIN MATCH Variante 1501143545 | SKU actual: MLA1471245107-182752981894 | Attrs: Negro
+  ❌ SIN MATCH Variante 1501143556 | SKU actual: MLA1471245107-182752981896 | Attrs: Blanco
+Variantes ERP:
+  SKU: pve-0001 | Medidas:90x180cm | Modelo:Bali (Marco Negro)
+  SKU: pve-0002 | Medidas:180x60 Hierro | Modelo:Bayu (M Negro)
+  SKU: pve-0004 | Medidas:180x60 Hierro | Modelo:Bayu(M Blanco)
+
+MODIFICACIONES REALIZADAS: SE AGREGÓ LA VARIACIÓN MEDIDA Y SE APLICARON LOS SKU CORRESPONDIENTES.
+
+TN 337710102 | MLA MLA1468608637 | ERP SKU: K1191, PME-0015
+Nombre: Juego Comedor Eames Mesa Redonda 90cm + 4 Sillas Tulip
+Variantes TN:
+  ✓ Variante 1501141364 | SKU actual: MLA1468608637-186539275573 | Attrs: Blanco / Tulip
+  ❌ SIN MATCH Variante 1501141376 | SKU actual: MLA1468608637-186539275575 | Attrs: Negro / Tulip
+Variantes ERP:
+  SKU: K1191/B | Color:Blanco | Color de la estructura:Madera
+  SKU: K1191/N | Color:Negra | Color de la estructura:Madera
+
+OBSERVACIÓN: ES COMBO. 
+
+TN 337709702 | MLA MLA1463782767 | ERP SKU: PSV-0010
+Nombre: Silla Comedor Pradesh Vintage Con Asiento Rattan Pack 2 Unid
+Variantes TN:
+  ✓ Variante 1501139816 | SKU actual: MLA1463782767-182391417240 | Attrs: Natural / Kraft / Natural
+  ✓ Variante 1501139818 | SKU actual: MLA1463782767-182391417238 | Attrs: Natural / Natural
+  ✓ Variante 1501139824 | SKU actual: MLA1463782767-182391417242 | Attrs: Negro / Natural
+  ❌ SIN MATCH Variante 1501139827 | SKU actual: MLA1463782767-192699794329 | Attrs: Walnut / Natural Rattan
+Variantes ERP:
+  SKU: PV-0001 | Color de la estructura de la silla:Natural | Color del asiento:Natural
+  SKU: PV-0002 | Color de la estructura de la silla:Negro | Color del asiento:Natural
+  SKU: PV-0003 | Color del asiento:Natural | Color de la estructura de la silla:Natural / Kraft
+
+OBSERVACIÓN: ES COMBO
+
+TN 337708429 | MLA MLA1455466885 | ERP SKU: PME-0012, PSO-0013
+Nombre: Juego Comedor Mesa Moncloa 200 + 4 Sillas Eames Pvc Nordicas
+Variantes TN:
+  ❌ SIN MATCH Variante 1501133581 | SKU actual: MLA1455466885-185517421659 | Attrs: Blanco / Liso
+  ✓ Variante 1501133592 | SKU actual: MLA1455466885-185540369611 | Attrs: Negro / Liso
+Variantes ERP:
+  SKU: 0002049 | Color de las patas:Símil madera | Color de la tapa:Vidrio
+  SKU: 0002048 | Color de las patas:Negro | Color de la tapa:Vidrio
+
+OBSERVACIÓN: ES COMBO
+
+TN 337708354 | MLA MLA1455449973 | ERP SKU: PME-0013, PSO-0013
+Nombre: Juego Comedor Mesa Moncloa 180 + 4 Sillas Eames Pvc Nordicas
+Variantes TN:
+  ❌ SIN MATCH Variante 1501133156 | SKU actual: MLA1455449973-181939911614 | Attrs: Blanco / Liso
+  ✓ Variante 1501133169 | SKU actual: MLA1455449973-185540317833 | Attrs: Negro / Liso
+Variantes ERP:
+  SKU: 0002050 | Color de las patas:Símil madera | Color de la tapa:Vidrio
+  SKU: Momcloa | Color de las patas:Negro | Color de la tapa:Vidrio
+
+OBSERVACIÓN: ES COMBO
+
+TN 337708272 | MLA MLA1455128697 | ERP SKU: PME-0012, PSO-0014
+Nombre: Juego Comedor Mesa Moncloa 200cm + 4 Sillas Milan Pvc
+Variantes TN:
+  ❌ SIN MATCH Variante 1501132523 | SKU actual: MLA1455128697-181919531590 | Attrs: Blanco / LISA
+  ✓ Variante 1501132536 | SKU actual: MLA1455128697-185468310411 | Attrs: Negro / Liso
+Variantes ERP:
+  SKU: 0002049 | Color de las patas:Símil madera | Color de la tapa:Vidrio
+  SKU: 0002048 | Color de las patas:Negro | Color de la tapa:Vidrio
+
+OBSERVACIÓN: ES COMBO
+
+TN 337727515 | MLA MLA1934397718 | ERP SKU: PME-0013, PSO-0014
+Nombre: Juego Comedor Mesa Moncloa 180cm + 4 Sillas Milan Pvc
+Variantes TN:
+  ❌ SIN MATCH Variante 1501225382 | SKU actual: MLA1934397718-181919441476 | Attrs: Blanco / LISA
+  ✓ Variante 1501225396 | SKU actual: MLA1934397718-185468856091 | Attrs: Negro / Liso
+Variantes ERP:
+  SKU: 0002050 | Color de las patas:Símil madera | Color de la tapa:Vidrio
+  SKU: Momcloa | Color de las patas:Negro | Color de la tapa:Vidrio
+
+OBSERVACIÓN: ES COMBO
+
+TN 337708194 | MLA MLA1455115093 | ERP SKU: PSO-0014
+Nombre: Silla Comedor Plastica Milan Apilable Pack 2
+Variantes TN:
+  ❌ SIN MATCH Variante 1501132107 | SKU actual: MLA1455115093-185463715479 | Attrs: Blanca / Blanco / PVC
+  ❌ SIN MATCH Variante 1501132114 | SKU actual: MLA1455115093-185463715481 | Attrs: Negro / Negro / PVC
+Variantes ERP:
+  SKU: 000240 | Color:Blanco | Color de las patas:Madera
+  SKU: SO-0035 | Color:Negro | Color de las patas:Madera
+
+OBSERVACIÓN: ES COMBO
+
+TN 337726936 | MLA MLA1929741546 | ERP SKU: PME-0015, PSO-0014
+Nombre: Juego Comedor Mesa Redonda Linea Eames + 4 Sillas Milan
+Variantes TN:
+  ❌ SIN MATCH Variante 1501222736 | SKU actual: MLA1929741546-187013026083 | Attrs: Negro / Mesa Blanca
+  ✓ Variante 1501222744 | SKU actual: MLA1929741546-185323153121 | Attrs: Blanco / Liso
+Variantes ERP:
+  SKU: (null) | Color de la tapa:Blanco | Color de las patas:Marrón claro
+
+OBSERVACIÓN: ES COMBO
+
+TN 337726437 | MLA MLA1916135238 | ERP SKU: RT192/LNT, PCC-0001
+Nombre: Juego Comedor Mesa Lounna 180cm + 6 Sillas Veneta Importada
+Variantes TN:
+  ✓ Variante 1501220157 | SKU actual: MLA1916135238-181752166030 | Attrs: Negro / Liso
+  ❌ SIN MATCH Variante 1501220171 | SKU actual: MLA1916135238-186321292923 | Attrs: Marrón / Liso
+Variantes ERP:
+  SKU: RT-192L/NT | Color de la tapa:Vidrio | Color de las patas:Haya
+  SKU: 000255 | Color de las patas:Blanco | Color de la tapa:Vidrio
+  SKU: 000256 | Color de las patas:Negro | Color de la tapa:Transparente
+
+OBSERVACIÓN: ES COMBO
+
+TN 337726149 | MLA MLA1911215244 | ERP SKU: dt-2216-1, PSO-0011
+Nombre: Juego Comedor Mesa Lounna 160cm + 4 Sillas Master Pvc
+Variantes TN:
+  ❌ SIN MATCH Variante 1501218724 | SKU actual: MLA1911215244-186220101723 | Attrs: Blanco / pvc
+  ❌ SIN MATCH Variante 1501218730 | SKU actual: MLA1911215244-184921647025 | Attrs: Negro / pvc
+Variantes ERP:
+  SKU: dt-2216-1/M | Color de las patas:Madera | Color de la tapa:Vidrio
+  SKU: dt-2216-1/N | Color de las patas:Negra | Color de la tapa:Vidrio
+
+OBSERVACIÓN: ES COMBO
+
+TN 337725991 | MLA MLA1898205722 | ERP SKU: PSO-0011
+Nombre: Silla Diseño Master Plástica Apilable Pack 2 Unid
+Variantes TN:
+  ✓ Variante 1501218044 | SKU actual: MLA1898205722-184598276793 | Attrs: Blanco
+  ❌ SIN MATCH Variante 1501218049 | SKU actual: MLA1898205722-184598276795 | Attrs: Negra
+Variantes ERP:
+  SKU: 0002047 | Color:Negro | Color de la estructura:Negro
+  SKU: SO-0027 | Color:Blanco | Color de la estructura:Blanco
+
+OBSERVACIÓN: ES COMBO
+
+TN 337725729 | MLA MLA1882840946 | ERP SKU: PME-0012, rt131
+Nombre: Juego Comedor Mesa Moncloa 200cm + 4 Sillas Viena Paris
+Variantes TN:
+  ✓ Variante 1501217038 | SKU actual: MLA1882840946-181367116828 | Attrs: Negro / Cuero sintetico
+  ❌ SIN MATCH Variante 1501217046 | SKU actual: MLA1882840946-181367116826 | Attrs: Blanco / Cuero sintetico
+Variantes ERP:
+  SKU: 0002049 | Color de las patas:Símil madera | Color de la tapa:Vidrio
+  SKU: 0002048 | Color de las patas:Negro | Color de la tapa:Vidrio
+
+OBSERVACIÓN: ES COMBO
+
+TN 337707244 | MLA MLA1442867691 | ERP SKU: PME-0013, RT780
+Nombre: Juego Comedor Mesa Moncloa 180cm + 4 Sillas Becca
+Variantes TN:
+  ❌ SIN MATCH Variante 1501125434 | SKU actual: MLA1442867691-184221549353 | Attrs: Blanco / Cuero sintetico
+  ❌ SIN MATCH Variante 1501125444 | SKU actual: MLA1442867691-184221549351 | Attrs: Beige / Cuero sintetico
+  ✓ Variante 1501125451 | SKU actual: MLA1442867691-184221549355 | Attrs: Negro / Cuero sintetico
+Variantes ERP:
+  SKU: 0002050 | Color de las patas:Símil madera | Color de la tapa:Vidrio
+  SKU: Momcloa | Color de las patas:Negro | Color de la tapa:Vidrio
+
+OBSERVACIÓN: ES COMBO
+
+TN 337704959 | MLA MLA1416859881 | ERP SKU: PSV-0023
+Nombre: Silla Batur Importada Madera De Teka Y Esterilla
+Variantes TN:
+  ❌ SIN MATCH Variante 1501113309 | SKU actual: MLA1416859881-182196124671 | Attrs: Natural / Natural / Esterilla
+  ❌ SIN MATCH Variante 1501113320 | SKU actual: MLA1416859881-182196124673 | Attrs: Negra / Natural / Esterilla
+Variantes ERP:
+  SKU: 0041 | Color de la estructura de la silla:Negra
+  SKU: 0040 | Color de la estructura de la silla:Natural
+
+OBSERVACIÓN: ES COMBO
+
+TN 337722325 | MLA MLA1696205304 | ERP SKU: PDSDA-00006
+Nombre: Silla De Escritorio Creta Ejecutivo Ergonómica Outlet
+Variantes TN:
+  ✓ Variante 1501200552 | SKU actual: MLA1696205304-182005218297 | Attrs: Negro / Cuero sintético
+  ❌ SIN MATCH Variante 1501200568 | SKU actual: MLA1696205304-187984395219 | Attrs: Blanco / Cuero sintético
+Variantes ERP:
+  SKU: DA-00018 | Color:Negro
+  SKU: DA-00018 | Color:Negro
+
+MODIFICACIONES REALIZADAS: 
+
+SKU ANTERIOR: MLA1696205304-182005218297 | Attrs: Negro / Cuero sintético | SKU NUEVO: DA-00018
+SKU ANTERIOR: MLA1696205304-187984395219 | Attrs: Blanco / Cuero sintético | SKU NUEVO: 000215
+
+TN 337702370 | MLA MLA1374605851 | ERP SKU: PSC-0002
+Nombre: Silla Comedor Thea Tapizada Pana Nórdica Pack 4
+Variantes TN:
+  ✓ Variante 1501101029 | SKU actual: MLA1374605851-178770957287 | Attrs: Marrón claro / Gris oscuro
+  ✓ Variante 1501101035 | SKU actual: MLA1374605851-178770957293 | Attrs: Marrón claro / Taupe
+  ❌ SIN MATCH Variante 1501101037 | SKU actual: MLA1374605851-181949473649 | Attrs: Marrón claro / Azul aero
+  ❌ SIN MATCH Variante 1501101043 | SKU actual: MLA1374605851-178770957289 | Attrs: Marrón claro / Gris claro
+  ❌ SIN MATCH Variante 1501101046 | SKU actual: MLA1374605851-179577232071 | Attrs: Marrón claro / Rosa
+  ❌ SIN MATCH Variante 1501101052 | SKU actual: MLA1374605851-178770957291 | Attrs: Marrón claro / Beige
+Variantes ERP:
+  SKU: SC-0003 | Color del asiento:Gris oscuro | Color de la estructura de la silla:Marrón claro | Diseño de la tela:Pana
+  SKU: SC-0004 | Color de la estructura de la silla:Marrón claro | Diseño de la tela:Pana | Color del asiento:Taupe
+
+OBSERVACIÓN: ES COMBO. 
+
+TN 337701245 | MLA MLA1263256648 | ERP SKU: 681a53cf-ba44-4952-af65-4f43b38f37ff
+Nombre: Estrella Decorativa Origenes Mimbre Pack 2 Unid
+Variantes TN:
+  ✓ Variante 1501097700 | SKU actual: MLA1263256648-186528726147 | Attrs: Tostado
+  ❌ SIN MATCH Variante 1501097709 | SKU actual: MLA1263256648-179940542183 | Attrs: Marrón
+Variantes ERP:
+  SKU: 681a53cf-ab18-473e-a47d-4b4cb38f37ff | Color:Tostado
+  SKU: 681a53cf-5fd0-4c28-afc7-4d43b38f37ff | Color:Marron
+
+OBSERVACIÓN: ES COMBO. 
+
+TN 337767784 | MLA MLA1133267178 | ERP SKU: Outlet 15
+Nombre: Asiento Silla Eames Repuesto Outlet - Solo Asiento
+Variantes TN:
+  ❌ SIN MATCH Variante 1501391043 | SKU actual: MLA1133267178-174429619847 | Attrs: Turquesa
+  ❌ SIN MATCH Variante 1501391050 | SKU actual: MLA1133267178-174429619843 | Attrs: Acqua
+  ❌ SIN MATCH Variante 1501391060 | SKU actual: MLA1133267178-186836405015 | Attrs: Celeste
+  ❌ SIN MATCH Variante 1501391065 | SKU actual: MLA1133267178-174429619846 | Attrs: Azul marino
+  ❌ SIN MATCH Variante 1501391072 | SKU actual: MLA1133267178-174429619844 | Attrs: Negro
+  ❌ SIN MATCH Variante 1501391078 | SKU actual: MLA1133267178-174429619842 | Attrs: Fucsia
+  ✓ Variante 1501391085 | SKU actual: MLA1133267178-174429619845 | Attrs: Beige
+  ✓ Variante 1501391090 | SKU actual: MLA1133267178-174434039693 | Attrs: Rosa
+  ✓ Variante 1501391096 | SKU actual: MLA1133267178-175600011208 | Attrs: Verde tomillo
+  ✓ Variante 1501391099 | SKU actual: MLA1133267178-176347217675 | Attrs: Rojo
+  ✓ Variante 1501391105 | SKU actual: MLA1133267178-176350239829 | Attrs: Gris oscuro
+  ✓ Variante 1501391111 | SKU actual: MLA1133267178-182618918969 | Attrs: Verde Oliva
+Variantes ERP:
+  SKU: 680a99b8-e210-44c6-9f97-4293b38f37ff | Color de la estructura de la silla:Beige
+  SKU: 680a99b8-182c-4ece-b8e2-4c6bb38f37ff | Color de la estructura de la silla:Rosa
+  SKU: 680a99b8-2614-483c-802b-4d31b38f37ff | Color de la estructura de la silla:Verde tomillo
+  SKU: 680a99b8-851c-4888-9300-4781b38f37ff | Color de la estructura de la silla:Rojo
+  SKU: 680a99b8-cc50-4a8d-b22b-4598b38f37ff | Color de la estructura de la silla:Gris oscuro
+  SKU: 680a99b8-b7c8-4dc4-946c-4e98b38f37ff | Color de la estructura de la silla:Verde Oliva
+  SKU: 680a99b8-e210-44c6-9f97-4293b38f37ff | Color de la estructura de la silla:Beige
+  SKU: 680a99b8-182c-4ece-b8e2-4c6bb38f37ff | Color de la estructura de la silla:Rosa
+  SKU: 680a99b8-2614-483c-802b-4d31b38f37ff | Color de la estructura de la silla:Verde tomillo
+  SKU: 680a99b8-851c-4888-9300-4781b38f37ff | Color de la estructura de la silla:Rojo
+  SKU: 680a99b8-cc50-4a8d-b22b-4598b38f37ff | Color de la estructura de la silla:Gris oscuro
+  SKU: 680a99b8-b7c8-4dc4-946c-4e98b38f37ff | Color de la estructura de la silla:Verde Oliva
+  SKU: 680a99b8-4454-4321-9b10-4a42b38f37ff | Color de la estructura de la silla:Gris
+
+OBSERVACIÓN: NO EXISTE EN ECOM. QUIZAS SEA UNA OFERTA O ALGO ASI. 
+
+TN 337698788 | MLA MLA1131697066 | ERP SKU: pv-0002
+Nombre: Canasto Leñero Cesto Organzador Mimbre Jeronimo Cónico
+Variantes TN:
+  ❌ SIN MATCH Variante 1501089626 | SKU actual: MLA1131697066-174397272890 | Attrs: Marrón
+  ❌ SIN MATCH Variante 1501089631 | SKU actual: MLA1131697066-176419927928 | Attrs: Natural
+Variantes ERP:
+  SKU: pv-0004 | Modelo:Jeronimo | Medidas:50 | Diseño:Colores
+  SKU: 0000470 | Modelo:Jeronimo | Diseño:Ovalado | Medidas:49
+  SKU: 000259 | Modelo:Brisa | Diseño:Cesto Mimbre Calado | Medidas:S 22x22
+  SKU: PV-0001 | Modelo:Brisa | Diseño:Cesto Mimbre Calado | Medidas:M 27 cm x 27 cm
+  SKU: pv-0002 | Modelo:Jeronimo | Diseño:Conico | Medidas:60
+  SKU: pv-0003 | Modelo:Jeronimo | Diseño:Conico | Medidas:50
+  SKU: pv-0006 | Modelo:Simon | Diseño:Cesto Organzador | Medidas:20cm
+  SKU: pv-0007 | Modelo:Jeronimo | Diseño:Conico | Medidas:45cm
+  SKU: PV-0008 | Modelo:Jeronimo | Diseño:Ovalado | Medidas:70cm
+  SKU: PV-0009 | Modelo:Felipe | Diseño:Macetero | Medidas:16CM
+  SKU: pv-0010 | Modelo:Felipe | Diseño:Macetero | Medidas:19cm
+  SKU: pv-0011 | Modelo:Felipe | Diseño:Macetero | Medidas:26cm
+  SKU: PV-0012 | Modelo:Jeronimo | Diseño:Ovalado | Medidas:M 58 cm
+
+OBSERVACIÓN: NO EXISTE EN ECOM COMO PRODUCTO. 
+
+TN 337697743 | MLA MLA1103123671 | ERP SKU: 681e3f97-4c70-488f-af89-4625b38f37ff
+Nombre: Banco Nórdico Indi Pie De Cama / Recibidor Madera Tratada
+Variantes TN:
+  ❌ SIN MATCH Variante 1501085056 | SKU actual: MLA1103123671-174607305023 | Attrs: Satinado / Cristal
+  ✓ Variante 1501085063 | SKU actual: MLA1103123671-174607305022 | Attrs: Satinado / Blanco
+Variantes ERP:
+  SKU: 681e3f97-c290-4c0d-93c3-4ea8b38f37ff | Color:Madera
+  SKU: 681e3f97-1208-4aab-9a82-47e1b38f37ff | Color:Blanco
+
+MODIFICACIONES REALIZADAS: 
+
+  SKU ANTERIOR: MLA1103123671-174607305023 | Attrs: Satinado / Cristal | SKU NUEVO: 681e3f97-c290-4c0d-93c3-4ea8b38f37ff
+  SKU ANTERIOR: MLA1103123671-174607305022 | Attrs: Satinado / Blanco | SKU NUEVO: 681e3f97-1208-4aab-9a82-47e1b38f37ff
+
+TN 337758801 | MLA MLA838525111 | ERP SKU: 681a4fa4-943c-4432-b2b6-46acb38f37ff
+Nombre: Funda Almohadon Super Oferta - Solo Funda Con Cierre 30x30cm
+Variantes TN:
+  ✓ Variante 1501351699 | SKU actual: MLA838525111-173702957163 | Attrs: Canela
+  ✓ Variante 1501351719 | SKU actual: MLA838525111-50466019698 | Attrs: Rayas
+  ✓ Variante 1501351729 | SKU actual: MLA838525111-50466019696 | Attrs: Estrellas
+  ✓ Variante 1501351740 | SKU actual: MLA838525111-50466019704 | Attrs: Infantil
+  ✓ Variante 1501351750 | SKU actual: MLA838525111-50466019700 | Attrs: Lunares
+  ❌ SIN MATCH Variante 1501351757 | SKU actual: MLA838525111-173702957164 | Attrs: Líneas negras
+  ✓ Variante 1501351763 | SKU actual: MLA838525111-173702957165 | Attrs: Bosque
+Variantes ERP:
+  SKU: 681a4fa4-3348-4848-b684-4264b38f37ff | Nombre del diseño:Estrellas
+  SKU: 681a4fa4-e6f8-4f81-b15e-4ef7b38f37ff | Nombre del diseño:Rayas
+  SKU: 681a4fa4-39e0-4543-9d4b-47d9b38f37ff | Nombre del diseño:Infantil
+  SKU: 681a4fa4-a7dc-432d-a5e5-4c76b38f37ff | Nombre del diseño:Bosque
+  SKU: 681a4fa4-1f28-4f00-ab76-4160b38f37ff | Nombre del diseño:lineas negras
+  SKU: 681a4fa4-29c8-4741-8a18-4573b38f37ff | Nombre del diseño:Canela
+  SKU: 681a4fa4-19ac-4032-8aea-4a0ab38f37ff | Nombre del diseño:Lunares
+
+MODIFICACIONES REALIZADAS: 
+
+  SE ACTUALIZARON TODOS LOS SKU A LO QUE ERA OBVIO. EL UNICO Q NO TENIA MATCH ERA Líneas negras que se correspondia con lineas negras
+
+
+TN 337757216 | MLA MLA820631710 | ERP SKU: PEJ-0010
+Nombre: Juego Jardin Living Simil Rattan New Meissa Exterior
+Variantes TN:
+  ✓ Variante 1501345931 | SKU actual: MLA820631710-78807172949 | Attrs: Gris
+  ❌ SIN MATCH Variante 1501345936 | SKU actual: MLA820631710-173853818390 | Attrs: Marrón
+Variantes ERP:
+  SKU: (null) | Color de la estructura:Gris
+  SKU: (null) | Color de la estructura:Marron
+
+MODIFICACIONES REALIZADAS: 
+
+  SKU ANTERIOR: MLA820631710-78807172949 | Attrs: Gris | SKU NUEVO: PEJ-0010/G (MODIFICADO TAMBIEN EN ERP)
+  SKU ANTERIOR: MLA820631710-173853818390 | Attrs: Marrón | SKU NUEVO: PEJ-0010/M (MODIFICADO TAMBIEN EN ERP)
+
+TN 337752387 | MLA MLA694426562 | ERP SKU: YC-04F, YC-10C
+Nombre: Sillon Poltrona Volgar Nordica + Mecedora Tapizado En Lino
+Variantes TN:
+  ✓ Variante 1501327979 | SKU actual: MLA694426562-188043756627 | Attrs: Gris claro
+  ✓ Variante 1501327991 | SKU actual: MLA694426562-188043756629 | Attrs: Gris oscuro
+  ❌ SIN MATCH Variante 1501327998 | SKU actual: MLA694426562-38597453999 | Attrs: Chocolate
+  ✓ Variante 1501328004 | SKU actual: MLA694426562-78603972993 | Attrs: Beige
+Variantes ERP:
+  SKU: YC-04F/BE | Color de la estructura:Beige
+  SKU: YC-04F/GO | Color de la estructura:Gris Oscuro
+  SKU: YC-04F/BE | Color de la estructura:Beige
+  SKU: YC-04F/GO | Color de la estructura:Gris Oscuro
+  SKU: YC-04F/GC | Color de la estructura:Gris Claro
+
+OBSERVACIÓN: ES COMBO. 
+

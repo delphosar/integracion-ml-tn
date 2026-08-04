@@ -1,0 +1,1874 @@
+[
+  {
+    "tipo": "grupo-sin-keeper",
+    "erpSku": "DC608-C",
+    "productos": [
+      {
+        "tnProductId": "337768460",
+        "mlaId": "MLA1933989294",
+        "nombre": "Silla De Comedor Sybil Pana Base Cromo Pack 2",
+        "variantes": [
+          {
+            "id": 1501394440,
+            "sku_actual": "MLA1933989294-185449554875",
+            "attrs": "Cromo / Toupe / Pana"
+          },
+          {
+            "id": 1501394448,
+            "sku_actual": "MLA1933989294-185449554871",
+            "attrs": "Cromo / Gris oscuro / Pana"
+          },
+          {
+            "id": 1501394455,
+            "sku_actual": "MLA1933989294-185449554873",
+            "attrs": "Cromo / Beige / Pana"
+          },
+          {
+            "id": 1501394460,
+            "sku_actual": "MLA1933989294-185449554869",
+            "attrs": "Cromo / Gris claro / Pana"
+          }
+        ]
+      },
+      {
+        "tnProductId": "337701717",
+        "mlaId": "MLA1313761591",
+        "nombre": "Silla De Comedor Sybil Pana Base Cromo Pack 4",
+        "variantes": [
+          {
+            "id": 1501099206,
+            "sku_actual": "MLA1313761591-176367210898",
+            "attrs": "Cromo / Toupe / Pana"
+          },
+          {
+            "id": 1501099212,
+            "sku_actual": "MLA1313761591-176367210895",
+            "attrs": "Cromo / Gris claro / Pana"
+          },
+          {
+            "id": 1501099214,
+            "sku_actual": "MLA1313761591-176367210896",
+            "attrs": "Cromo / Gris / Pana"
+          },
+          {
+            "id": 1501099217,
+            "sku_actual": "MLA1313761591-176367210897",
+            "attrs": "Cromo / Beige / Pana"
+          }
+        ]
+      }
+    ],
+    "erpVariantes": [
+      {
+        "id": "16570706",
+        "sku": "DC608C/GC",
+        "attrs": "Color:Gris Claro | Color de las patas:Cromo"
+      },
+      {
+        "id": "18536315",
+        "sku": "DC608C/TA",
+        "attrs": "Color de las patas:cromada | Color:taupe"
+      },
+      {
+        "id": "20786891",
+        "sku": "DC608C/GO",
+        "attrs": "Color:Gris oscuro | Color de las patas:cromada"
+      }
+    ]
+  },
+  {
+    "tipo": "grupo-sin-keeper",
+    "erpSku": "RT192/LNT, RT780",
+    "productos": [
+      {
+        "tnProductId": "337707796",
+        "mlaId": "MLA1451106161",
+        "nombre": "Juego Comedor Mesa Lounna 180cm + 4 Sillas Becca Importada",
+        "variantes": [
+          {
+            "id": 1501129277,
+            "sku_actual": "MLA1451106161-189572734999",
+            "attrs": "Blanco / Liso"
+          },
+          {
+            "id": 1501129290,
+            "sku_actual": "MLA1451106161-181710116542",
+            "attrs": "Negro / Liso"
+          },
+          {
+            "id": 1501129300,
+            "sku_actual": "MLA1451106161-189572735001",
+            "attrs": "Gris Claro / chenille"
+          },
+          {
+            "id": 1501129306,
+            "sku_actual": "MLA1451106161-189572735003",
+            "attrs": "Gris oscuro / chenille"
+          }
+        ]
+      },
+      {
+        "tnProductId": "337707922",
+        "mlaId": "MLA1451169187",
+        "nombre": "Juego Comedor Mesa Lounna 180cm + 6 Sillas Becca Importada",
+        "variantes": [
+          {
+            "id": 1501130343,
+            "sku_actual": "MLA1451169187-189569550599",
+            "attrs": "Blanco / Liso"
+          },
+          {
+            "id": 1501130358,
+            "sku_actual": "MLA1451169187-184976891037",
+            "attrs": "Negro / Liso"
+          },
+          {
+            "id": 1501130369,
+            "sku_actual": "MLA1451169187-189573761877",
+            "attrs": "Gris Claro / chenille"
+          },
+          {
+            "id": 1501130379,
+            "sku_actual": "MLA1451169187-189573761879",
+            "attrs": "Gris oscuro / chenille"
+          }
+        ]
+      }
+    ],
+    "erpVariantes": [
+      {
+        "id": "16245601",
+        "sku": "RT-192L/NT",
+        "attrs": "Color de la tapa:Vidrio | Color de las patas:Haya"
+      },
+      {
+        "id": "16245602",
+        "sku": "000255",
+        "attrs": "Color de las patas:Blanco | Color de la tapa:Vidrio"
+      },
+      {
+        "id": "16245603",
+        "sku": "000256",
+        "attrs": "Color de las patas:Negro | Color de la tapa:Transparente"
+      }
+    ]
+  },
+  {
+    "tipo": "grupo-sin-keeper",
+    "erpSku": "21313",
+    "productos": [
+      {
+        "tnProductId": "337698442",
+        "mlaId": "MLA1119830074",
+        "nombre": "Silla Beetle Pana Base Negra Pack 4 C",
+        "variantes": [
+          {
+            "id": 1501088341,
+            "sku_actual": "MLA1119830074-174108101914",
+            "attrs": "Metal/Negro / Toupe / Pana"
+          },
+          {
+            "id": 1501088346,
+            "sku_actual": "MLA1119830074-174108101915",
+            "attrs": "Metal/Negro / Gris oscuro / Pana"
+          },
+          {
+            "id": 1501088352,
+            "sku_actual": "MLA1119830074-174108101916",
+            "attrs": "Metal/Negro / Verde / Pana"
+          },
+          {
+            "id": 1501088357,
+            "sku_actual": "MLA1119830074-174108101917",
+            "attrs": "Metal/Negro / Gris claro / Pana"
+          },
+          {
+            "id": 1501088362,
+            "sku_actual": "MLA1119830074-194733738217",
+            "attrs": "Metal Negro / Beige / Pana"
+          },
+          {
+            "id": 1501088365,
+            "sku_actual": "MLA1119830074-194733738219",
+            "attrs": "Metal Negro / Rosa / Pana"
+          }
+        ]
+      },
+      {
+        "tnProductId": "337698253",
+        "mlaId": "MLA1119804357",
+        "nombre": "Silla Beetle Pana Base Negra Pack 4",
+        "variantes": [
+          {
+            "id": 1501087663,
+            "sku_actual": "MLA1119804357-181963176429",
+            "attrs": "Metal/Negro / Azul / Pana"
+          },
+          {
+            "id": 1501087671,
+            "sku_actual": "MLA1119804357-174108182364",
+            "attrs": "Metal/Negro / Gris oscuro / Pana"
+          },
+          {
+            "id": 1501087675,
+            "sku_actual": "MLA1119804357-174108182365",
+            "attrs": "Metal/Negro / Verde / Pana"
+          },
+          {
+            "id": 1501087681,
+            "sku_actual": "MLA1119804357-174108182366",
+            "attrs": "Metal/Negro / Gris claro / Pana"
+          },
+          {
+            "id": 1501087685,
+            "sku_actual": "MLA1119804357-175638311034",
+            "attrs": "Metal/Negro / Beige / Pana"
+          },
+          {
+            "id": 1501087690,
+            "sku_actual": "MLA1119804357-174108182363",
+            "attrs": "Metal/Negro / Toupe / Pana"
+          },
+          {
+            "id": 1501087696,
+            "sku_actual": "MLA1119804357-181963176431",
+            "attrs": "Metal/Negro / Toupe Claro / Pana"
+          },
+          {
+            "id": 1501087702,
+            "sku_actual": "MLA1119804357-194592511085",
+            "attrs": "Metal Negro / Rosa / Pana"
+          }
+        ]
+      }
+    ],
+    "erpVariantes": [
+      {
+        "id": "36559102",
+        "sku": "21313",
+        "attrs": "Color de la estructura de la silla:Metal/Negro | Color del asiento:Rosa"
+      },
+      {
+        "id": "16372221",
+        "sku": null,
+        "attrs": "Color de la estructura de la silla:Metal/Negro | Color del asiento:Azul"
+      },
+      {
+        "id": "16372222",
+        "sku": null,
+        "attrs": "Color de la estructura de la silla:Metal/Negro | Color del asiento:Gris oscuro"
+      },
+      {
+        "id": "16372223",
+        "sku": null,
+        "attrs": "Color de la estructura de la silla:Metal/Negro | Color del asiento:Verde"
+      },
+      {
+        "id": "16372224",
+        "sku": null,
+        "attrs": "Color de la estructura de la silla:Metal/Negro | Color del asiento:Gris claro"
+      },
+      {
+        "id": "16372225",
+        "sku": null,
+        "attrs": "Color de la estructura de la silla:Metal/Negro | Color del asiento:Beige"
+      },
+      {
+        "id": "16372226",
+        "sku": null,
+        "attrs": "Color de la estructura de la silla:Metal/Negro | Color del asiento:Toupe"
+      },
+      {
+        "id": "16372227",
+        "sku": null,
+        "attrs": "Color de la estructura de la silla:Metal/Negro | Color del asiento:Toupe Claro"
+      }
+    ]
+  },
+  {
+    "tipo": "grupo-sin-keeper",
+    "erpSku": "YC-14A",
+    "productos": [
+      {
+        "tnProductId": "337762900",
+        "mlaId": "MLA912114439",
+        "nombre": "Mesa De Luz Nordica Mesa Lateral Nuuk C",
+        "variantes": [
+          {
+            "id": 1501368053,
+            "sku_actual": "MLA912114439-78901678504",
+            "attrs": "Semimate / Blanco"
+          },
+          {
+            "id": 1501368061,
+            "sku_actual": "MLA912114439-78901678487",
+            "attrs": "Semimate / Marrón claro"
+          },
+          {
+            "id": 1501368065,
+            "sku_actual": "MLA912114439-78901678491",
+            "attrs": "Semimate / Toda Blanca"
+          },
+          {
+            "id": 1501368070,
+            "sku_actual": "MLA912114439-78901678495",
+            "attrs": "Semimate / TODA NEGRA"
+          },
+          {
+            "id": 1501368078,
+            "sku_actual": "MLA912114439-78901678499",
+            "attrs": "Semimate / Walnut"
+          }
+        ]
+      },
+      {
+        "tnProductId": "337762154",
+        "mlaId": "MLA905071655",
+        "nombre": "Mesa De Luz Nordica Mesa Lateral Nuuk",
+        "variantes": [
+          {
+            "id": 1501364389,
+            "sku_actual": "MLA905071655-90023396278",
+            "attrs": "haya- blanco"
+          },
+          {
+            "id": 1501364400,
+            "sku_actual": "MLA905071655-78898019288",
+            "attrs": "Blanco"
+          },
+          {
+            "id": 1501364409,
+            "sku_actual": "MLA905071655-78898019296",
+            "attrs": "Negro"
+          },
+          {
+            "id": 1501364416,
+            "sku_actual": "MLA905071655-78898019304",
+            "attrs": "Walnut"
+          },
+          {
+            "id": 1501364424,
+            "sku_actual": "MLA905071655-78898019276",
+            "attrs": "Natural"
+          }
+        ]
+      },
+      {
+        "tnProductId": "337750004",
+        "mlaId": "MLA640260557",
+        "nombre": "Mesa De Luz Linea Nórdica Mesa De Arrime Nuuk",
+        "variantes": [
+          {
+            "id": 1501320110,
+            "sku_actual": "MLA640260557-187489408683",
+            "attrs": "Semimate / Blanco/Haya"
+          },
+          {
+            "id": 1501320119,
+            "sku_actual": "MLA640260557-79551062466",
+            "attrs": "Semimate / Toda Blanca"
+          },
+          {
+            "id": 1501320125,
+            "sku_actual": "MLA640260557-32987282127",
+            "attrs": "Semimate / Marrón claro"
+          },
+          {
+            "id": 1501320131,
+            "sku_actual": "MLA640260557-32987282123",
+            "attrs": "Semimate / Negro"
+          },
+          {
+            "id": 1501320135,
+            "sku_actual": "MLA640260557-79551062479",
+            "attrs": "Semimate / TODA NEGRA"
+          },
+          {
+            "id": 1501320143,
+            "sku_actual": "MLA640260557-79551062498",
+            "attrs": "Semimate / Walnut"
+          }
+        ]
+      }
+    ],
+    "erpVariantes": [
+      {
+        "id": "16091658",
+        "sku": "YC-14A/BN",
+        "attrs": "Color:Blanco | Color de la estructura:Natural"
+      },
+      {
+        "id": "16091658",
+        "sku": "YC-14A/BN",
+        "attrs": "Color:Blanco | Color de la estructura:Natural"
+      },
+      {
+        "id": "16386781",
+        "sku": "YC-14A/BB",
+        "attrs": "Color:Blanco | Color de la estructura:Blanco"
+      }
+    ]
+  },
+  {
+    "tipo": "grupo-sin-keeper",
+    "erpSku": "PCC-0005",
+    "productos": [
+      {
+        "tnProductId": "337756499",
+        "mlaId": "MLA817195562",
+        "nombre": "Silla Amanda Pack 2 Unid Chenille Y Madera",
+        "variantes": [
+          {
+            "id": 1501343174,
+            "sku_actual": "MLA817195562-173971627074",
+            "attrs": "Gris claro"
+          },
+          {
+            "id": 1501343184,
+            "sku_actual": "MLA817195562-173971627075",
+            "attrs": "Beige"
+          },
+          {
+            "id": 1501343195,
+            "sku_actual": "MLA817195562-44123881266",
+            "attrs": "Gris oscuro"
+          }
+        ]
+      },
+      {
+        "tnProductId": "337756650",
+        "mlaId": "MLA817195571",
+        "nombre": "Silla Amanda Chenille Y Madera Pack 4 Unid",
+        "variantes": [
+          {
+            "id": 1501343820,
+            "sku_actual": "MLA817195571-44123903603",
+            "attrs": "Gris oscuro"
+          },
+          {
+            "id": 1501343827,
+            "sku_actual": "MLA817195571-173971659261",
+            "attrs": "Gris claro"
+          },
+          {
+            "id": 1501343836,
+            "sku_actual": "MLA817195571-173971659262",
+            "attrs": "Beige"
+          }
+        ]
+      },
+      {
+        "tnProductId": "337756382",
+        "mlaId": "MLA817195056",
+        "nombre": "Silla Nordica Amanda Pack 2 Unid Nordicas",
+        "variantes": [
+          {
+            "id": 1501342477,
+            "sku_actual": "MLA817195056-173971652343",
+            "attrs": "Gris claro"
+          },
+          {
+            "id": 1501342485,
+            "sku_actual": "MLA817195056-173971652344",
+            "attrs": "Beige"
+          },
+          {
+            "id": 1501342494,
+            "sku_actual": "MLA817195056-44123662496",
+            "attrs": "Gris oscuro"
+          }
+        ]
+      },
+      {
+        "tnProductId": "337751207",
+        "mlaId": "MLA665554803",
+        "nombre": "Silla Amanda Chenille Pack 4 Unid Nordica Base Madera",
+        "variantes": [
+          {
+            "id": 1501324190,
+            "sku_actual": "MLA665554803-173972333447",
+            "attrs": "Beige / Gris claro / Liso"
+          },
+          {
+            "id": 1501324202,
+            "sku_actual": "MLA665554803-173972333448",
+            "attrs": "Beige / Beige / Liso"
+          },
+          {
+            "id": 1501324209,
+            "sku_actual": "MLA665554803-44122495365",
+            "attrs": "Beige / Gris oscuro / Liso"
+          }
+        ]
+      }
+    ],
+    "erpVariantes": [
+      {
+        "id": "16252477",
+        "sku": "000230",
+        "attrs": "Color:Gris Claro | Color de las patas:Madera | Material del tapizado:Chenille"
+      },
+      {
+        "id": "16252480",
+        "sku": "SC-0026",
+        "attrs": "Color:Gris oscuro | Color de las patas:Símil madera | Material del tapizado:Chenille"
+      }
+    ]
+  },
+  {
+    "tipo": "grupo-sin-keeper",
+    "erpSku": "sombrilla STAMM",
+    "productos": [
+      {
+        "tnProductId": "337756128",
+        "mlaId": "MLA811973696",
+        "nombre": "Sombrilla De Jardín Modelo Stamm Exterior C",
+        "variantes": [
+          {
+            "id": 1501341399,
+            "sku_actual": "MLA811973696-175075192203",
+            "attrs": "Rojo / Lisa"
+          },
+          {
+            "id": 1501341405,
+            "sku_actual": "MLA811973696-175075192204",
+            "attrs": "Beige / Lisa"
+          },
+          {
+            "id": 1501341411,
+            "sku_actual": "MLA811973696-191427133791",
+            "attrs": "Blanco / Lisa"
+          }
+        ]
+      },
+      {
+        "tnProductId": "337752199",
+        "mlaId": "MLA689852902",
+        "nombre": "Sombrilla Para Jardín Stamm Linea Exterior",
+        "variantes": [
+          {
+            "id": 1501327331,
+            "sku_actual": "MLA689852902-175075484865",
+            "attrs": "Rojo"
+          },
+          {
+            "id": 1501327342,
+            "sku_actual": "MLA689852902-175075484866",
+            "attrs": "Natural"
+          },
+          {
+            "id": 1501327349,
+            "sku_actual": "MLA689852902-191104520887",
+            "attrs": "Blanco"
+          }
+        ]
+      }
+    ],
+    "erpVariantes": [
+      {
+        "id": "16329237",
+        "sku": "sombrilla STAMM",
+        "attrs": "Color:ROJO"
+      },
+      {
+        "id": "16329238",
+        "sku": null,
+        "attrs": "Color:Natural"
+      }
+    ]
+  },
+  {
+    "tipo": "grupo-sin-keeper",
+    "erpSku": "YC-10C",
+    "productos": [
+      {
+        "tnProductId": "337754584",
+        "mlaId": "MLA782731135",
+        "nombre": "Sillon Mecedora Poltrona Rocking Volgar Importado Nordico",
+        "variantes": [
+          {
+            "id": 1501335704,
+            "sku_actual": "MLA782731135-187455270935",
+            "attrs": "Gris claro"
+          },
+          {
+            "id": 1501335711,
+            "sku_actual": "MLA782731135-187455270937",
+            "attrs": "Gris oscuro"
+          },
+          {
+            "id": 1501335721,
+            "sku_actual": "MLA782731135-78337565451",
+            "attrs": "Chocolate"
+          },
+          {
+            "id": 1501335731,
+            "sku_actual": "MLA782731135-78337770163",
+            "attrs": "Beige"
+          }
+        ]
+      },
+      {
+        "tnProductId": "337751845",
+        "mlaId": "MLA688001848",
+        "nombre": "Mecedora Sillon Volgar Poltrona Linea Nordica De Lino C",
+        "variantes": [
+          {
+            "id": 1501326193,
+            "sku_actual": "MLA688001848-187454802901",
+            "attrs": "Gris claro"
+          },
+          {
+            "id": 1501326199,
+            "sku_actual": "MLA688001848-187454802903",
+            "attrs": "Gris oscuro"
+          },
+          {
+            "id": 1501326208,
+            "sku_actual": "MLA688001848-78337452148",
+            "attrs": "Chocolate"
+          },
+          {
+            "id": 1501326214,
+            "sku_actual": "MLA688001848-78337452164",
+            "attrs": "Beige"
+          }
+        ]
+      }
+    ],
+    "erpVariantes": [
+      {
+        "id": "16135479",
+        "sku": "YC-10C/MA",
+        "attrs": "Color de la estructura:Natural | Color del tapizado:Marron"
+      },
+      {
+        "id": "16135481",
+        "sku": "YC-10C/BE",
+        "attrs": "Color de la estructura:Natural | Color del tapizado:beige"
+      },
+      {
+        "id": "16135490",
+        "sku": "YC-10C/GO",
+        "attrs": "Color de la estructura:Natural | Color del tapizado:Gris oscuro"
+      },
+      {
+        "id": "16135493",
+        "sku": "YC-10C/GC",
+        "attrs": "Color de la estructura:Natural | Color del tapizado:Gris Claro"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "PME-0008",
+    "mlaId": "MLA2024452076",
+    "tnProductId": "337731078",
+    "nombre": "Mesa Ratona Living Elliot Vidrio Cromo Patas Madera 110x60 C",
+    "variantesTN": [
+      {
+        "id": 1501240362,
+        "sku_actual": "MLA2024452076-187116201685",
+        "attrs": "Haya",
+        "sinMatch": true
+      },
+      {
+        "id": 1501240367,
+        "sku_actual": "MLA2024452076-187116201687",
+        "attrs": "Blanco",
+        "sinMatch": false
+      },
+      {
+        "id": 1501240370,
+        "sku_actual": "MLA2024452076-187116201689",
+        "attrs": "Marrón oscuro",
+        "sinMatch": true
+      },
+      {
+        "id": 1501240372,
+        "sku_actual": "MLA2024452076-187116201691",
+        "attrs": "Negro",
+        "sinMatch": false
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16091748",
+        "sku": "CT1516/WD",
+        "attrs": "Color:vidrio | Color de la estructura:Simil Madera"
+      },
+      {
+        "id": "16092002",
+        "sku": "CT1516/W",
+        "attrs": "Color de la estructura:Blanco | Color:varios"
+      },
+      {
+        "id": "16092005",
+        "sku": "CT1516/B",
+        "attrs": "Color de la estructura:Negro | Color:vidrio"
+      },
+      {
+        "id": "16092012",
+        "sku": "CT1516/WA",
+        "attrs": "Color:vidrio | Color de la estructura:Madera Oscura"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "C602-1/v, PSO-0011",
+    "mlaId": "MLA2008132872",
+    "tnProductId": "337730203",
+    "nombre": "Juego Comedor Mesa Eames Redonda Vidrio + 4 Sillas Master",
+    "variantesTN": [
+      {
+        "id": 1501237283,
+        "sku_actual": "MLA2008132872-182831953098",
+        "attrs": "Blanco",
+        "sinMatch": true
+      },
+      {
+        "id": 1501237292,
+        "sku_actual": "MLA2008132872-187183895965",
+        "attrs": "Negro",
+        "sinMatch": true
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "22385024",
+        "sku": "DT532/N",
+        "attrs": "Color de las patas:negras | Color de la tapa:Vidrio"
+      },
+      {
+        "id": "16258767",
+        "sku": "DT532/W",
+        "attrs": "Color de la tapa:Vidrio | Color de las patas:Haya"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "C602-1-B, PCC-0002",
+    "mlaId": "MLA1473393487",
+    "tnProductId": "337710885",
+    "nombre": "Juego Comedor Mesa Eames Redonda Vidrio + 4 Sillas Windsor",
+    "variantesTN": [
+      {
+        "id": 1501144627,
+        "sku_actual": "MLA1473393487-189253026305",
+        "attrs": "Negro",
+        "sinMatch": true
+      },
+      {
+        "id": 1501144636,
+        "sku_actual": "MLA1473393487-186802548275",
+        "attrs": "Blanco",
+        "sinMatch": true
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16283746",
+        "sku": null,
+        "attrs": ""
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "PAV-0006",
+    "mlaId": "MLA1471245107",
+    "tnProductId": "337710676",
+    "nombre": "Espejo Bayu Decorativo Moderno Rectangular 180x60 Hierro",
+    "variantesTN": [
+      {
+        "id": 1501143545,
+        "sku_actual": "MLA1471245107-182752981894",
+        "attrs": "Negro",
+        "sinMatch": true
+      },
+      {
+        "id": 1501143556,
+        "sku_actual": "MLA1471245107-182752981896",
+        "attrs": "Blanco",
+        "sinMatch": true
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16413314",
+        "sku": "pve-0001",
+        "attrs": "Medidas:90x180cm | Modelo:Bali (Marco Negro)"
+      },
+      {
+        "id": "16413367",
+        "sku": "pve-0002",
+        "attrs": "Medidas:180x60 Hierro | Modelo:Bayu (M Negro)"
+      },
+      {
+        "id": "16413380",
+        "sku": "pve-0004",
+        "attrs": "Medidas:180x60 Hierro | Modelo:Bayu(M Blanco)"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "K1191, PME-0015",
+    "mlaId": "MLA1468608637",
+    "tnProductId": "337710102",
+    "nombre": "Juego Comedor Eames Mesa Redonda 90cm + 4 Sillas Tulip",
+    "variantesTN": [
+      {
+        "id": 1501141364,
+        "sku_actual": "MLA1468608637-186539275573",
+        "attrs": "Blanco / Tulip",
+        "sinMatch": false
+      },
+      {
+        "id": 1501141376,
+        "sku_actual": "MLA1468608637-186539275575",
+        "attrs": "Negro / Tulip",
+        "sinMatch": true
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16180851",
+        "sku": "K1191/B",
+        "attrs": "Color:Blanco | Color de la estructura:Madera"
+      },
+      {
+        "id": "16245436",
+        "sku": "K1191/N",
+        "attrs": "Color:Negra | Color de la estructura:Madera"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "PSV-0010",
+    "mlaId": "MLA1463782767",
+    "tnProductId": "337709702",
+    "nombre": "Silla Comedor Pradesh Vintage Con Asiento Rattan Pack 2 Unid",
+    "variantesTN": [
+      {
+        "id": 1501139816,
+        "sku_actual": "MLA1463782767-182391417240",
+        "attrs": "Natural / Kraft / Natural",
+        "sinMatch": false
+      },
+      {
+        "id": 1501139818,
+        "sku_actual": "MLA1463782767-182391417238",
+        "attrs": "Natural / Natural",
+        "sinMatch": false
+      },
+      {
+        "id": 1501139824,
+        "sku_actual": "MLA1463782767-182391417242",
+        "attrs": "Negro / Natural",
+        "sinMatch": false
+      },
+      {
+        "id": 1501139827,
+        "sku_actual": "MLA1463782767-192699794329",
+        "attrs": "Walnut / Natural Rattan",
+        "sinMatch": true
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16311666",
+        "sku": "PV-0001",
+        "attrs": "Color de la estructura de la silla:Natural | Color del asiento:Natural"
+      },
+      {
+        "id": "16311667",
+        "sku": "PV-0002",
+        "attrs": "Color de la estructura de la silla:Negro | Color del asiento:Natural"
+      },
+      {
+        "id": "16311668",
+        "sku": "PV-0003",
+        "attrs": "Color del asiento:Natural | Color de la estructura de la silla:Natural / Kraft"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "PME-0012, PSO-0013",
+    "mlaId": "MLA1455466885",
+    "tnProductId": "337708429",
+    "nombre": "Juego Comedor Mesa Moncloa 200 + 4 Sillas Eames Pvc Nordicas",
+    "variantesTN": [
+      {
+        "id": 1501133581,
+        "sku_actual": "MLA1455466885-185517421659",
+        "attrs": "Blanco / Liso",
+        "sinMatch": true
+      },
+      {
+        "id": 1501133592,
+        "sku_actual": "MLA1455466885-185540369611",
+        "attrs": "Negro / Liso",
+        "sinMatch": false
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16181220",
+        "sku": "0002049",
+        "attrs": "Color de las patas:Símil madera | Color de la tapa:Vidrio"
+      },
+      {
+        "id": "16181221",
+        "sku": "0002048",
+        "attrs": "Color de las patas:Negro | Color de la tapa:Vidrio"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "PME-0013, PSO-0013",
+    "mlaId": "MLA1455449973",
+    "tnProductId": "337708354",
+    "nombre": "Juego Comedor Mesa Moncloa 180 + 4 Sillas Eames Pvc Nordicas",
+    "variantesTN": [
+      {
+        "id": 1501133156,
+        "sku_actual": "MLA1455449973-181939911614",
+        "attrs": "Blanco / Liso",
+        "sinMatch": true
+      },
+      {
+        "id": 1501133169,
+        "sku_actual": "MLA1455449973-185540317833",
+        "attrs": "Negro / Liso",
+        "sinMatch": false
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16181222",
+        "sku": "0002050",
+        "attrs": "Color de las patas:Símil madera | Color de la tapa:Vidrio"
+      },
+      {
+        "id": "16181223",
+        "sku": "Momcloa",
+        "attrs": "Color de las patas:Negro | Color de la tapa:Vidrio"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "PME-0012, PSO-0014",
+    "mlaId": "MLA1455128697",
+    "tnProductId": "337708272",
+    "nombre": "Juego Comedor Mesa Moncloa 200cm + 4 Sillas Milan Pvc",
+    "variantesTN": [
+      {
+        "id": 1501132523,
+        "sku_actual": "MLA1455128697-181919531590",
+        "attrs": "Blanco / LISA",
+        "sinMatch": true
+      },
+      {
+        "id": 1501132536,
+        "sku_actual": "MLA1455128697-185468310411",
+        "attrs": "Negro / Liso",
+        "sinMatch": false
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16181220",
+        "sku": "0002049",
+        "attrs": "Color de las patas:Símil madera | Color de la tapa:Vidrio"
+      },
+      {
+        "id": "16181221",
+        "sku": "0002048",
+        "attrs": "Color de las patas:Negro | Color de la tapa:Vidrio"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "PME-0013, PSO-0014",
+    "mlaId": "MLA1934397718",
+    "tnProductId": "337727515",
+    "nombre": "Juego Comedor Mesa Moncloa 180cm + 4 Sillas Milan Pvc",
+    "variantesTN": [
+      {
+        "id": 1501225382,
+        "sku_actual": "MLA1934397718-181919441476",
+        "attrs": "Blanco / LISA",
+        "sinMatch": true
+      },
+      {
+        "id": 1501225396,
+        "sku_actual": "MLA1934397718-185468856091",
+        "attrs": "Negro / Liso",
+        "sinMatch": false
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16181222",
+        "sku": "0002050",
+        "attrs": "Color de las patas:Símil madera | Color de la tapa:Vidrio"
+      },
+      {
+        "id": "16181223",
+        "sku": "Momcloa",
+        "attrs": "Color de las patas:Negro | Color de la tapa:Vidrio"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "PSO-0014",
+    "mlaId": "MLA1455115093",
+    "tnProductId": "337708194",
+    "nombre": "Silla Comedor Plastica Milan Apilable Pack 2",
+    "variantesTN": [
+      {
+        "id": 1501132107,
+        "sku_actual": "MLA1455115093-185463715479",
+        "attrs": "Blanca / Blanco / PVC",
+        "sinMatch": true
+      },
+      {
+        "id": 1501132114,
+        "sku_actual": "MLA1455115093-185463715481",
+        "attrs": "Negro / Negro / PVC",
+        "sinMatch": true
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16252746",
+        "sku": "000240",
+        "attrs": "Color:Blanco | Color de las patas:Madera"
+      },
+      {
+        "id": "16252749",
+        "sku": "SO-0035",
+        "attrs": "Color:Negro | Color de las patas:Madera"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "PME-0015, PSO-0014",
+    "mlaId": "MLA1929741546",
+    "tnProductId": "337726936",
+    "nombre": "Juego Comedor Mesa Redonda Linea Eames + 4 Sillas Milan",
+    "variantesTN": [
+      {
+        "id": 1501222736,
+        "sku_actual": "MLA1929741546-187013026083",
+        "attrs": "Negro / Mesa Blanca",
+        "sinMatch": true
+      },
+      {
+        "id": 1501222744,
+        "sku_actual": "MLA1929741546-185323153121",
+        "attrs": "Blanco / Liso",
+        "sinMatch": false
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16245521",
+        "sku": null,
+        "attrs": "Color de la tapa:Blanco | Color de las patas:Marrón claro"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "RT192/LNT, PCC-0001",
+    "mlaId": "MLA1916135238",
+    "tnProductId": "337726437",
+    "nombre": "Juego Comedor Mesa Lounna 180cm + 6 Sillas Veneta Importada",
+    "variantesTN": [
+      {
+        "id": 1501220157,
+        "sku_actual": "MLA1916135238-181752166030",
+        "attrs": "Negro / Liso",
+        "sinMatch": false
+      },
+      {
+        "id": 1501220171,
+        "sku_actual": "MLA1916135238-186321292923",
+        "attrs": "Marrón / Liso",
+        "sinMatch": true
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16245601",
+        "sku": "RT-192L/NT",
+        "attrs": "Color de la tapa:Vidrio | Color de las patas:Haya"
+      },
+      {
+        "id": "16245602",
+        "sku": "000255",
+        "attrs": "Color de las patas:Blanco | Color de la tapa:Vidrio"
+      },
+      {
+        "id": "16245603",
+        "sku": "000256",
+        "attrs": "Color de las patas:Negro | Color de la tapa:Transparente"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "dt-2216-1, PSO-0011",
+    "mlaId": "MLA1911215244",
+    "tnProductId": "337726149",
+    "nombre": "Juego Comedor Mesa Lounna 160cm + 4 Sillas Master Pvc",
+    "variantesTN": [
+      {
+        "id": 1501218724,
+        "sku_actual": "MLA1911215244-186220101723",
+        "attrs": "Blanco / pvc",
+        "sinMatch": true
+      },
+      {
+        "id": 1501218730,
+        "sku_actual": "MLA1911215244-184921647025",
+        "attrs": "Negro / pvc",
+        "sinMatch": true
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16245611",
+        "sku": "dt-2216-1/M",
+        "attrs": "Color de las patas:Madera | Color de la tapa:Vidrio"
+      },
+      {
+        "id": "16245612",
+        "sku": "dt-2216-1/N",
+        "attrs": "Color de las patas:Negra | Color de la tapa:Vidrio"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "PSO-0011",
+    "mlaId": "MLA1898205722",
+    "tnProductId": "337725991",
+    "nombre": "Silla Diseño Master Plástica Apilable Pack 2 Unid",
+    "variantesTN": [
+      {
+        "id": 1501218044,
+        "sku_actual": "MLA1898205722-184598276793",
+        "attrs": "Blanco",
+        "sinMatch": false
+      },
+      {
+        "id": 1501218049,
+        "sku_actual": "MLA1898205722-184598276795",
+        "attrs": "Negra",
+        "sinMatch": true
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16181024",
+        "sku": "0002047",
+        "attrs": "Color:Negro | Color de la estructura:Negro"
+      },
+      {
+        "id": "16181040",
+        "sku": "SO-0027",
+        "attrs": "Color:Blanco | Color de la estructura:Blanco"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "PME-0012, rt131",
+    "mlaId": "MLA1882840946",
+    "tnProductId": "337725729",
+    "nombre": "Juego Comedor Mesa Moncloa 200cm + 4 Sillas Viena Paris",
+    "variantesTN": [
+      {
+        "id": 1501217038,
+        "sku_actual": "MLA1882840946-181367116828",
+        "attrs": "Negro / Cuero sintetico",
+        "sinMatch": false
+      },
+      {
+        "id": 1501217046,
+        "sku_actual": "MLA1882840946-181367116826",
+        "attrs": "Blanco / Cuero sintetico",
+        "sinMatch": true
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16181220",
+        "sku": "0002049",
+        "attrs": "Color de las patas:Símil madera | Color de la tapa:Vidrio"
+      },
+      {
+        "id": "16181221",
+        "sku": "0002048",
+        "attrs": "Color de las patas:Negro | Color de la tapa:Vidrio"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "PME-0013, RT780",
+    "mlaId": "MLA1442867691",
+    "tnProductId": "337707244",
+    "nombre": "Juego Comedor Mesa Moncloa 180cm + 4 Sillas Becca",
+    "variantesTN": [
+      {
+        "id": 1501125434,
+        "sku_actual": "MLA1442867691-184221549353",
+        "attrs": "Blanco / Cuero sintetico",
+        "sinMatch": true
+      },
+      {
+        "id": 1501125444,
+        "sku_actual": "MLA1442867691-184221549351",
+        "attrs": "Beige / Cuero sintetico",
+        "sinMatch": true
+      },
+      {
+        "id": 1501125451,
+        "sku_actual": "MLA1442867691-184221549355",
+        "attrs": "Negro / Cuero sintetico",
+        "sinMatch": false
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16181222",
+        "sku": "0002050",
+        "attrs": "Color de las patas:Símil madera | Color de la tapa:Vidrio"
+      },
+      {
+        "id": "16181223",
+        "sku": "Momcloa",
+        "attrs": "Color de las patas:Negro | Color de la tapa:Vidrio"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "PSV-0023",
+    "mlaId": "MLA1416859881",
+    "tnProductId": "337704959",
+    "nombre": "Silla Batur Importada Madera De Teka Y Esterilla",
+    "variantesTN": [
+      {
+        "id": 1501113309,
+        "sku_actual": "MLA1416859881-182196124671",
+        "attrs": "Natural / Natural / Esterilla",
+        "sinMatch": true
+      },
+      {
+        "id": 1501113320,
+        "sku_actual": "MLA1416859881-182196124673",
+        "attrs": "Negra / Natural / Esterilla",
+        "sinMatch": true
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16312563",
+        "sku": "0041",
+        "attrs": "Color de la estructura de la silla:Negra"
+      },
+      {
+        "id": "16312564",
+        "sku": "0040",
+        "attrs": "Color de la estructura de la silla:Natural"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "PDSDA-00006",
+    "mlaId": "MLA1696205304",
+    "tnProductId": "337722325",
+    "nombre": "Silla De Escritorio Creta Ejecutivo Ergonómica Outlet",
+    "variantesTN": [
+      {
+        "id": 1501200552,
+        "sku_actual": "MLA1696205304-182005218297",
+        "attrs": "Negro / Cuero sintético",
+        "sinMatch": false
+      },
+      {
+        "id": 1501200568,
+        "sku_actual": "MLA1696205304-187984395219",
+        "attrs": "Blanco / Cuero sintético",
+        "sinMatch": true
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16149753",
+        "sku": "DA-00018",
+        "attrs": "Color:Negro"
+      },
+      {
+        "id": "16149753",
+        "sku": "DA-00018",
+        "attrs": "Color:Negro"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "PSC-0002",
+    "mlaId": "MLA1374605851",
+    "tnProductId": "337702370",
+    "nombre": "Silla Comedor Thea Tapizada Pana Nórdica Pack 4",
+    "variantesTN": [
+      {
+        "id": 1501101029,
+        "sku_actual": "MLA1374605851-178770957287",
+        "attrs": "Marrón claro / Gris oscuro",
+        "sinMatch": false
+      },
+      {
+        "id": 1501101035,
+        "sku_actual": "MLA1374605851-178770957293",
+        "attrs": "Marrón claro / Taupe",
+        "sinMatch": false
+      },
+      {
+        "id": 1501101037,
+        "sku_actual": "MLA1374605851-181949473649",
+        "attrs": "Marrón claro / Azul aero",
+        "sinMatch": true
+      },
+      {
+        "id": 1501101043,
+        "sku_actual": "MLA1374605851-178770957289",
+        "attrs": "Marrón claro / Gris claro",
+        "sinMatch": true
+      },
+      {
+        "id": 1501101046,
+        "sku_actual": "MLA1374605851-179577232071",
+        "attrs": "Marrón claro / Rosa",
+        "sinMatch": true
+      },
+      {
+        "id": 1501101052,
+        "sku_actual": "MLA1374605851-178770957291",
+        "attrs": "Marrón claro / Beige",
+        "sinMatch": true
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16077214",
+        "sku": "SC-0003",
+        "attrs": "Color del asiento:Gris oscuro | Color de la estructura de la silla:Marrón claro | Diseño de la tela:Pana"
+      },
+      {
+        "id": "16077215",
+        "sku": "SC-0004",
+        "attrs": "Color de la estructura de la silla:Marrón claro | Diseño de la tela:Pana | Color del asiento:Taupe"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "681a53cf-ba44-4952-af65-4f43b38f37ff",
+    "mlaId": "MLA1263256648",
+    "tnProductId": "337701245",
+    "nombre": "Estrella Decorativa Origenes Mimbre Pack 2 Unid",
+    "variantesTN": [
+      {
+        "id": 1501097700,
+        "sku_actual": "MLA1263256648-186528726147",
+        "attrs": "Tostado",
+        "sinMatch": false
+      },
+      {
+        "id": 1501097709,
+        "sku_actual": "MLA1263256648-179940542183",
+        "attrs": "Marrón",
+        "sinMatch": true
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16423154",
+        "sku": "681a53cf-ab18-473e-a47d-4b4cb38f37ff",
+        "attrs": "Color:Tostado"
+      },
+      {
+        "id": "16423153",
+        "sku": "681a53cf-5fd0-4c28-afc7-4d43b38f37ff",
+        "attrs": "Color:Marron"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "Outlet 15",
+    "mlaId": "MLA1133267178",
+    "tnProductId": "337767784",
+    "nombre": "Asiento Silla Eames Repuesto Outlet - Solo Asiento",
+    "variantesTN": [
+      {
+        "id": 1501391043,
+        "sku_actual": "MLA1133267178-174429619847",
+        "attrs": "Turquesa",
+        "sinMatch": true
+      },
+      {
+        "id": 1501391050,
+        "sku_actual": "MLA1133267178-174429619843",
+        "attrs": "Acqua",
+        "sinMatch": true
+      },
+      {
+        "id": 1501391060,
+        "sku_actual": "MLA1133267178-186836405015",
+        "attrs": "Celeste",
+        "sinMatch": true
+      },
+      {
+        "id": 1501391065,
+        "sku_actual": "MLA1133267178-174429619846",
+        "attrs": "Azul marino",
+        "sinMatch": true
+      },
+      {
+        "id": 1501391072,
+        "sku_actual": "MLA1133267178-174429619844",
+        "attrs": "Negro",
+        "sinMatch": true
+      },
+      {
+        "id": 1501391078,
+        "sku_actual": "MLA1133267178-174429619842",
+        "attrs": "Fucsia",
+        "sinMatch": true
+      },
+      {
+        "id": 1501391085,
+        "sku_actual": "MLA1133267178-174429619845",
+        "attrs": "Beige",
+        "sinMatch": false
+      },
+      {
+        "id": 1501391090,
+        "sku_actual": "MLA1133267178-174434039693",
+        "attrs": "Rosa",
+        "sinMatch": false
+      },
+      {
+        "id": 1501391096,
+        "sku_actual": "MLA1133267178-175600011208",
+        "attrs": "Verde tomillo",
+        "sinMatch": false
+      },
+      {
+        "id": 1501391099,
+        "sku_actual": "MLA1133267178-176347217675",
+        "attrs": "Rojo",
+        "sinMatch": false
+      },
+      {
+        "id": 1501391105,
+        "sku_actual": "MLA1133267178-176350239829",
+        "attrs": "Gris oscuro",
+        "sinMatch": false
+      },
+      {
+        "id": 1501391111,
+        "sku_actual": "MLA1133267178-182618918969",
+        "attrs": "Verde Oliva",
+        "sinMatch": false
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16313351",
+        "sku": "680a99b8-e210-44c6-9f97-4293b38f37ff",
+        "attrs": "Color de la estructura de la silla:Beige"
+      },
+      {
+        "id": "16313352",
+        "sku": "680a99b8-182c-4ece-b8e2-4c6bb38f37ff",
+        "attrs": "Color de la estructura de la silla:Rosa"
+      },
+      {
+        "id": "16313353",
+        "sku": "680a99b8-2614-483c-802b-4d31b38f37ff",
+        "attrs": "Color de la estructura de la silla:Verde tomillo"
+      },
+      {
+        "id": "16313354",
+        "sku": "680a99b8-851c-4888-9300-4781b38f37ff",
+        "attrs": "Color de la estructura de la silla:Rojo"
+      },
+      {
+        "id": "16313355",
+        "sku": "680a99b8-cc50-4a8d-b22b-4598b38f37ff",
+        "attrs": "Color de la estructura de la silla:Gris oscuro"
+      },
+      {
+        "id": "16313356",
+        "sku": "680a99b8-b7c8-4dc4-946c-4e98b38f37ff",
+        "attrs": "Color de la estructura de la silla:Verde Oliva"
+      },
+      {
+        "id": "16313351",
+        "sku": "680a99b8-e210-44c6-9f97-4293b38f37ff",
+        "attrs": "Color de la estructura de la silla:Beige"
+      },
+      {
+        "id": "16313352",
+        "sku": "680a99b8-182c-4ece-b8e2-4c6bb38f37ff",
+        "attrs": "Color de la estructura de la silla:Rosa"
+      },
+      {
+        "id": "16313353",
+        "sku": "680a99b8-2614-483c-802b-4d31b38f37ff",
+        "attrs": "Color de la estructura de la silla:Verde tomillo"
+      },
+      {
+        "id": "16313354",
+        "sku": "680a99b8-851c-4888-9300-4781b38f37ff",
+        "attrs": "Color de la estructura de la silla:Rojo"
+      },
+      {
+        "id": "16313355",
+        "sku": "680a99b8-cc50-4a8d-b22b-4598b38f37ff",
+        "attrs": "Color de la estructura de la silla:Gris oscuro"
+      },
+      {
+        "id": "16313356",
+        "sku": "680a99b8-b7c8-4dc4-946c-4e98b38f37ff",
+        "attrs": "Color de la estructura de la silla:Verde Oliva"
+      },
+      {
+        "id": "16313357",
+        "sku": "680a99b8-4454-4321-9b10-4a42b38f37ff",
+        "attrs": "Color de la estructura de la silla:Gris"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "pv-0002",
+    "mlaId": "MLA1131697066",
+    "tnProductId": "337698788",
+    "nombre": "Canasto Leñero Cesto Organzador Mimbre Jeronimo Cónico",
+    "variantesTN": [
+      {
+        "id": 1501089626,
+        "sku_actual": "MLA1131697066-174397272890",
+        "attrs": "Marrón",
+        "sinMatch": true
+      },
+      {
+        "id": 1501089631,
+        "sku_actual": "MLA1131697066-176419927928",
+        "attrs": "Natural",
+        "sinMatch": true
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16413050",
+        "sku": "pv-0004",
+        "attrs": "Modelo:Jeronimo | Medidas:50 | Diseño:Colores"
+      },
+      {
+        "id": "16476576",
+        "sku": "0000470",
+        "attrs": "Modelo:Jeronimo | Diseño:Ovalado | Medidas:49"
+      },
+      {
+        "id": "16412959",
+        "sku": "000259",
+        "attrs": "Modelo:Brisa | Diseño:Cesto Mimbre Calado | Medidas:S 22x22"
+      },
+      {
+        "id": "16413034",
+        "sku": "PV-0001",
+        "attrs": "Modelo:Brisa | Diseño:Cesto Mimbre Calado | Medidas:M 27 cm x 27 cm"
+      },
+      {
+        "id": "16413039",
+        "sku": "pv-0002",
+        "attrs": "Modelo:Jeronimo | Diseño:Conico | Medidas:60"
+      },
+      {
+        "id": "16413043",
+        "sku": "pv-0003",
+        "attrs": "Modelo:Jeronimo | Diseño:Conico | Medidas:50"
+      },
+      {
+        "id": "16413089",
+        "sku": "pv-0006",
+        "attrs": "Modelo:Simon | Diseño:Cesto Organzador | Medidas:20cm"
+      },
+      {
+        "id": "16413094",
+        "sku": "pv-0007",
+        "attrs": "Modelo:Jeronimo | Diseño:Conico | Medidas:45cm"
+      },
+      {
+        "id": "16413095",
+        "sku": "PV-0008",
+        "attrs": "Modelo:Jeronimo | Diseño:Ovalado | Medidas:70cm"
+      },
+      {
+        "id": "16413096",
+        "sku": "PV-0009",
+        "attrs": "Modelo:Felipe | Diseño:Macetero | Medidas:16CM"
+      },
+      {
+        "id": "16413114",
+        "sku": "pv-0010",
+        "attrs": "Modelo:Felipe | Diseño:Macetero | Medidas:19cm"
+      },
+      {
+        "id": "16413116",
+        "sku": "pv-0011",
+        "attrs": "Modelo:Felipe | Diseño:Macetero | Medidas:26cm"
+      },
+      {
+        "id": "16413120",
+        "sku": "PV-0012",
+        "attrs": "Modelo:Jeronimo | Diseño:Ovalado | Medidas:M 58 cm"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "681e3f97-4c70-488f-af89-4625b38f37ff",
+    "mlaId": "MLA1103123671",
+    "tnProductId": "337697743",
+    "nombre": "Banco Nórdico Indi Pie De Cama / Recibidor Madera Tratada",
+    "variantesTN": [
+      {
+        "id": 1501085056,
+        "sku_actual": "MLA1103123671-174607305023",
+        "attrs": "Satinado / Cristal",
+        "sinMatch": true
+      },
+      {
+        "id": 1501085063,
+        "sku_actual": "MLA1103123671-174607305022",
+        "attrs": "Satinado / Blanco",
+        "sinMatch": false
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16448947",
+        "sku": "681e3f97-c290-4c0d-93c3-4ea8b38f37ff",
+        "attrs": "Color:Madera"
+      },
+      {
+        "id": "16448948",
+        "sku": "681e3f97-1208-4aab-9a82-47e1b38f37ff",
+        "attrs": "Color:Blanco"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "681a4fa4-943c-4432-b2b6-46acb38f37ff",
+    "mlaId": "MLA838525111",
+    "tnProductId": "337758801",
+    "nombre": "Funda Almohadon Super Oferta - Solo Funda Con Cierre 30x30cm",
+    "variantesTN": [
+      {
+        "id": 1501351699,
+        "sku_actual": "MLA838525111-173702957163",
+        "attrs": "Canela",
+        "sinMatch": false
+      },
+      {
+        "id": 1501351719,
+        "sku_actual": "MLA838525111-50466019698",
+        "attrs": "Rayas",
+        "sinMatch": false
+      },
+      {
+        "id": 1501351729,
+        "sku_actual": "MLA838525111-50466019696",
+        "attrs": "Estrellas",
+        "sinMatch": false
+      },
+      {
+        "id": 1501351740,
+        "sku_actual": "MLA838525111-50466019704",
+        "attrs": "Infantil",
+        "sinMatch": false
+      },
+      {
+        "id": 1501351750,
+        "sku_actual": "MLA838525111-50466019700",
+        "attrs": "Lunares",
+        "sinMatch": false
+      },
+      {
+        "id": 1501351757,
+        "sku_actual": "MLA838525111-173702957164",
+        "attrs": "Líneas negras",
+        "sinMatch": true
+      },
+      {
+        "id": 1501351763,
+        "sku_actual": "MLA838525111-173702957165",
+        "attrs": "Bosque",
+        "sinMatch": false
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16422965",
+        "sku": "681a4fa4-3348-4848-b684-4264b38f37ff",
+        "attrs": "Nombre del diseño:Estrellas"
+      },
+      {
+        "id": "16422964",
+        "sku": "681a4fa4-e6f8-4f81-b15e-4ef7b38f37ff",
+        "attrs": "Nombre del diseño:Rayas"
+      },
+      {
+        "id": "16422966",
+        "sku": "681a4fa4-39e0-4543-9d4b-47d9b38f37ff",
+        "attrs": "Nombre del diseño:Infantil"
+      },
+      {
+        "id": "16422969",
+        "sku": "681a4fa4-a7dc-432d-a5e5-4c76b38f37ff",
+        "attrs": "Nombre del diseño:Bosque"
+      },
+      {
+        "id": "16422968",
+        "sku": "681a4fa4-1f28-4f00-ab76-4160b38f37ff",
+        "attrs": "Nombre del diseño:lineas negras"
+      },
+      {
+        "id": "16422967",
+        "sku": "681a4fa4-29c8-4741-8a18-4573b38f37ff",
+        "attrs": "Nombre del diseño:Canela"
+      },
+      {
+        "id": "16422963",
+        "sku": "681a4fa4-19ac-4032-8aea-4a0ab38f37ff",
+        "attrs": "Nombre del diseño:Lunares"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "PEJ-0010",
+    "mlaId": "MLA820631710",
+    "tnProductId": "337757216",
+    "nombre": "Juego Jardin Living Simil Rattan New Meissa Exterior",
+    "variantesTN": [
+      {
+        "id": 1501345931,
+        "sku_actual": "MLA820631710-78807172949",
+        "attrs": "Gris",
+        "sinMatch": false
+      },
+      {
+        "id": 1501345936,
+        "sku_actual": "MLA820631710-173853818390",
+        "attrs": "Marrón",
+        "sinMatch": true
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16329240",
+        "sku": null,
+        "attrs": "Color de la estructura:Gris"
+      },
+      {
+        "id": "16329241",
+        "sku": null,
+        "attrs": "Color de la estructura:Marron"
+      }
+    ]
+  },
+  {
+    "tipo": "unico",
+    "erpSku": "YC-04F, YC-10C",
+    "mlaId": "MLA694426562",
+    "tnProductId": "337752387",
+    "nombre": "Sillon Poltrona Volgar Nordica + Mecedora Tapizado En Lino",
+    "variantesTN": [
+      {
+        "id": 1501327979,
+        "sku_actual": "MLA694426562-188043756627",
+        "attrs": "Gris claro",
+        "sinMatch": false
+      },
+      {
+        "id": 1501327991,
+        "sku_actual": "MLA694426562-188043756629",
+        "attrs": "Gris oscuro",
+        "sinMatch": false
+      },
+      {
+        "id": 1501327998,
+        "sku_actual": "MLA694426562-38597453999",
+        "attrs": "Chocolate",
+        "sinMatch": true
+      },
+      {
+        "id": 1501328004,
+        "sku_actual": "MLA694426562-78603972993",
+        "attrs": "Beige",
+        "sinMatch": false
+      }
+    ],
+    "variantesERP": [
+      {
+        "id": "16150271",
+        "sku": "YC-04F/BE",
+        "attrs": "Color de la estructura:Beige"
+      },
+      {
+        "id": "16150273",
+        "sku": "YC-04F/GO",
+        "attrs": "Color de la estructura:Gris Oscuro"
+      },
+      {
+        "id": "16150271",
+        "sku": "YC-04F/BE",
+        "attrs": "Color de la estructura:Beige"
+      },
+      {
+        "id": "16150273",
+        "sku": "YC-04F/GO",
+        "attrs": "Color de la estructura:Gris Oscuro"
+      },
+      {
+        "id": "16150275",
+        "sku": "YC-04F/GC",
+        "attrs": "Color de la estructura:Gris Claro"
+      }
+    ]
+  }
+]

@@ -87,6 +87,14 @@ async function getProduct(tnProductId) {
   return data;
 }
 
+async function getOrder(orderId) {
+  const { data } = await axios.get(
+    `${BASE_URL}/${storeId()}/orders/${orderId}`,
+    { headers: getHeaders() }
+  );
+  return data;
+}
+
 async function createMetafield(productId, key, value) {
   const { data } = await axios.post(
     `${BASE_URL}/${storeId()}/products/${productId}/metafields`,
@@ -96,4 +104,11 @@ async function createMetafield(productId, key, value) {
   return data;
 }
 
-module.exports = { createProduct, updateProduct, getProduct, updateVariant, getProductBySku, createMetafield, getCategories, createCategory, updateProductCategories };
+async function deleteProduct(tnProductId) {
+  await axios.delete(
+    `${BASE_URL}/${storeId()}/products/${tnProductId}`,
+    { headers: getHeaders() }
+  );
+}
+
+module.exports = { createProduct, updateProduct, getProduct, deleteProduct, getOrder, updateVariant, getProductBySku, createMetafield, getCategories, createCategory, updateProductCategories };

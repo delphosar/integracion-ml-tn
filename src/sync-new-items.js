@@ -1,3 +1,7 @@
+// ⛔ DESHABILITADO — este script creaba duplicados en TiendaNube. NO ejecutar.
+console.error('[sync-new-items] DESHABILITADO. Este script no debe ejecutarse. Usar sync-delta.js con --prices-only.');
+process.exit(1);
+
 require('dotenv').config({ path: require('path').join(__dirname, '..', '.env') });
 
 const { getDb, upsertItem, saveTnProduct, saveToFile, getTnCategoryByMlId } = require('./db');

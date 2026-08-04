@@ -1,0 +1,897 @@
+[
+  {
+    "tnId": "339734879",
+    "mlId": "MLA3164701388",
+    "variantSku": "DC801/COW"
+  },
+  {
+    "tnId": "339734861",
+    "mlId": "MLA3164811824",
+    "variantSku": "DC801/NOW"
+  },
+  {
+    "tnId": "339734777",
+    "mlId": "MLA3164824934",
+    "variantSku": "DC801/NGO"
+  },
+  {
+    "tnId": "339734831",
+    "mlId": "MLA3164811826",
+    "variantSku": "DC801/NGC"
+  },
+  {
+    "tnId": "339734815",
+    "mlId": "MLA3164811828",
+    "variantSku": "DC801/CGC"
+  },
+  {
+    "tnId": "341104752",
+    "mlId": "MLA2043670788",
+    "variantSku": "YC-09B/BE"
+  },
+  {
+    "tnId": "339736409",
+    "mlId": "MLA1741154229",
+    "variantSku": "DC801/CGC"
+  },
+  {
+    "tnId": "339736325",
+    "mlId": "MLA3168907416",
+    "variantSku": "DC801/NGO"
+  },
+  {
+    "tnId": "339736291",
+    "mlId": "MLA3168808790",
+    "variantSku": "DC801/COW"
+  },
+  {
+    "tnId": "339736257",
+    "mlId": "MLA3168832536",
+    "variantSku": "DC801/NOW"
+  },
+  {
+    "tnId": "339736211",
+    "mlId": "MLA3174194044",
+    "variantSku": "DC801/NGC"
+  },
+  {
+    "tnId": "339736175",
+    "mlId": "MLA1742590081",
+    "variantSku": "DC801/NGO"
+  },
+  {
+    "tnId": "339736142",
+    "mlId": "MLA3174097668",
+    "variantSku": "DC801/NOW"
+  },
+  {
+    "tnId": "339736110",
+    "mlId": "MLA1742590079",
+    "variantSku": "DC801/CGC"
+  },
+  {
+    "tnId": "339736079",
+    "mlId": "MLA3174047324",
+    "variantSku": "DC801/COW"
+  },
+  {
+    "tnId": "339735046",
+    "mlId": "MLA1741263499",
+    "variantSku": "DC801/NGC"
+  },
+  {
+    "tnId": "339735021",
+    "mlId": "MLA1741273455",
+    "variantSku": "DC801/COW"
+  },
+  {
+    "tnId": "339734950",
+    "mlId": "MLA3169268712",
+    "variantSku": "DC801/CGC"
+  },
+  {
+    "tnId": "339734918",
+    "mlId": "MLA3169435268",
+    "variantSku": "DC801/NOW"
+  },
+  {
+    "tnId": "339736366",
+    "mlId": "MLA3168907418",
+    "variantSku": "DC801/NGC"
+  },
+  {
+    "tnId": "339734976",
+    "mlId": "MLA1741273457",
+    "variantSku": "DC801/NGO"
+  },
+  {
+    "tnId": "341214180",
+    "mlId": "MLA1462063019",
+    "variantSku": "YC-14A/BN"
+  },
+  {
+    "tnId": "341214171",
+    "mlId": "MLA1462076149",
+    "variantSku": "YC-14A/NN"
+  },
+  {
+    "tnId": "342524977",
+    "mlId": "MLA1777332991",
+    "variantSku": "dt1296sm"
+  },
+  {
+    "tnId": "342524927",
+    "mlId": "MLA1777337511",
+    "variantSku": "dt1295/mm"
+  },
+  {
+    "tnId": "342524783",
+    "mlId": "MLA3278773658",
+    "variantSku": "dt1296sm"
+  },
+  {
+    "tnId": "342524740",
+    "mlId": "MLA3278773662",
+    "variantSku": "dt1296sm"
+  },
+  {
+    "tnId": "342524713",
+    "mlId": "MLA3278776072",
+    "variantSku": "dt1295/mm"
+  },
+  {
+    "tnId": "342524678",
+    "mlId": "MLA3278825846",
+    "variantSku": "dt1295/mm"
+  },
+  {
+    "tnId": "342524652",
+    "mlId": "MLA3278836476",
+    "variantSku": "dt1295/mm"
+  },
+  {
+    "tnId": "342524606",
+    "mlId": "MLA3278838562",
+    "variantSku": "dt1295/mm"
+  },
+  {
+    "tnId": "342487729",
+    "mlId": "MLA1777216179",
+    "variantSku": "YC-04F/BE"
+  },
+  {
+    "tnId": "342487711",
+    "mlId": "MLA1777277845",
+    "variantSku": "YC-10C/MA"
+  },
+  {
+    "tnId": "342487695",
+    "mlId": "MLA1777289311",
+    "variantSku": "dt1296sm"
+  },
+  {
+    "tnId": "342487678",
+    "mlId": "MLA3278198754",
+    "variantSku": "YC-04F/BE"
+  },
+  {
+    "tnId": "342487631",
+    "mlId": "MLA3278580192",
+    "variantSku": "dddd"
+  },
+  {
+    "tnId": "342487614",
+    "mlId": "MLA3278768024",
+    "variantSku": "dt1296sm"
+  },
+  {
+    "tnId": "342487597",
+    "mlId": "MLA3278816048",
+    "variantSku": "dt1296sm"
+  },
+  {
+    "tnId": "342453356",
+    "mlId": "MLA3278196890",
+    "variantSku": "YC-04F/BE"
+  },
+  {
+    "tnId": "342422856",
+    "mlId": "MLA1777081955",
+    "variantSku": "1111"
+  },
+  {
+    "tnId": "342422836",
+    "mlId": "MLA1777120703",
+    "variantSku": "1111"
+  },
+  {
+    "tnId": "342422808",
+    "mlId": "MLA3277538048",
+    "variantSku": "YC-10C/GO"
+  },
+  {
+    "tnId": "342422784",
+    "mlId": "MLA3277540890",
+    "variantSku": "1111"
+  },
+  {
+    "tnId": "342422762",
+    "mlId": "MLA3277563718",
+    "variantSku": "YC-10C/GC"
+  },
+  {
+    "tnId": "342422729",
+    "mlId": "MLA3277919994",
+    "variantSku": "DT532/N"
+  },
+  {
+    "tnId": "342310937",
+    "mlId": "MLA1775663993",
+    "variantSku": "YC-10C/MA"
+  },
+  {
+    "tnId": "342310914",
+    "mlId": "MLA1775819281",
+    "variantSku": "YC-04F/MA"
+  },
+  {
+    "tnId": "342310893",
+    "mlId": "MLA1775831681",
+    "variantSku": "YC-04F/GO"
+  },
+  {
+    "tnId": "342310875",
+    "mlId": "MLA3274346226",
+    "variantSku": "YC-04F/BE"
+  },
+  {
+    "tnId": "342310848",
+    "mlId": "MLA3274346228",
+    "variantSku": "dddd"
+  },
+  {
+    "tnId": "342310804",
+    "mlId": "MLA3274358474",
+    "variantSku": "YC-04F/GC"
+  },
+  {
+    "tnId": "342277273",
+    "mlId": "MLA1775794149",
+    "variantSku": "YC-04F/BE"
+  },
+  {
+    "tnId": "342277253",
+    "mlId": "MLA1775829281",
+    "variantSku": "YC-04F/GC"
+  },
+  {
+    "tnId": "342277238",
+    "mlId": "MLA3274343682",
+    "variantSku": "YC-04F/MA"
+  },
+  {
+    "tnId": "342277216",
+    "mlId": "MLA3274343684",
+    "variantSku": "dddd"
+  },
+  {
+    "tnId": "342277197",
+    "mlId": "MLA3274343686",
+    "variantSku": "YC-04F/GO"
+  },
+  {
+    "tnId": "342215609",
+    "mlId": "MLA3273711416",
+    "variantSku": "YC-10C/MA"
+  },
+  {
+    "tnId": "342215594",
+    "mlId": "MLA3273713292",
+    "variantSku": "YC-10C/BE"
+  },
+  {
+    "tnId": "342215574",
+    "mlId": "MLA3273723720",
+    "variantSku": "YC-10C/BE"
+  },
+  {
+    "tnId": "342215549",
+    "mlId": "MLA3273725452",
+    "variantSku": "YC-10C/MA"
+  },
+  {
+    "tnId": "341863446",
+    "mlId": "MLA3267956078",
+    "variantSku": "DT532/W"
+  },
+  {
+    "tnId": "341405206",
+    "mlId": "MLA3255766930",
+    "variantSku": "DC801/MOW"
+  },
+  {
+    "tnId": "341367076",
+    "mlId": "MLA1770960969",
+    "variantSku": "DC801/MGC"
+  },
+  {
+    "tnId": "340905530",
+    "mlId": "MLA1767962493",
+    "variantSku": "DC801/MOW"
+  },
+  {
+    "tnId": "340905478",
+    "mlId": "MLA1767965567",
+    "variantSku": "DC801/MGO"
+  },
+  {
+    "tnId": "340417446",
+    "mlId": "MLA3235627718",
+    "variantSku": "DT532/W"
+  },
+  {
+    "tnId": "340201742",
+    "mlId": "MLA1763211935",
+    "variantSku": "DC801/MGO"
+  },
+  {
+    "tnId": "340201696",
+    "mlId": "MLA3232217478",
+    "variantSku": "DC801/MGC"
+  },
+  {
+    "tnId": "340170004",
+    "mlId": "MLA3231486914",
+    "variantSku": "DT532/W"
+  },
+  {
+    "tnId": "339737190",
+    "mlId": "MLA1757032461",
+    "variantSku": "DT532/W"
+  },
+  {
+    "tnId": "339737166",
+    "mlId": "MLA1757035477",
+    "variantSku": "DT532/W"
+  },
+  {
+    "tnId": "339737149",
+    "mlId": "MLA3214828664",
+    "variantSku": "dt2607/KGB100"
+  },
+  {
+    "tnId": "339737004",
+    "mlId": "MLA3215384340",
+    "variantSku": "DT532/W"
+  },
+  {
+    "tnId": "339736976",
+    "mlId": "MLA3215508916",
+    "variantSku": "DT532/W"
+  },
+  {
+    "tnId": "339736940",
+    "mlId": "MLA3215511950",
+    "variantSku": "DT532/W"
+  },
+  {
+    "tnId": "339736913",
+    "mlId": "MLA3215533692",
+    "variantSku": "DT532/W"
+  },
+  {
+    "tnId": "339736764",
+    "mlId": "MLA1753978695",
+    "variantSku": "DC801/MOW"
+  },
+  {
+    "tnId": "339736734",
+    "mlId": "MLA1754351001",
+    "variantSku": "DC801/MGC"
+  },
+  {
+    "tnId": "339736697",
+    "mlId": "MLA1754414059",
+    "variantSku": "DC801/MGO"
+  },
+  {
+    "tnId": "339736666",
+    "mlId": "MLA1754558263",
+    "variantSku": "DC801/MGO"
+  },
+  {
+    "tnId": "339736630",
+    "mlId": "MLA1754560927",
+    "variantSku": "DT532/W"
+  },
+  {
+    "tnId": "339736612",
+    "mlId": "MLA3206240180",
+    "variantSku": "DC801/MOW"
+  },
+  {
+    "tnId": "339736568",
+    "mlId": "MLA3208693840",
+    "variantSku": "DC801/MGC"
+  },
+  {
+    "tnId": "339736541",
+    "mlId": "MLA3208693842",
+    "variantSku": "DC801/MOW"
+  },
+  {
+    "tnId": "339736468",
+    "mlId": "MLA3208696448",
+    "variantSku": "DT532/W"
+  },
+  {
+    "tnId": "339736432",
+    "mlId": "MLA3208696450",
+    "variantSku": "DT532/W"
+  },
+  {
+    "tnId": "339736045",
+    "mlId": "MLA1753524399",
+    "variantSku": "DC801/MGO"
+  },
+  {
+    "tnId": "339735997",
+    "mlId": "MLA1753535823",
+    "variantSku": "DC801/MOW"
+  },
+  {
+    "tnId": "339735954",
+    "mlId": "MLA3206018798",
+    "variantSku": "DC801/MGC"
+  },
+  {
+    "tnId": "339735924",
+    "mlId": "MLA3206044088",
+    "variantSku": "DC801/MOW"
+  },
+  {
+    "tnId": "339735890",
+    "mlId": "MLA3206068564",
+    "variantSku": "DC801/MGC"
+  },
+  {
+    "tnId": "339735850",
+    "mlId": "MLA3206068566",
+    "variantSku": "DC801/MGO"
+  },
+  {
+    "tnId": "339735827",
+    "mlId": "MLA1751833371",
+    "variantSku": "DT532/N"
+  },
+  {
+    "tnId": "339735722",
+    "mlId": "MLA1751919797",
+    "variantSku": "DT532/N"
+  },
+  {
+    "tnId": "339735556",
+    "mlId": "MLA3201378764",
+    "variantSku": "DT532/N"
+  },
+  {
+    "tnId": "339732131",
+    "mlId": "MLA2046935244",
+    "variantSku": "XB-T09/BB"
+  },
+  {
+    "tnId": "339737309",
+    "mlId": "MLA1756957973",
+    "variantSku": "dt2607/KGB100"
+  },
+  {
+    "tnId": "341434112",
+    "mlId": "MLA3260087528",
+    "variantSku": "c"
+  },
+  {
+    "tnId": "341108721",
+    "mlId": "MLA1971343806",
+    "variantSku": "YC-04F/MA"
+  },
+  {
+    "tnId": "341103256",
+    "mlId": "MLA1971239086",
+    "variantSku": "YC-10C/MA"
+  },
+  {
+    "tnId": "341103173",
+    "mlId": "MLA1971291778",
+    "variantSku": "YC-04F/BE"
+  },
+  {
+    "tnId": "341059505",
+    "mlId": "MLA2474673450",
+    "variantSku": "YC-04F/BE"
+  },
+  {
+    "tnId": "341056021",
+    "mlId": "MLA1971316874",
+    "variantSku": "YC-10C/BE"
+  },
+  {
+    "tnId": "341055819",
+    "mlId": "MLA2043804430",
+    "variantSku": "YC-04F/MA"
+  },
+  {
+    "tnId": "340812615",
+    "mlId": "MLA1971264448",
+    "variantSku": "YC-10C/BE"
+  },
+  {
+    "tnId": "341434159",
+    "mlId": "MLA1771110615",
+    "variantSku": "c"
+  },
+  {
+    "tnId": "341054589",
+    "mlId": "MLA1971315958",
+    "variantSku": "YC-10C/BE"
+  },
+  {
+    "tnId": "341054508",
+    "mlId": "MLA1971330754",
+    "variantSku": "YC-10C/MA"
+  },
+  {
+    "tnId": "339958240",
+    "mlId": "MLA3226136956",
+    "variantSku": "000297"
+  },
+  {
+    "tnId": "341054713",
+    "mlId": "MLA1971290456",
+    "variantSku": "YC-04F/BE"
+  },
+  {
+    "tnId": "342661011",
+    "mlId": "MLA1778117781",
+    "variantSku": "dddd"
+  },
+  {
+    "tnId": "342659189",
+    "mlId": "MLA2345788568",
+    "variantSku": "YC-04F/BE"
+  },
+  {
+    "tnId": "342215633",
+    "mlId": "MLA1775538463",
+    "variantSku": "dddd"
+  },
+  {
+    "tnId": "341861116",
+    "mlId": "MLA2265584272",
+    "variantSku": "YC-14A/NN"
+  },
+  {
+    "tnId": "341860082",
+    "mlId": "MLA2049220180",
+    "variantSku": "YC-14A/NN"
+  },
+  {
+    "tnId": "341539117",
+    "mlId": "MLA1771909413",
+    "variantSku": "c"
+  },
+  {
+    "tnId": "341216793",
+    "mlId": "MLA2087278128",
+    "variantSku": "YC-14A/NN"
+  },
+  {
+    "tnId": "341216770",
+    "mlId": "MLA1769689023",
+    "variantSku": "YC-14A/BN"
+  },
+  {
+    "tnId": "341103204",
+    "mlId": "MLA1971291084",
+    "variantSku": "YC-04F/BE"
+  },
+  {
+    "tnId": "341103099",
+    "mlId": "MLA1971328930",
+    "variantSku": "YC-10C/MA"
+  },
+  {
+    "tnId": "341058567",
+    "mlId": "MLA2345750132",
+    "variantSku": "YC-04F/MA"
+  },
+  {
+    "tnId": "341214329",
+    "mlId": "MLA1971304026",
+    "variantSku": "YC-14A/NN"
+  },
+  {
+    "tnId": "341214359",
+    "mlId": "MLA1971290594",
+    "variantSku": "YC-14A/BN"
+  },
+  {
+    "tnId": "339733048",
+    "mlId": "MLA2232902090",
+    "variantSku": "000256"
+  },
+  {
+    "tnId": "339735526",
+    "mlId": "MLA3201439884",
+    "variantSku": "DT532/N"
+  },
+  {
+    "tnId": "339735745",
+    "mlId": "MLA1751847461",
+    "variantSku": "DT532/N"
+  },
+  {
+    "tnId": "339735786",
+    "mlId": "MLA1751834197",
+    "variantSku": "DT532/N"
+  },
+  {
+    "tnId": "339737118",
+    "mlId": "MLA3215069240",
+    "variantSku": "dt2607/TRC100"
+  },
+  {
+    "tnId": "339737258",
+    "mlId": "MLA1756957975",
+    "variantSku": "dt2607/TRC100"
+  },
+  {
+    "tnId": "340201763",
+    "mlId": "MLA1763160491",
+    "variantSku": "DT532/N"
+  },
+  {
+    "tnId": "340237848",
+    "mlId": "MLA1490333525",
+    "variantSku": "XBP-P20/N"
+  },
+  {
+    "tnId": "340237892",
+    "mlId": "MLA1490307701",
+    "variantSku": "XBP-P20/N"
+  },
+  {
+    "tnId": "340273997",
+    "mlId": "MLA1763409937",
+    "variantSku": "ddd"
+  },
+  {
+    "tnId": "340274068",
+    "mlId": "MLA1763395849",
+    "variantSku": "ddd"
+  },
+  {
+    "tnId": "340274085",
+    "mlId": "MLA1763395845",
+    "variantSku": "ddd"
+  },
+  {
+    "tnId": "340417407",
+    "mlId": "MLA3236137740",
+    "variantSku": "ddd"
+  },
+  {
+    "tnId": "340417437",
+    "mlId": "MLA3236074472",
+    "variantSku": "ddd"
+  },
+  {
+    "tnId": "340417459",
+    "mlId": "MLA1763885397",
+    "variantSku": "DT532/N"
+  },
+  {
+    "tnId": "341860477",
+    "mlId": "MLA2082814686",
+    "variantSku": "SL24039NTA"
+  },
+  {
+    "tnId": "340274026",
+    "mlId": "MLA1763409935",
+    "variantSku": "ddd"
+  },
+  {
+    "tnId": "341860431",
+    "mlId": "MLA2082892502",
+    "variantSku": "S24039NBE"
+  },
+  {
+    "tnId": "342243402",
+    "mlId": "MLA3273454380",
+    "variantSku": "ddd"
+  },
+  {
+    "tnId": "339724746",
+    "mlId": "MLA1144831948",
+    "variantSku": "dt1295sc"
+  },
+  {
+    "tnId": "339735252",
+    "mlId": "MLA3189346730",
+    "variantSku": "dt1295sc"
+  },
+  {
+    "tnId": "339723859",
+    "mlId": "MLA828147247",
+    "variantSku": "dt1296sm"
+  },
+  {
+    "tnId": "339735307",
+    "mlId": "MLA1748640421",
+    "variantSku": "dt1296sm"
+  },
+  {
+    "tnId": "340499537",
+    "mlId": "MLA1625141249",
+    "variantSku": "Vme-0001"
+  },
+  {
+    "tnId": "341105267",
+    "mlId": "MLA1499027897",
+    "variantSku": "YC-10C/MA"
+  },
+  {
+    "tnId": "341105394",
+    "mlId": "MLA2096233750",
+    "variantSku": "YC-10C/GO"
+  },
+  {
+    "tnId": "341105436",
+    "mlId": "MLA2095968436",
+    "variantSku": "YC-10C/MA"
+  },
+  {
+    "tnId": "341105475",
+    "mlId": "MLA2095930362",
+    "variantSku": "YC-10C/BE"
+  },
+  {
+    "tnId": "341105500",
+    "mlId": "MLA1501392245",
+    "variantSku": "YC-09B/GC"
+  },
+  {
+    "tnId": "341105560",
+    "mlId": "MLA2102404838",
+    "variantSku": "YC-10C/MA"
+  },
+  {
+    "tnId": "341105596",
+    "mlId": "MLA2106895936",
+    "variantSku": "YC-10C/MA"
+  },
+  {
+    "tnId": "342485800",
+    "mlId": "MLA2089108256",
+    "variantSku": "YC-10C/GO"
+  },
+  {
+    "tnId": "342485835",
+    "mlId": "MLA2089006258",
+    "variantSku": "YC-10C/GC"
+  },
+  {
+    "tnId": "341103076",
+    "mlId": "MLA1971330442",
+    "variantSku": "YC-04F/MA"
+  },
+  {
+    "tnId": "340499525",
+    "mlId": "MLA2722498162",
+    "variantSku": "vme-0002"
+  },
+  {
+    "tnId": "342118486",
+    "mlId": "MLA3271614684",
+    "variantSku": "tt-121/N"
+  },
+  {
+    "tnId": "342118521",
+    "mlId": "MLA3271606084",
+    "variantSku": "1"
+  },
+  {
+    "tnId": "342118553",
+    "mlId": "MLA3271603082",
+    "variantSku": "tt-121/SM"
+  },
+  {
+    "tnId": "342118646",
+    "mlId": "MLA3271539658",
+    "variantSku": "tt-121/C"
+  },
+  {
+    "tnId": "339735204",
+    "mlId": "MLA3190508214",
+    "variantSku": "dt1295/mm"
+  },
+  {
+    "tnId": "339735275",
+    "mlId": "MLA1748920477",
+    "variantSku": "dt1295/mc"
+  },
+  {
+    "tnId": "339735409",
+    "mlId": "MLA1749993437",
+    "variantSku": "dt1295/mc"
+  },
+  {
+    "tnId": "339726679",
+    "mlId": "MLA1968798862",
+    "variantSku": "dt-2216-1/N"
+  },
+  {
+    "tnId": "339768604",
+    "mlId": "MLA3223396596",
+    "variantSku": "000295"
+  },
+  {
+    "tnId": "339958216",
+    "mlId": "MLA3226136958",
+    "variantSku": "000299"
+  },
+  {
+    "tnId": "342118752",
+    "mlId": "MLA3271514248",
+    "variantSku": "tt-121/N"
+  },
+  {
+    "tnId": "340238234",
+    "mlId": "MLA1496602551",
+    "variantSku": "XBP-P20/N"
+  },
+  {
+    "tnId": "340415333",
+    "mlId": "MLA1363397933",
+    "variantSku": "pv-0007"
+  },
+  {
+    "tnId": "340415385",
+    "mlId": "MLA1375793963",
+    "variantSku": "PV-0008"
+  },
+  {
+    "tnId": "340415585",
+    "mlId": "MLA1416700987",
+    "variantSku": "PV-0012"
+  },
+  {
+    "tnId": "340689315",
+    "mlId": "MLA3240932152",
+    "variantSku": "RT-192L/NT"
+  },
+  {
+    "tnId": "339726965",
+    "mlId": "MLA1971238726",
+    "variantSku": "00002040"
+  },
+  {
+    "tnId": "339733480",
+    "mlId": "MLA2417899004",
+    "variantSku": "11155"
+  },
+  {
+    "tnId": "340905402",
+    "mlId": "MLA3244574900",
+    "variantSku": "13131"
+  },
+  {
+    "tnId": "342487655",
+    "mlId": "MLA3278200028",
+    "variantSku": "13131"
+  },
+  {
+    "tnId": "342524630",
+    "mlId": "MLA3278836478",
+    "variantSku": "dt1295/mm"
+  }
+]
