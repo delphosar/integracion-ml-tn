@@ -85,4 +85,104 @@ async function updateStock(productId, variantId, newQty) {
   `);
 }
 
-module.exports = { graphql, findVariantBySku, updateStock };
+// Busca el listing de EcomExperts para un producto TiendaNube.
+// Retorna { id } o null si EcomExperts todavía no lo descubrió.
+async function getListingByTnProduct(tnProductId) {
+  try {
+    const result = await graphql(`{
+      listings {
+        readByChannel(owner: tiendanube, productId: "${tnProductId}") {
+          id
+        }
+      }
+    }`);
+    const arr = result?.listings?.readByChannel;
+    return arr?.[0] ?? null;
+  } catch {
+    // EcomExperts puede lanzar error si el listing no existe aún
+    return null;
+  }
+}
+
+// Regla de sincronización de stock Tienda Nube (id fijo para esta cuenta)
+const TN_STOCK_RULE_ID = '4129';
+
+// Obtiene los productos ERP vinculados a un item ML en EcomExperts.
+// Retorna { nubeMlId, erpLinks: [{ productId, qty, variantId? }] }
+async function getMlListingProducts(mlItemId) {
+  const result = await graphql(`{
+    mlListings {
+      read(id: "${mlItemId}") {
+        id
+        productListings {
+          product { id }
+          productVariantListings {
+            ownerId
+            variant { id }
+          }
+        }
+      }
+    }
+  }`);
+
+  const nubeMlId  = result?.mlListings?.read?.id ?? null;
+  const prodListings = result?.mlListings?.read?.productListings ?? [];
+  const erpLinks = [];
+
+  for (const pl of prodListings) {
+    const productId = pl.product?.id;
+    if (!productId) continue;
+    const variantListings = pl.productVariantListings ?? [];
+    if (variantListings.length === 0) {
+      erpLinks.push({ productId, qty: 1 });
+    } else {
+      for (const vl of variantListings) {
+        if (vl.variant?.id) {
+          erpLinks.push({ productId, qty: 1, variantId: vl.variant.id });
+        }
+      }
+    }
+  }
+
+  return { nubeMlId, erpLinks };
+}
+
+// Asigna la regla de sincronización de stock TN y la aplica al listing.
+async function assignAndApplyStockRule(nubeMlId) {
+  await graphql(`
+    mutation {
+      mtListings {
+        asignateListingRule(input: { mtListingId: "${nubeMlId}", mtListingRuleId: "${TN_STOCK_RULE_ID}" }) { id }
+      }
+    }
+  `);
+  await graphql(`
+    mutation {
+      mtListings {
+        applyStockRuleToListing(id: "${nubeMlId}") { id }
+      }
+    }
+  `);
+}
+
+// Vincula un listing de EcomExperts (TN) a productos ERP.
+// productLinks: [{ productId, qty, variantId? }]
+async function linkListingToErp(listingId, productLinks) {
+  const innerItems = productLinks
+    .map(p =>
+      p.variantId
+        ? `{ productId: ${p.productId}, qty: ${p.qty}, variantId: ${p.variantId} }`
+        : `{ productId: ${p.productId}, qty: ${p.qty} }`
+    )
+    .join(', ');
+
+  return graphql(`
+    mutation {
+      listings {
+        link(id: ${listingId}, input: [{ productListing: [${innerItems}] }])
+      }
+    }
+  `);
+}
+
+module.exports = { graphql, findVariantBySku, updateStock, getListingByTnProduct, getMlListingProducts, linkListingToErp, assignAndApplyStockRule };

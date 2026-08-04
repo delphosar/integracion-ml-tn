@@ -159,6 +159,7 @@ function runMigrations() {
       error        TEXT,
       processed_at TEXT
     )`,
+    `ALTER TABLE tn_products ADD COLUMN ecom_link_pending INTEGER DEFAULT 0`,
   ];
   for (const sql of migrations) {
     try { db.run(sql); } catch (_) { /* ya existe, ignorar */ }
@@ -434,6 +435,32 @@ function getErpMapping(mlItemId) {
   return Object.fromEntries(cols.map((c, i) => [c, row[i]]));
 }
 
+// Guarda un nuevo producto TN creado por el nuevo flujo (con link pendiente en EcomExperts)
+function saveTnProductPending(mlItemId, tnProductId) {
+  db.run(
+    `INSERT INTO tn_products (ml_item_id, tn_product_id, uploaded_at, ecom_link_pending)
+     VALUES (?, ?, datetime('now'), 1)
+     ON CONFLICT(ml_item_id) DO UPDATE SET
+       tn_product_id     = excluded.tn_product_id,
+       uploaded_at       = excluded.uploaded_at,
+       last_synced_at    = NULL,
+       ecom_link_pending = 1`,
+    [mlItemId, tnProductId]
+  );
+  saveToFile();
+}
+
+// Retorna todos los items con ecom_link_pending = 1
+function getPendingEcomLinks() {
+  return rawQuery(`SELECT ml_item_id, tn_product_id FROM tn_products WHERE ecom_link_pending = 1`);
+}
+
+// Marca un item como linkeado en EcomExperts (ecom_link_pending = 0)
+function markEcomLinked(mlItemId) {
+  db.run(`UPDATE tn_products SET ecom_link_pending = 0 WHERE ml_item_id = ?`, [mlItemId]);
+  saveToFile();
+}
+
 function saveTnProduct(mlItemId, tnProductId) {
   db.run(
     `INSERT INTO tn_products (ml_item_id, tn_product_id, uploaded_at)
@@ -468,7 +495,7 @@ function rawQuery(sql, params = []) {
 
 module.exports = {
   getDb, upsertItem, saveToFile, startSyncLog, finishSyncLog, getStats,
-  getErpMapping, saveTnProduct, getTnProduct,
+  getErpMapping, saveTnProduct, getTnProduct, saveTnProductPending, getPendingEcomLinks, markEcomLinked,
   saveMlCategory, getDistinctCategoryIds, getExistingCategoryIds, getAllCategories,
   saveTnCategory, getTnCategoryByMlId, getExistingTnCategoryMlIds,
   getProductsForCategoryUpdate, markProductSynced,
