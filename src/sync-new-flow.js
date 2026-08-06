@@ -126,6 +126,12 @@ async function phaseA_DetectAndCreate() {
         continue;
       }
 
+      if (!item.description?.includes('ref:sync')) {
+        console.log(`  [SKIP] ${mlId} sin marker "ref:sync" — no se crea en TN`);
+        stats.skipped++;
+        continue;
+      }
+
       const varCount = item.variations?.length ?? 0;
       console.log(`  [NUEVO] ${mlId} "${item.title.slice(0, 60)}" (${varCount} variaciones)`);
 
