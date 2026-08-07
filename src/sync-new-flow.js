@@ -28,7 +28,7 @@ const {
   saveTnProductPending, getPendingEcomLinks, markEcomLinked,
 } = require('./db');
 const { getValidToken }        = require('./ml-auth');
-const { getAllItemIds, getItemDetail, getItemDescription } = require('./ml-api');
+const { getAllItemIds, getItemDetail, getItemDescription, getItemPromotions } = require('./ml-api');
 const { mapMlItemToTn }        = require('./ml-to-tn-mapper');
 const tnApi                    = require('./tn-api');
 const { getListingByTnProduct, getMlListingProducts, linkListingToErp, assignAndApplyStockRule } = require('./ecom-api');
@@ -42,6 +42,19 @@ const DELAY_MS    = parseInt(process.env.ML_REQUEST_DELAY_MS ?? '300', 10);
 const TN_DELAY_MS = parseInt(process.env.TN_DELAY_MS ?? '1600', 10);
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+
+// Sobreescribe price/original_price del item si hay una promo activa en ML
+// (misma lógica que sync-delta — necesario para SMART/DEAL que no tocan el item directamente)
+async function applyActivePromo(item) {
+  const promos = await getItemPromotions(item.id, process.env.ML_ACCESS_TOKEN);
+  await sleep(DELAY_MS);
+  const activePromo = promos.find(p => p.status === 'started' && p.price > 0) ?? null;
+  if (activePromo) {
+    item.original_price = activePromo.original_price ?? item.price;
+    item.price = activePromo.price;
+    console.log(`    [PROMO:${activePromo.type}] price=${item.price} original=${item.original_price}`);
+  }
+}
 
 // ---------------------------------------------------------------------------
 
@@ -67,6 +80,12 @@ async function main() {
     const statsA = await phaseA_DetectAndCreate();
     console.log(
       `   Resultado: ${statsA.created} creados | ${statsA.skipped} saltados | ${statsA.errors} errores`
+    );
+
+    console.log('\n── Phase A2: Re-chequear items conocidos sin TN (ahora con ref:sync) ──');
+    const statsA2 = await phaseA2_RecheckExisting();
+    console.log(
+      `   Resultado: ${statsA2.created} creados | ${statsA2.skipped} sin ref:sync | ${statsA2.fetched} fetcheados desde ML | ${statsA2.errors} errores`
     );
   }
 
@@ -135,6 +154,7 @@ async function phaseA_DetectAndCreate() {
       const varCount = item.variations?.length ?? 0;
       console.log(`  [NUEVO] ${mlId} "${item.title.slice(0, 60)}" (${varCount} variaciones)`);
 
+      await applyActivePromo(item);
       const tnPayload = mapMlItemToTn(item);
 
       if (!DRY_RUN) {
@@ -158,6 +178,88 @@ async function phaseA_DetectAndCreate() {
 
   if (!DRY_RUN && stats.created > 0) saveToFile();
   return stats;
+}
+
+// ---------------------------------------------------------------------------
+// Phase A2
+// ---------------------------------------------------------------------------
+
+async function phaseA2_RecheckExisting() {
+  const stats = { created: 0, skipped: 0, fetched: 0, errors: 0 };
+
+  // Items activos que ya están en ml_items pero NO en tn_products
+  const candidates = rawQuery(`
+    SELECT i.id, i.title
+    FROM   ml_items i
+    WHERE  i.status = 'active'
+      AND  i.id NOT IN (SELECT ml_item_id FROM tn_products)
+  `);
+
+  console.log(`  ${candidates.length} items activos en DB sin TN product`);
+  if (candidates.length === 0) return stats;
+
+  // Siempre fetchear descripción desde ML API (nunca usar cache) para detectar
+  // cuando el cliente agrega "ref:sync" a una publi existente.
+  // Se aplica LIMIT para no saturar la API en cada run.
+  const toProcess = candidates.slice(0, LIMIT);
+  if (candidates.length > LIMIT) {
+    console.log(`  Chequeando primeros ${LIMIT} de ${candidates.length} (aumentar --limit para más)`);
+  }
+
+  for (const row of toProcess) {
+    try {
+      const desc = await getItemDescription(row.id);
+      await sleep(DELAY_MS);
+      stats.fetched++;
+
+      // Actualizar cache en DB con el valor fresco
+      rawQuery(
+        `UPDATE ml_items SET description = ? WHERE id = ?`,
+        [desc ?? '', row.id]
+      );
+
+      if (!desc?.includes('ref:sync')) {
+        stats.skipped++;
+        continue;
+      }
+      await createInTn(row.id, stats);
+      await sleep(TN_DELAY_MS);
+    } catch (err) {
+      const detail = err.response?.data ? JSON.stringify(err.response.data) : err.message;
+      console.error(`  [ERROR A2] ${row.id}: ${detail.slice(0, 250)}`);
+      stats.errors++;
+    }
+  }
+
+  if (!DRY_RUN && stats.created > 0) saveToFile();
+  return stats;
+}
+
+async function createInTn(mlId, stats) {
+  try {
+    // Necesitamos el item completo para el mapper
+    const item = await getItemDetail(mlId);
+    await sleep(DELAY_MS);
+
+    const varCount = item.variations?.length ?? 0;
+    console.log(`  [A2-NUEVO] ${mlId} "${item.title.slice(0, 60)}" (${varCount} variaciones)`);
+
+    await applyActivePromo(item);
+    const tnPayload = mapMlItemToTn(item);
+
+    if (!DRY_RUN) {
+      const tnProduct = await tnApi.createProduct(tnPayload);
+      saveTnProductPending(mlId, String(tnProduct.id));
+      console.log(`    → TN:${tnProduct.id} creado (ecom_link_pending=1)`);
+    } else {
+      console.log(`    → [DRY-RUN] crearía en TN`);
+    }
+    stats.created++;
+  } catch (err) {
+    const detail = err.response?.data ? JSON.stringify(err.response.data) : err.message;
+    console.error(`  [ERROR A2] ${mlId}: ${detail.slice(0, 250)}`);
+    stats.errors++;
+  }
 }
 
 // ---------------------------------------------------------------------------
